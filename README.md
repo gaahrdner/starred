@@ -834,7 +834,7 @@
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 - [google/winops](https://github.com/google/winops) - Small scripts and libraries for managing Windows in a corporate environment.
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability with an increased number of threads.
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library to manage, query and store RDF triples. Make RDF great again!
 - [stefanoj3/dirstalk](https://github.com/stefanoj3/dirstalk) - Modern alternative to dirbuster/dirb
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
@@ -3757,7 +3757,7 @@
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
-- [qpwo/actual-malware](https://github.com/qpwo/actual-malware) - npm package to upload your private ssh keys to a pastebin
+- [qpwo/actual-malware](https://github.com/qpwo/actual-malware) - Beware supply-chain attacks
 - [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
