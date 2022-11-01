@@ -1570,7 +1570,7 @@
 - [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 - [Endava/cats](https://github.com/Endava/cats) - CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing
 - [seansegal/tincisnotcatan](https://github.com/seansegal/tincisnotcatan) - An online version of Settlers of Catan with additional advanced economic features
-- [commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets) - Examples with how to not use secrets
+- [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) - Examples with how to not use secrets
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [intruder-io/param-miner](https://github.com/intruder-io/param-miner) - Fork of https://github.com/PortSwigger/param-miner for header smuggling research
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
