@@ -634,7 +634,7 @@
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open source fine-grained permissions database inspired by Google Zanzibar
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [aquasecurity/fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers
@@ -1071,7 +1071,7 @@
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
 - [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.
-- [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
+- [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2
 - [mxplusb/cloudflare-sync](https://github.com/mxplusb/cloudflare-sync) - A nice to have, MIT-licensed tool for using Cloudflare as a dynamic DNS provider.
 - [jiusanzhou/surferua](https://github.com/jiusanzhou/surferua) - Surfer User-Agent (surferua) is a lightweight and high performance Golang package that generate HTTP User-Agent strings with particular attention to device type. 高性能 Golang 爬虫浏览器随机库。
 - [skroutz/mistry](https://github.com/skroutz/mistry) - General-purpose build server
@@ -1570,7 +1570,7 @@
 - [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 - [Endava/cats](https://github.com/Endava/cats) - CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing
 - [seansegal/tincisnotcatan](https://github.com/seansegal/tincisnotcatan) - An online version of Settlers of Catan with additional advanced economic features
-- [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) - Examples with how to not use secrets
+- [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [intruder-io/param-miner](https://github.com/intruder-io/param-miner) - Fork of https://github.com/PortSwigger/param-miner for header smuggling research
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
@@ -2587,7 +2587,7 @@
 - [benedekrozemberczki/SGCN](https://github.com/benedekrozemberczki/SGCN) - A PyTorch implementation of "Signed Graph Convolutional Network" (ICDM 2018).
 - [RexYing/gnn-model-explainer](https://github.com/RexYing/gnn-model-explainer) - gnn explainer
 - [ChandlerBang/awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) - Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
-- [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes.
+- [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [Getdeck/getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
@@ -3575,7 +3575,7 @@
 
 ## Shell 
 
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Dev Containers extension and GitHub Codespaces
 - [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [IPS-Hosting/game-images](https://github.com/IPS-Hosting/game-images) - Docker images for several game servers.
 - [Ponjimon/vrising-docker](https://github.com/Ponjimon/vrising-docker) - A Docker image for running a dedicated server for V Rising.
