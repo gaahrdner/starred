@@ -1587,6 +1587,7 @@
 - [oversecured/ovaa](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [doyensec/burpdeveltraining](https://github.com/doyensec/burpdeveltraining) - Material for the training "Developing Burp Suite Extensions – From Manual Testing to Security Automation"
+- [opendiffy/diffy](https://github.com/opendiffy/diffy) - 
 - [jas502n/CVE-2020-5902](https://github.com/jas502n/CVE-2020-5902) - CVE-2020-5902 BIG-IP
 - [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evo
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -2009,7 +2010,7 @@
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
 - [caticoa3/malaria_hero](https://github.com/caticoa3/malaria_hero) - Deployable and containerized CNN for detection of malaria parasites in blood smears where images have been segmented into single cells.
 - [vihart/fiftyfizzbuzzes](https://github.com/vihart/fiftyfizzbuzzes) - Fifty different implementations of Fizzbuzz in Python.
 - [google/TrustScore](https://github.com/google/TrustScore) - To Trust Or Not To Trust A Classifier. A measure of uncertainty for any trained (possibly black-box) classifier which is more effective than the classifier's own implied confidence (e.g. softmax proba
@@ -3564,7 +3565,6 @@
 
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning peersonalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
 - [ElAlev/Wayeb](https://github.com/ElAlev/Wayeb) - Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala.
-- [opendiffy/diffy](https://github.com/opendiffy/diffy) - 
 - [uber-archive/sql-differential-privacy](https://github.com/uber-archive/sql-differential-privacy) - Dataflow analysis & differential privacy for SQL queries. This project is deprecated and not maintained.
 - [cloudstateio/cloudstate](https://github.com/cloudstateio/cloudstate) - Distributed State Management for Serverless
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
