@@ -349,7 +349,6 @@
 - [sepfy/xiaopi](https://github.com/sepfy/xiaopi) - An Open Source Home Security Camera For Raspberry Pi
 - [CyberForce/Pesidious](https://github.com/CyberForce/Pesidious) - Malware Mutation Using Reinforcement Learning and Generative Adversarial Networks
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [Neo23x0/Raccine](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Vaccine
 - [google/makani](https://github.com/google/makani) - Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This r
 - [pmarks-net/ac](https://github.com/pmarks-net/ac) - Wireless A/C controller
@@ -457,7 +456,7 @@
 ## Clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 
@@ -541,6 +540,7 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/gke-cost-optimization-monitoring](https://github.com/GoogleCloudPlatform/gke-cost-optimization-monitoring) - 
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [dailymotion-oss/octopilot](https://github.com/dailymotion-oss/octopilot) - Automate your Gitops workflow, by automatically creating/merging GitHub Pull Requests
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
@@ -1495,6 +1495,7 @@
 - [cyberdefenders/email-header-analyzer](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail Header Analyzer
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [Chicago/Google-Translate-API-Demo](https://github.com/Chicago/Google-Translate-API-Demo) - Using the v2 Google Translate API to translate a web page in the browser.
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
@@ -1516,7 +1517,6 @@
 - [xxdesmus/nslarchive.org](https://github.com/xxdesmus/nslarchive.org) - NSL Archive source code
 - [ustayready/CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Keyfinder🔑 is a tool that let you find keys while surfing the web!
-- [terrill/AU](https://github.com/terrill/AU) - "Accessible University" demo site
 - [sctyner/OpenForSciR](https://github.com/sctyner/OpenForSciR) - Free, online book "Open Forensic Science in R." This book is for anyone looking to do forensic science analysis in a data-driven and open way.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is a DevSecOps and vulnerability management tool.
@@ -1767,6 +1767,7 @@
 - [NSkelsey/aaalm](https://github.com/NSkelsey/aaalm) - Generate network maps from packet captures
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
+- [terrill/AU](https://github.com/terrill/AU) - "Accessible University" demo site
 - [anywhichway/thunderclap](https://github.com/anywhichway/thunderclap) - A key-value, indexed JSON, and graph database plus function oriented server designed for Cloudflare
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
@@ -1791,7 +1792,7 @@
 - [nodemailer/wildduck](https://github.com/nodemailer/wildduck) - Opinionated email server
 - [getfullog/dinoql](https://github.com/getfullog/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [vshymanskyy/randomart](https://github.com/vshymanskyy/randomart) - Generative WebGL Random Art renderer
@@ -1946,7 +1947,7 @@
 
 ## Jupyter Notebook 
 
-- [featurestoreorg/serverless-ml-course](https://github.com/featurestoreorg/serverless-ml-course) - Serverless ML Course for building AI-enabled Prediction Services from models and features
+- [featurestoreorg/serverless-ml-course](https://github.com/featurestoreorg/serverless-ml-course) - Serverless Machine Learning Course for building AI-enabled Prediction Services from models and features
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) - The code from the Machine Learning Bookcamp book and a free course based on the book
 - [practiceprobs/problemsets](https://github.com/practiceprobs/problemsets) - Problem sets from practiceprobs.com
@@ -2794,6 +2795,7 @@
 - [den4uk/andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 - [RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [spacesiren/spacesiren](https://github.com/spacesiren/spacesiren) - A honey token manager and alert system for AWS.
 - [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [m4ll0k/takeover](https://github.com/m4ll0k/takeover) - Sub-Domain TakeOver Vulnerability Scanner
@@ -2820,7 +2822,6 @@
 - [Elizabeth-Warren/warren_organizing_email](https://github.com/Elizabeth-Warren/warren_organizing_email) - 
 - [Elizabeth-Warren/supportal-backend](https://github.com/Elizabeth-Warren/supportal-backend) - A volunteer supporter portal
 - [robert/programming-feedback-for-advanced-beginners](https://github.com/robert/programming-feedback-for-advanced-beginners) - Specific, real-world ways to make your code cleaner and more professional
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
@@ -3814,7 +3815,7 @@
 - [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [fterh/heimdall](https://github.com/fterh/heimdall) - Self-hosted personal email guardian with one-step deployment
