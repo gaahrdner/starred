@@ -647,7 +647,7 @@
 - [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [zimmski/go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code
 - [aaw/histosketch](https://github.com/aaw/histosketch) - A golang streaming histogram sketch. Fast quantiles and counts below a threshold.
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [schollz/duct](https://github.com/schollz/duct) - Inspired by patchbay.pub
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - Build apps that learn and adapt. Time series AI for developers.
@@ -955,7 +955,6 @@
 - [zxsecurity/glugger](https://github.com/zxsecurity/glugger) - The fastest (and least featureful) DNS bruteforcer in the South
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [rs/rest-layer](https://github.com/rs/rest-layer) - REST Layer, Go (golang) REST API framework
-- [62726164/bp](https://github.com/62726164/bp) - A Bloom Filter to Test Compromised Passwords
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
@@ -2160,7 +2159,7 @@
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [randomaccess3/Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC) - Repository of attack and defensive information for Business Email Compromise investigations
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
-- [python-engineer/ml-study-plan](https://github.com/python-engineer/ml-study-plan) - The Ultimate FREE Machine Learning Study Plan
+- [patrickloeber/ml-study-plan](https://github.com/patrickloeber/ml-study-plan) - The Ultimate FREE Machine Learning Study Plan
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [antonio-morales/Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A GitHub Security Lab initiative
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
@@ -3261,7 +3260,7 @@
 - [Tylous/SniffAir](https://github.com/Tylous/SniffAir) - A framework for wireless pentesting.
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
 - [tnich/honssh](https://github.com/tnich/honssh) - HonSSH is designed to log all SSH communications between a client and server.
-- [ansible/awx](https://github.com/ansible/awx) - AWX Project
+- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
@@ -3834,7 +3833,7 @@
 - [HendrikStrobelt/detecting-fake-text](https://github.com/HendrikStrobelt/detecting-fake-text) - Giant Language Model Test Room
 - [aws-samples/aws-bookstore-demo-app](https://github.com/aws-samples/aws-bookstore-demo-app) - AWS Bookstore Demo App is a full-stack sample web application that creates a storefront (and backend) for customers to shop for fictitious books. The entire application can be created with a single te
 - [amazon-archives/aws-full-stack-template](https://github.com/amazon-archives/aws-full-stack-template) - AWS Full-Stack Template is a full-stack sample web application that creates a simple CRUD (create, read, update, delete) app, and provides the foundational services, components, and plumbing needed to
-- [HelloOraculi/komiser](https://github.com/HelloOraculi/komiser) - The open-source cloud environment inspector 👮
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud environment inspector 👮
 - [CollaborationInEncapsulation/reactive-pacman](https://github.com/CollaborationInEncapsulation/reactive-pacman) - Multiplayer Reactive Pac-Man with RSocket
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
