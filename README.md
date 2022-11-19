@@ -576,7 +576,7 @@
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench) - An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
-- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
+- [coder/coder](https://github.com/coder/coder) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
 - [jackc/tern](https://github.com/jackc/tern) - The SQL Fan's Migrator
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
@@ -1365,7 +1365,7 @@
 - [buildkite/lifecycled](https://github.com/buildkite/lifecycled) - A daemon for responding to AWS AutoScaling Lifecycle Hooks
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [mumoshu/concourse-aws](https://github.com/mumoshu/concourse-aws) - Auto-scaling Concourse CI v2.2.1 on AWS with Terraform (since 2016.04.14)
 - [mmcloughlin/globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
@@ -2646,8 +2646,8 @@
 - [yogeshkk/K8sPurger](https://github.com/yogeshkk/K8sPurger) - Hunt Unused Resources In Kubernetes
 - [DigeeX/raider](https://github.com/DigeeX/raider) - DEPRECATED, please use the new repository from OWASP: https://github.com/OWASP/raider
 - [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
-- [ovotech/domain-protect-gcp](https://github.com/ovotech/domain-protect-gcp) - Protect against subdomain takeover
-- [ovotech/domain-protect](https://github.com/ovotech/domain-protect) - Protect against subdomain takeover
+- [domain-protect/domain-protect-gcp](https://github.com/domain-protect/domain-protect-gcp) - Protect against subdomain takeover
+- [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - Protect against subdomain takeover
 - [doitintl/iris3](https://github.com/doitintl/iris3) - An upgraded and improved version of the Iris automatic GCP-labeling project
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [mspicer/pcapinator](https://github.com/mspicer/pcapinator) - A tool for processing a lot of pcaps using tshark
@@ -2900,7 +2900,7 @@
 - [drewstinnett/cif-docker-noroot](https://github.com/drewstinnett/cif-docker-noroot) - Run CIF in a docker container without the need for root
 - [CommunityHoneyNetwork/chn-quickstart](https://github.com/CommunityHoneyNetwork/chn-quickstart) - Helpers for getting CHN up and running through the Quickstart guide
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
-- [awslabs/autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML for Image, Text, and Tabular Data
+- [awslabs/autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
 - [RhinoSecurityLabs/ccat](https://github.com/RhinoSecurityLabs/ccat) - Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
