@@ -2647,7 +2647,7 @@
 - [DigeeX/raider](https://github.com/DigeeX/raider) - DEPRECATED, please use the new repository from OWASP: https://github.com/OWASP/raider
 - [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [domain-protect/domain-protect-gcp](https://github.com/domain-protect/domain-protect-gcp) - Protect against subdomain takeover
-- [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - Protect against subdomain takeover
+- [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
 - [doitintl/iris3](https://github.com/doitintl/iris3) - An upgraded and improved version of the Iris automatic GCP-labeling project
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [mspicer/pcapinator](https://github.com/mspicer/pcapinator) - A tool for processing a lot of pcaps using tshark
