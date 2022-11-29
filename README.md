@@ -530,6 +530,7 @@
 
 ## GDScript 
 
+- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [db0/Stable-Horde-Client-Addon](https://github.com/db0/Stable-Horde-Client-Addon) - A Godot addon for using Stable Horde
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 
@@ -1454,7 +1455,6 @@
 - [minamijoyo/tfmigrate-atlantis-demo](https://github.com/minamijoyo/tfmigrate-atlantis-demo) - A demo for tfmigrate with Atlantis
 - [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) - End-to-end modular samples for Terraform on GCP.
-- [GoogleCloudPlatform/monitoring-dashboard-samples](https://github.com/GoogleCloudPlatform/monitoring-dashboard-samples) - 
 - [jdhollis/bastions-on-demand](https://github.com/jdhollis/bastions-on-demand) - Create and destroy bastions on demand with Fargate.
 - [terraform-google-modules/terraform-google-pubsub](https://github.com/terraform-google-modules/terraform-google-pubsub) - This module makes it easy to create Google Cloud Pub/Sub topic and subscriptions associated with the topic.
 - [GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops) - 
@@ -1573,7 +1573,7 @@
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [intruder-io/param-miner](https://github.com/intruder-io/param-miner) - Fork of https://github.com/PortSwigger/param-miner for header smuggling research
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration pipelines from APIs, databases & files to warehouses & lakes.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline and dbus interface for signalapp/libsignal-service-java
@@ -2062,6 +2062,7 @@
 
 ## Makefile 
 
+- [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [counteractive/incident-response-plan-template](https://github.com/counteractive/incident-response-plan-template) - A concise, directive, specific, flexible, and free incident response plan template
 - [singer-io/getting-started](https://github.com/singer-io/getting-started) - This repository is a getting started guide to Singer.
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
@@ -2644,6 +2645,7 @@
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [breakerspace/weaponizing-censors](https://github.com/breakerspace/weaponizing-censors) - censors pose a threat to the entire Internet
+- [GoogleCloudPlatform/monitoring-dashboard-samples](https://github.com/GoogleCloudPlatform/monitoring-dashboard-samples) - 
 - [yogeshkk/K8sPurger](https://github.com/yogeshkk/K8sPurger) - Hunt Unused Resources In Kubernetes
 - [DigeeX/raider](https://github.com/DigeeX/raider) - DEPRECATED, please use the new repository from OWASP: https://github.com/OWASP/raider
 - [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
@@ -2698,7 +2700,7 @@
 - [HoloClean/holoclean](https://github.com/HoloClean/holoclean) - A Machine Learning System for Data Enrichment.
 - [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
 - [CyberPunkMetalHead/Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) - This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [minimaxir/aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [allo-/virtual_webcam_background](https://github.com/allo-/virtual_webcam_background) - Use a virtual webcam background and overlays with body-pix and v4l2loopback
