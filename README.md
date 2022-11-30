@@ -140,6 +140,7 @@
 
 ## C 
 
+- [gojue/ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
 - [PurpleVsGreen/beacown](https://github.com/PurpleVsGreen/beacown) - 
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
@@ -541,6 +542,8 @@
 
 ## Go 
 
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - loxilb provides service type external load-balancer for  K8s using eBPF as its core engine
+- [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) - Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead
 - [GoogleCloudPlatform/gke-cost-optimization-monitoring](https://github.com/GoogleCloudPlatform/gke-cost-optimization-monitoring) - 
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [dailymotion-oss/octopilot](https://github.com/dailymotion-oss/octopilot) - Automate your Gitops workflow, by automatically creating/merging GitHub Pull Requests
@@ -2558,6 +2561,7 @@
 
 ## Python 
 
+- [MurtyShikhar/LanguagePatching](https://github.com/MurtyShikhar/LanguagePatching) - Code for our EMNLP '22 paper "Fixing Model Bugs with Natural Language Patches"
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [canimus/cuallee](https://github.com/canimus/cuallee) - A data quality acceleration library to get data sets verified in a friendly interface
 - [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
@@ -3749,6 +3753,7 @@
 
 ## TypeScript 
 
+- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
