@@ -542,6 +542,7 @@
 
 ## Go 
 
+- [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [google/mangle](https://github.com/google/mangle) - 
 - [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - loxilb provides service type external load-balancer for  K8s using eBPF as its core engine
 - [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) - Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead
@@ -680,7 +681,7 @@
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-push hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [irsl/gcp-dhcp-takeover-code-exec](https://github.com/irsl/gcp-dhcp-takeover-code-exec) - Google Compute Engine (GCE) VM takeover via DHCP flood - gain root access by getting SSH keys added by google_guest_agent
 - [awgh/ratnet](https://github.com/awgh/ratnet) - Ratnet is a prototype anonymity network for mesh routing and embedded scenarios.
@@ -1948,6 +1949,7 @@
 
 ## Jupyter Notebook 
 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 - [featurestoreorg/serverless-ml-course](https://github.com/featurestoreorg/serverless-ml-course) - Serverless Machine Learning Course for building AI-enabled Prediction Services from models and features
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
