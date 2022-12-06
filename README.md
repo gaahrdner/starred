@@ -553,7 +553,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [micro/services](https://github.com/micro/services) - Real World Micro Services
-- [coroot/coroot](https://github.com/coroot/coroot) - A zero-instrumentation observability for microservice architectures.
+- [coroot/coroot](https://github.com/coroot/coroot) - A zero-instrumentation observability tool for microservice architectures.
 - [volution/kawipiko](https://github.com/volution/kawipiko) - kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
@@ -2678,7 +2678,7 @@
 - [datamade/probablepeople](https://github.com/datamade/probablepeople) - :family: a python library for parsing unstructured western names into name components.
 - [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 The most advanced MLOps platform for multimodal AI on the cloud · Neural Search · Creative AI · Cloud Native
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [Pirate-Crew/IPTV](https://github.com/Pirate-Crew/IPTV) - Search and perform brute force attacks on illegal IPTV Servers
 - [datascopeanalytics/traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis
 - [lucidrains/segformer-pytorch](https://github.com/lucidrains/segformer-pytorch) - Implementation of Segformer, Attention + MLP neural network for segmentation, in Pytorch
@@ -3231,7 +3231,7 @@
 - [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
 - [phishai/phish-ai-api](https://github.com/phishai/phish-ai-api) - Official python API for Phish.AI public and private API to detect zero-day phishing websites
 - [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
 - [bijection/sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
