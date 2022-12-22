@@ -140,6 +140,7 @@
 
 ## C 
 
+- [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
 - [PurpleVsGreen/beacown](https://github.com/PurpleVsGreen/beacown) - 
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
@@ -507,7 +508,7 @@
 
 ## Elixir 
 
-- [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
+- [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [GoogleCloudPlatform/elixir-samples](https://github.com/GoogleCloudPlatform/elixir-samples) - A collection of samples on using Elixir with Google Cloud Platform.
 - [ScenicFramework/scenic](https://github.com/ScenicFramework/scenic) - Core Scenic library
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
@@ -542,13 +543,15 @@
 
 ## Go 
 
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [ConductorOne/baton](https://github.com/ConductorOne/baton) - A toolkit for auditing infrastructure access
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [google/mangle](https://github.com/google/mangle) - 
-- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - loxilb provides service type external load-balancer for  K8s using eBPF as its core engine
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - loxilb provides service type external load-balancer for  K8s using eBPF as its core engine. Powering Edge/5G/IoT/XaaS Apps.
 - [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) - Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead
 - [GoogleCloudPlatform/gke-cost-optimization-monitoring](https://github.com/GoogleCloudPlatform/gke-cost-optimization-monitoring) - 
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
@@ -679,7 +682,7 @@
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
 - [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously
 - [doitintl/kubeip](https://github.com/doitintl/kubeip) - Assign static external IPs from predefined pool of external IP addresses to Google GKE nodes so your customers could whitelist them
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Signing containers (and other artifacts) using Sigstore
 - [danopstech/starlink_exporter](https://github.com/danopstech/starlink_exporter) - 📡  Prometheus exporter that exposes metrics from SpaceX Starlink Dish
 - [planetlabs/draino](https://github.com/planetlabs/draino) - Automatically cordon and drain Kubernetes nodes based on node conditions
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
@@ -2136,6 +2139,8 @@
 
 ## Others 
 
+- [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [LirongWu/awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) - Awesome Graph Self-Supervised Learning
@@ -2574,6 +2579,8 @@
 
 ## Python 
 
+- [tensorflow/datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
 - [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
 - [kvh/common-model](https://github.com/kvh/common-model) - 
@@ -2621,7 +2628,7 @@
 - [torerobo/maigret](https://github.com/torerobo/maigret) - Collect a dossier on a person by username from a huge number of sites
 - [safe-graph/RioGNN](https://github.com/safe-graph/RioGNN) - Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks
 - [YingtongDou/CARE-GNN](https://github.com/YingtongDou/CARE-GNN) - Code for CIKM 2020 paper Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [lucidrains/bidirectional-cross-attention](https://github.com/lucidrains/bidirectional-cross-attention) - A simple cross attention that updates both the source and target in one step
 - [splunk/security_content](https://github.com/splunk/security_content) - Splunk Security Content
