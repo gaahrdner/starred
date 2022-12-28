@@ -3453,6 +3453,7 @@
 
 ## Ruby 
 
+- [kinduff/dogapi.dog](https://github.com/kinduff/dogapi.dog) - The Dog API provides dog facts as a service!
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A Ruby gem (and Docker image) to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
