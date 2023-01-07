@@ -257,6 +257,7 @@
 - [bbbrumley/portsmash](https://github.com/bbbrumley/portsmash) - 
 - [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso) - PoC for Dirty COW (CVE-2016-5195)
 - [videogamepreservation/descent](https://github.com/videogamepreservation/descent) - Descent (1995) by Parallax Software Corp.
+- [ihucos/plash](https://github.com/ihucos/plash) - Build and run layered root filesystems.
 - [Palakis/obs-ndi](https://github.com/Palakis/obs-ndi) - NewTek NDI integration for OBS Studio
 - [wb2osz/direwolf](https://github.com/wb2osz/direwolf) - Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -685,7 +686,7 @@
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [frigus02/kyml](https://github.com/frigus02/kyml) - A CLI, which helps you to work with and deploy plain Kubernetes YAML files.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
@@ -3210,7 +3211,6 @@
 - [alexhunsley/numpy-vox-io](https://github.com/alexhunsley/numpy-vox-io) - Python module for parsing and writing MagicaVoxel vox files using numpy
 - [MuckRock/muckrock](https://github.com/MuckRock/muckrock) - MuckRock's source code - Please report bugs, issues and feature requests to info@muckrock.com
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
-- [ihucos/plash](https://github.com/ihucos/plash) - Build and run layered root filesystems.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [GoogleCloudPlatform/runtimes-common](https://github.com/GoogleCloudPlatform/runtimes-common) - Common tools used by the GCP runtimes.
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
