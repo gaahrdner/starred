@@ -327,6 +327,7 @@
 
 ## C++ 
 
+- [function3d/petalot](https://github.com/function3d/petalot) - PET Bottle To 3D Filament
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [quinndiggity/hacking_slot_machines](https://github.com/quinndiggity/hacking_slot_machines) - Hacking slot machines.
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
