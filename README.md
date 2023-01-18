@@ -182,7 +182,7 @@
 - [dsnezhkov/zombieant](https://github.com/dsnezhkov/zombieant) - Zombie Ant Farm: Primitives and Offensive Tooling for Linux EDR evasion.
 - [willfindlay/bpfbox](https://github.com/willfindlay/bpfbox) - 🐝 BPFBox 📦 Exploring process confinement in eBPF
 - [captain-amygdala/pistorm](https://github.com/captain-amygdala/pistorm) - 68k Hardware Emulator
-- [criblio/appscope](https://github.com/criblio/appscope) - General-Purpose Observable Application Telemetry System
+- [criblio/appscope](https://github.com/criblio/appscope) - Gain observability into any Linux command or application with no code modification
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
 - [intel/kernel-fuzzer-for-xen-project](https://github.com/intel/kernel-fuzzer-for-xen-project) - Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL
@@ -455,7 +455,6 @@
 - [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [syphon1c/Threatelligence](https://github.com/syphon1c/Threatelligence) - Threatelligence is a simple cyber threat intelligence feed collector, using Elasticsearch, Kibana and Python to automatically collect intelligence from custom or public sources. Automatically updates 
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [vaibhawvipul/First-steps-towards-Deep-Learning](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning) - This is an open sourced book on deep learning.
 - [Warhammer40kGroup/wh40k-icon](https://github.com/Warhammer40kGroup/wh40k-icon) - Warhammer 40000 icons.
 - [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
@@ -558,7 +557,7 @@
 ## Go 
 
 - [makeworld-the-better-one/didder](https://github.com/makeworld-the-better-one/didder) - An extensive, fast, and accurate command-line image dithering tool.
-- [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
+- [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -2252,7 +2251,6 @@
 - [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
 - [zqjzqj/mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
-- [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [pdelfino/deep-work-companies](https://github.com/pdelfino/deep-work-companies) - This is a list of companies that endorse Cal Newport's Deep Work approach.
 - [AdamMarciniak/CygnusX1](https://github.com/AdamMarciniak/CygnusX1) - A thrust-vectoring model rocket flight computer. Comes with all you need to keep your rocket pointing up.
 - [mattfeltonma/certifications](https://github.com/mattfeltonma/certifications) - Repository for exam certification custom study guides
@@ -2604,6 +2602,7 @@
 
 ## Python 
 
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [DownrightNifty/gh_hack_PoC](https://github.com/DownrightNifty/gh_hack_PoC) - 
@@ -2625,7 +2624,7 @@
 - [seaglass-project/seaglass](https://github.com/seaglass-project/seaglass) - 
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
-- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [anufrievroman/angry-reviewer](https://github.com/anufrievroman/angry-reviewer) - Style corrector for academic writing and scientific papers at angryreviewer.com
@@ -2788,6 +2787,7 @@
 - [fontworks-fonts/Train](https://github.com/fontworks-fonts/Train) - A font file available from Google Fonts.
 - [micah5/ace-attorney-reddit-bot](https://github.com/micah5/ace-attorney-reddit-bot) - 👨🏼‍⚖️ reddit bot that turns comment chains into ace attorney scenes
 - [ail-project/ail-framework](https://github.com/ail-project/ail-framework) - AIL framework - Analysis Information Leak framework
+- [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [Santandersecurityresearch/corsair_scan](https://github.com/Santandersecurityresearch/corsair_scan) - Corsair_scan is a security tool to test Cross-Origin Resource Sharing (CORS).
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
@@ -3539,6 +3539,7 @@
 
 ## Rust 
 
+- [evilsocket/medusa](https://github.com/evilsocket/medusa) - A fast and secure multi protocol honeypot.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
@@ -3695,6 +3696,7 @@
 - [z0ph/aws-security-toolbox](https://github.com/z0ph/aws-security-toolbox) - AWS Security Tools (AST) in a simple Docker container. :package:
 - [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [hak5/sharkjack-payloads](https://github.com/hak5/sharkjack-payloads) - The Official Hak5 Shark Jack Payload Repository
 - [mayankk2308/set-egpu](https://github.com/mayankk2308/set-egpu) - Display-agnostic acceleration of macOS applications using external GPUs.
 - [cehkunal/Openvas-Automation](https://github.com/cehkunal/Openvas-Automation) - The instructions provide a simpler way to install and run openvas docker container. The script automates the process of scanning a host provided with (IP, SSH Username and SSH Password). This automati
@@ -3816,6 +3818,7 @@
 
 ## TypeScript 
 
+- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
