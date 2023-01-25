@@ -664,7 +664,7 @@
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Zanzibar-Inspired Fine-Grained Permissions Database
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-Inspired Fine-Grained Permissions Database
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [aquasecurity/fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers
 - [aquasecurity/postee](https://github.com/aquasecurity/postee) - Simple message routing system that receives input messages through a webhook interface and can enforce actions using predefined outputs via integrations.
@@ -3745,7 +3745,7 @@
 - [revsys/optimized-python-docker](https://github.com/revsys/optimized-python-docker) - Optimized Python 3.x images for Docker
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [meAmidos/dcind](https://github.com/meAmidos/dcind) - Docker image with Docker Compose. Useful as a base image for integration tests in Concourse CI.
-- [starkandwayne/concourse-pullrequest-playtime](https://github.com/starkandwayne/concourse-pullrequest-playtime) - 
+- [Qarik-Group/concourse-pullrequest-playtime](https://github.com/Qarik-Group/concourse-pullrequest-playtime) - 
 - [vmware-archive/pipelines](https://github.com/vmware-archive/pipelines) - A collection of pipelines used by the Concourse Team
 - [tfutils/tfscaffold](https://github.com/tfutils/tfscaffold) - 
 - [kubermesh/kubermesh](https://github.com/kubermesh/kubermesh) - Bare metal, self-hosted, self-healing/provisioning, mesh network kubernetes cluster
