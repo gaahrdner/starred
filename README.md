@@ -2060,6 +2060,7 @@
 - [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 - [triestpa/Cryptocurrency-Analysis-Python](https://github.com/triestpa/Cryptocurrency-Analysis-Python) - Open-Source Tutorial For Analyzing and Visualizing Cryptocurrency Data
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [bioinf-jku/SNNs](https://github.com/bioinf-jku/SNNs) - Tutorials and implementations for "Self-normalizing networks"
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
 - [gianlucahmd/loads_clustering](https://github.com/gianlucahmd/loads_clustering) - Data Science project to cluster loads coming from http://en.openei.org/datasets/files/961/pub/
@@ -2638,6 +2639,7 @@
 - [anufrievroman/angry-reviewer](https://github.com/anufrievroman/angry-reviewer) - Style corrector for academic writing and scientific papers at angryreviewer.com
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads (NO LONGER SUPPORTED)
 - [temporalio/sdk-python](https://github.com/temporalio/sdk-python) - Temporal Python SDK
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
@@ -3365,7 +3367,6 @@
 - [Kyubyong/transformer](https://github.com/Kyubyong/transformer) - A TensorFlow Implementation of the Transformer: Attention Is All You Need
 - [leostat/rtfm](https://github.com/leostat/rtfm) - A database of common, interesting or useful commands, in one handy referable form
 - [20c/vaping](https://github.com/20c/vaping) - vaping is a healthy alternative to SmokePing!
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [facebookresearch/end-to-end-negotiator](https://github.com/facebookresearch/end-to-end-negotiator) - Deal or No Deal? End-to-End Learning for Negotiation Dialogues
 - [JoseTomasTocino/yotaq](https://github.com/JoseTomasTocino/yotaq) - yotaq - Your Own Task Queue for Python
 - [vulnersCom/getsploit](https://github.com/vulnersCom/getsploit) - Command line utility for searching and downloading exploits
@@ -3651,7 +3652,6 @@
 
 - [minamijoyo/tfmigrate-atlantis-example](https://github.com/minamijoyo/tfmigrate-atlantis-example) - An example for tfmigrate with Atlantis
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
-- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [IPS-Hosting/game-images](https://github.com/IPS-Hosting/game-images) - Docker images for several game servers.
 - [Ponjimon/vrising-docker](https://github.com/Ponjimon/vrising-docker) - A Docker image for running a dedicated server for V Rising.
 - [ich777/docker-steamcmd-server](https://github.com/ich777/docker-steamcmd-server) - Simple Dockerfile that installs steamcmd and a selected game server
@@ -3917,7 +3917,7 @@
 - [HendrikStrobelt/detecting-fake-text](https://github.com/HendrikStrobelt/detecting-fake-text) - Giant Language Model Test Room
 - [aws-samples/aws-bookstore-demo-app](https://github.com/aws-samples/aws-bookstore-demo-app) - AWS Bookstore Demo App is a full-stack sample web application that creates a storefront (and backend) for customers to shop for fictitious books. The entire application can be created with a single te
 - [amazon-archives/aws-full-stack-template](https://github.com/amazon-archives/aws-full-stack-template) - AWS Full-Stack Template is a full-stack sample web application that creates a simple CRUD (create, read, update, delete) app, and provides the foundational services, components, and plumbing needed to
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud environment inspector 👮
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager
 - [CollaborationInEncapsulation/reactive-pacman](https://github.com/CollaborationInEncapsulation/reactive-pacman) - Multiplayer Reactive Pac-Man with RSocket
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
