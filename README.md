@@ -567,7 +567,7 @@
 - [ConductorOne/baton](https://github.com/ConductorOne/baton) - A toolkit for auditing infrastructure access
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [google/mangle](https://github.com/google/mangle) - 
-- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - loxilb provides service load-balancer for K8s using eBPF as its core engine. Powering Edge|5G|IoT|XaaS Apps.
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native service load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
 - [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) - Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead
 - [GoogleCloudPlatform/gke-cost-optimization-monitoring](https://github.com/GoogleCloudPlatform/gke-cost-optimization-monitoring) - 
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
