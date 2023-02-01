@@ -629,6 +629,7 @@
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [firefart/stunner](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
@@ -778,6 +779,7 @@
 - [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector) - 🚨 The artifactcollector is a customizable agent to collect forensic artifacts on any Windows, macOS or Linux system
 - [mfbx9da4/brightpath-backend](https://github.com/mfbx9da4/brightpath-backend) - Find the safest well lit walking path between two locations on earth.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project
@@ -1153,7 +1155,6 @@
 - [aaronedell/deleto](https://github.com/aaronedell/deleto) - Randomly delete X number of files from a directory
 - [michaelfig/k8s-copier](https://github.com/michaelfig/k8s-copier) - Kubernetes dynamic resource-to-resource copier
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [eBay/akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -1521,7 +1522,6 @@
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts) - My collection of bitmap fonts pulled from various demoscene archives over the years
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [cyberdefenders/email-header-analyzer](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail Header Analyzer
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -1933,7 +1933,6 @@
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
 - [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [node-ci/nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for running Ansible playbooks
 - [mdb/concourse-consul-kv-resource](https://github.com/mdb/concourse-consul-kv-resource) - A Concourse resource for getting and setting values to and from Consul's KV store
 - [samyk/poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
@@ -2114,6 +2113,7 @@
 - [osresearch/heads](https://github.com/osresearch/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 - [cpilsworth/cloudflare-worker-action](https://github.com/cpilsworth/cloudflare-worker-action) - GitHub action for deploying a worker to Cloudflare
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [cloudflare/hellogopher](https://github.com/cloudflare/hellogopher) - Hellogopher: "just clone and make" your conventional Go project
 - [mlafeldt/docker-simianarmy](https://github.com/mlafeldt/docker-simianarmy) - Docker image of Netflix's Simian Army
@@ -2608,6 +2608,7 @@
 
 ## Python 
 
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [moj-analytical-services/splink](https://github.com/moj-analytical-services/splink) - Fast, accurate and scalable probabilistic data linkage using your choice of SQL backend
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning for CPUs, GPUs, Accelerators and Heterogeneous Clusters
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.
@@ -3919,6 +3920,7 @@
 - [HendrikStrobelt/detecting-fake-text](https://github.com/HendrikStrobelt/detecting-fake-text) - Giant Language Model Test Room
 - [aws-samples/aws-bookstore-demo-app](https://github.com/aws-samples/aws-bookstore-demo-app) - AWS Bookstore Demo App is a full-stack sample web application that creates a storefront (and backend) for customers to shop for fictitious books. The entire application can be created with a single te
 - [amazon-archives/aws-full-stack-template](https://github.com/amazon-archives/aws-full-stack-template) - AWS Full-Stack Template is a full-stack sample web application that creates a simple CRUD (create, read, update, delete) app, and provides the foundational services, components, and plumbing needed to
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager
 - [CollaborationInEncapsulation/reactive-pacman](https://github.com/CollaborationInEncapsulation/reactive-pacman) - Multiplayer Reactive Pac-Man with RSocket
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
@@ -3978,7 +3980,6 @@
 ## Vue 
 
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [VictorioBerra/patch-me](https://github.com/VictorioBerra/patch-me) - A GUI for services like https://patchbay.pub/
 - [bitquery/widgets](https://github.com/bitquery/widgets) - Widgets for blockchain data visualizations
