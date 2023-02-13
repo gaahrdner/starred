@@ -113,6 +113,7 @@
 
 ## Assembly 
 
+- [ebitengine/purego](https://github.com/ebitengine/purego) - 
 - [osresearch/airbreak](https://github.com/osresearch/airbreak) - CPAP jailbreak to allow it to be used as a temporary ventilator
 - [cromulencellc/hackasat-qualifier-2020](https://github.com/cromulencellc/hackasat-qualifier-2020) - Open source release of challenges and other code used in the Hack-A-Sat Qualifier in 2020.
 - [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
@@ -2612,6 +2613,9 @@
 
 ## Python 
 
+- [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
+- [MichalGeyer/plug-and-play](https://github.com/MichalGeyer/plug-and-play) - Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”
+- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [yuvadm/krakensdr_pr](https://github.com/yuvadm/krakensdr_pr) - Passive Radar Code for the KrakenSDR
 - [mfkiwl/krakensdr_pr](https://github.com/mfkiwl/krakensdr_pr) - Passive Radar Code for the KrakenSDR
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
