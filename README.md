@@ -2704,7 +2704,7 @@
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
 - [fastforwardlabs/deepad](https://github.com/fastforwardlabs/deepad) - Deep Learning for Anomaly Deteection
 - [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information
@@ -3846,6 +3846,7 @@
 
 ## TypeScript 
 
+- [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Cross Channel Customer Messaging Platform that you can self host. Open Source alternative to Braze / Iterable / One Signal / Customer Io. Use Laudspeaker to send produc
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [open-taggy/taggy](https://github.com/open-taggy/taggy) - taggy is a typescript-based frontend package to automatically tag (or categorize) textual content.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
