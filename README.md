@@ -1534,7 +1534,6 @@
 - [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts) - My collection of bitmap fonts pulled from various demoscene archives over the years
 - [cyberdefenders/email-header-analyzer](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail Header Analyzer
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [Chicago/Google-Translate-API-Demo](https://github.com/Chicago/Google-Translate-API-Demo) - Using the v2 Google Translate API to translate a web page in the browser.
@@ -3704,6 +3703,7 @@
 - [th3hack3rwiz/Lazy-FuzzZ](https://github.com/th3hack3rwiz/Lazy-FuzzZ) - Sometimes we want to fuzz a set of sub-domain URLs with a common wordlist. Fuzzing them one by one is a tedious task, not to mention the false positives we obtain in those results. To solve this probl
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [erik-smit/oohhh-what-does-this-ipmi-doooo-no-deedee-nooooo](https://github.com/erik-smit/oohhh-what-does-this-ipmi-doooo-no-deedee-nooooo) - 
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [redcode-labs/Citadel](https://github.com/redcode-labs/Citadel) - Collection of pentesting scripts
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [0xdekster/deksterecon](https://github.com/0xdekster/deksterecon) - Web Application recon automation
