@@ -2622,6 +2622,7 @@
 
 ## Python 
 
+- [vszal/pop-kustomize](https://github.com/vszal/pop-kustomize) - End-to-End Google Cloud CI/CD example repo and tutorial
 - [amazon-science/mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
