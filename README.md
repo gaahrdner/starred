@@ -792,7 +792,7 @@
 - [mfbx9da4/brightpath-backend](https://github.com/mfbx9da4/brightpath-backend) - Find the safest well lit walking path between two locations on earth.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers. 数据整合
 - [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project
 - [stevelacy/daz](https://github.com/stevelacy/daz) - Composable HTML components in Golang
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -1796,7 +1796,7 @@
 - [sbarry50/vue-business-hours](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours. Supports days of the week, holidays and any other special business hours.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) - A DNS rebinding attack framework.
-- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki.
+- [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www]
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [noahlevenson/stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for AI
 - [GoogleCloudPlatform/cloudbuild-integration-testing](https://github.com/GoogleCloudPlatform/cloudbuild-integration-testing) - Example of techniques for using Google Cloud Build to do integration tests of a microservices application
