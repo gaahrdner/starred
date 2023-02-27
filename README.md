@@ -563,6 +563,7 @@
 
 ## Go 
 
+- [sherlock-project/enola](https://github.com/sherlock-project/enola) - This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
 - [TimothyStiles/poly](https://github.com/TimothyStiles/poly) - A Go package for engineering organisms.
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests.
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
@@ -2177,6 +2178,7 @@
 
 ## Others 
 
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Oxen-AI/oxen-release](https://github.com/Oxen-AI/oxen-release) - Official repository for docs and releases of the Oxen CLI
 - [TimothyStiles/how-to-synbio](https://github.com/TimothyStiles/how-to-synbio) - The resources I always recommend to new synthetic biologists.
 - [sb-ocr/pi-terminal](https://github.com/sb-ocr/pi-terminal) - 
@@ -2624,7 +2626,7 @@
 
 - [vszal/pop-kustomize](https://github.com/vszal/pop-kustomize) - End-to-End Google Cloud CI/CD example repo and tutorial
 - [amazon-science/mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
-- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [MichalGeyer/plug-and-play](https://github.com/MichalGeyer/plug-and-play) - Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”
@@ -3818,7 +3820,7 @@
 
 ## Svelte 
 
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source web IDE, scalable runtime and platform for serverless, workflows and UIs
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [filedescriptor/untrusted-types](https://github.com/filedescriptor/untrusted-types) - 
 
 ## Swift 
