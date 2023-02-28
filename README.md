@@ -594,7 +594,7 @@
 - [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them.
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
 - [kerbyj/goLazagne](https://github.com/kerbyj/goLazagne) - Go library for credentials recovery
 - [vyrus001/msflib](https://github.com/vyrus001/msflib) - A golang library designed to interact with Metasploit
 - [aus/gopherheaven](https://github.com/aus/gopherheaven) - Go implementation of the Heaven's Gate technique
@@ -664,7 +664,7 @@
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 - [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
-- [clusternet/clusternet](https://github.com/clusternet/clusternet) - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
+- [clusternet/clusternet](https://github.com/clusternet/clusternet) - Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet ⎈
 - [trufflesecurity/driftwood](https://github.com/trufflesecurity/driftwood) - Private key usage verification
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) - 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [eatonphil/dbcore](https://github.com/eatonphil/dbcore) - Generate applications powered by your database.
@@ -1205,7 +1205,7 @@
 - [clearcontainers/runtime](https://github.com/clearcontainers/runtime) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
-- [rancher/terraform-controller](https://github.com/rancher/terraform-controller) - Use K8s to Run Terraform
+- [ivan-claire/terraform-controller](https://github.com/ivan-claire/terraform-controller) - Use K8s to Run Terraform
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
@@ -1356,7 +1356,7 @@
 - [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [barnacs/compy](https://github.com/barnacs/compy) - HTTP/HTTPS compression proxy
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
+- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [twitchscience/kinsumer](https://github.com/twitchscience/kinsumer) - Native Go consumer for AWS Kinesis streams.
@@ -1589,7 +1589,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
 - [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
-- [sruda/steroidesign](https://github.com/sruda/steroidesign) - Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.
+- [serudda/steroidesign](https://github.com/serudda/steroidesign) - Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [SamWhited/typo](https://github.com/SamWhited/typo) - This repo has been moved to https://git.sr.ht/~samwhited/typo
 
@@ -3860,7 +3860,7 @@
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [open-taggy/taggy](https://github.com/open-taggy/taggy) - taggy is a typescript-based frontend package to automatically tag (or categorize) textual content.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
