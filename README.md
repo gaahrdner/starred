@@ -142,7 +142,6 @@
 ## Bro 
 
 - [antipatico/zeek-dronebl-dnsbl](https://github.com/antipatico/zeek-dronebl-dnsbl) - A Zeek (ex Bro) script to query the DroneBL's DNSBL database.
-- [evernote/bro-scripts](https://github.com/evernote/bro-scripts) - Bro scripts developed by the Evernote security team.
 - [theflakes/bro-large_uploads](https://github.com/theflakes/bro-large_uploads) - 
 - [spitfire55/MegaDev](https://github.com/spitfire55/MegaDev) - Bro IDS + ELK Stack to detect and block data exfiltration
 
@@ -1650,6 +1649,7 @@
 - [usdAG/cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef
 - [blobcity/db](https://github.com/blobcity/db) - A blazing fast ACID compliant NoSQL DataLake with support for storing 17 formats of data. Full SQL and DML capabilities along with Java stored procedures for advanced data processing.
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
+- [JetBrains/teamcity-hashicorp-vault-plugin](https://github.com/JetBrains/teamcity-hashicorp-vault-plugin) - TeamCity plugin to support HashiCorp Vault
 - [cloudflare/cloudflare-elastic](https://github.com/cloudflare/cloudflare-elastic) - 
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [llSourcell/Build-an-AI-Startup-with-PyTorch](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch) - This is the code for 'Build an AI Startup with Pytorch" by Siraj Raval
@@ -2088,7 +2088,6 @@
 - [PortSwigger/turbo-intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
 - [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [ScottPeterJohnson/gpt2-discord](https://github.com/ScottPeterJohnson/gpt2-discord) - Discord bot that generates messages using GPT-2
-- [JetBrains/teamcity-hashicorp-vault-plugin](https://github.com/JetBrains/teamcity-hashicorp-vault-plugin) - TeamCity plugin to support HashiCorp Vault
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
 
