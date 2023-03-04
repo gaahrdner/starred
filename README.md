@@ -562,7 +562,6 @@
 
 ## Go 
 
-- [sherlock-project/enola](https://github.com/sherlock-project/enola) - This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
 - [TimothyStiles/poly](https://github.com/TimothyStiles/poly) - A Go package for engineering organisms.
 - [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests.
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
@@ -3095,7 +3094,7 @@
 - [evilsocket/keras-goodreads](https://github.com/evilsocket/keras-goodreads) - book rating system using LSTM and Goodreads
 - [evilsocket/ergo-planes-detector](https://github.com/evilsocket/ergo-planes-detector) - 🧠✈️ An ergo based project that relies on a convolutional neural network to detect airplanes from satellite imagery.
 - [evilsocket/ergo](https://github.com/evilsocket/ergo) - 🧠 A tool that makes AI easier.
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
 - [cedowens/MacShell](https://github.com/cedowens/MacShell) - MacShell post exploitation tool designed or blue teams to build macOS detections. Author: Cedric Owens
 - [salesforce/ja3](https://github.com/salesforce/ja3) - JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
