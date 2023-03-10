@@ -1767,7 +1767,7 @@
 - [greghesp/assistant-relay](https://github.com/greghesp/assistant-relay) - A Node.js server that allows for sending commands to Google Home/Assistant from endpoints
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
-- [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ email addresses reserved for security concerns
+- [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ generic, admin, mailer-daemon, and no-reply usernames reserved for security concerns.  Made for @forwardemail.
 - [jstrieb/link-lock](https://github.com/jstrieb/link-lock) - Password-protect URLs using AES in the browser; create hidden bookmarks without a browser extension
 - [helloandre/glycerin](https://github.com/helloandre/glycerin) - Google Chat Terminal User Interface
 - [opscentric/mini-series](https://github.com/opscentric/mini-series) - OpsCentric Mini Series
@@ -1942,7 +1942,7 @@
 - [brianddk/binance-fees](https://github.com/brianddk/binance-fees) - A simple nodejs program to generate a report showing the smallest possible binance purchases
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [MrNothing/AI-Blocks](https://github.com/MrNothing/AI-Blocks) - A powerful and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [freeCodeCamp/mail-for-good](https://github.com/freeCodeCamp/mail-for-good) - An open source email campaign management tool for nonprofits
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -3616,7 +3616,7 @@
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [cloudflare/saffron](https://github.com/cloudflare/saffron) - The cron parser powering Cron Triggers on Cloudflare Workers
@@ -3689,6 +3689,7 @@
 
 ## Shell 
 
+- [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password Connect into your GitHub Actions jobs.
 - [minamijoyo/tfmigrate-atlantis-example](https://github.com/minamijoyo/tfmigrate-atlantis-example) - An example for tfmigrate with Atlantis
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
