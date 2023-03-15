@@ -3189,7 +3189,7 @@
 - [makemytrip/dataShark](https://github.com/makemytrip/dataShark) - dataShark is a Security & Network Event Analytics Framework built on Apache Spark
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [mikesiegel/ews-crack](https://github.com/mikesiegel/ews-crack) - 
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
@@ -3432,7 +3432,6 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
-- [misterch0c/shadowbroker](https://github.com/misterch0c/shadowbroker) - The Shadow Brokers "Lost In Translation" leak
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 - [amazon-archives/data-pipeline-samples](https://github.com/amazon-archives/data-pipeline-samples) - This repository hosts sample pipelines
 - [cesium-ml/cesium](https://github.com/cesium-ml/cesium) - Machine Learning Time-Series Platform
