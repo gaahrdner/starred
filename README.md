@@ -450,6 +450,7 @@
 
 ## CSS 
 
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [lethain/staff-eng](https://github.com/lethain/staff-eng) - Collection of stories of how folks have reached Staff-plus roles in technology.
@@ -1239,7 +1240,7 @@
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
-- [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go.
+- [CamilleScholtz/melonbar](https://github.com/CamilleScholtz/melonbar) - A hackable bar/panel for X written in Go.
 - [godarch/darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [alash3al/sqler](https://github.com/alash3al/sqler) - write APIs using direct SQL queries with no hassle, let's rethink about SQL
@@ -1554,7 +1555,6 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [sudomesh/disaster-radio](https://github.com/sudomesh/disaster-radio) - A (paused) work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
-- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [sroberts/responding-at-scale-with-osquery](https://github.com/sroberts/responding-at-scale-with-osquery) - Using osquery for Mass Incident Detection & Response
@@ -1680,7 +1680,6 @@
 
 ## JavaScript 
 
-- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
@@ -1998,7 +1997,7 @@
 ## Jupyter Notebook 
 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan,
@@ -3532,6 +3531,7 @@
 
 ## Ruby 
 
+- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 - [kinduff/dogapi.dog](https://github.com/kinduff/dogapi.dog) - Provides information on over 340 dog breeds, 20 breed groups, and fun facts.
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -3653,6 +3653,7 @@
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Build secure-by-design applications that can Trust Data-in-Motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
+- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [grapl-security/grapl](https://github.com/grapl-security/grapl) - Graph platform for Detection and Response
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
