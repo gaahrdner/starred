@@ -565,6 +565,7 @@
 
 ## Go 
 
+- [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [authzed/controller-idioms](https://github.com/authzed/controller-idioms) - Generic libraries for building idiomatic Kubernetes controllers
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
@@ -728,7 +729,7 @@
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [Shivam010/bypass-cors](https://github.com/Shivam010/bypass-cors) - a proxy server to bypass CORS enabled servers
 - [aojea/netkat](https://github.com/aojea/netkat) - netcat using netstack userspace library and eBPF
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [evilsocket/islazy](https://github.com/evilsocket/islazy) - A Go library containing a set of opinionated packages, objects, helpers and functions implemented with the KISS principle in mind.
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [function61/hautomo](https://github.com/function61/hautomo) - Home automation hub fully built in Go, super simple to deploy
@@ -2187,6 +2188,7 @@
 
 ## Others 
 
+- [hollance/neural-engine](https://github.com/hollance/neural-engine) - Everything we actually know about the Apple Neural Engine (ANE)
 - [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [L-o-s/Walgreens-SubGHz-FlipperZero](https://github.com/L-o-s/Walgreens-SubGHz-FlipperZero) - As a person who doesn't live far and live in a crazy neighborhood I was able to expand my Walgreens list a little and would love to share it with the people
 - [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
