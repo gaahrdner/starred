@@ -2641,6 +2641,7 @@
 
 ## Python 
 
+- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [dbasch/semantic-search-tweets](https://github.com/dbasch/semantic-search-tweets) - Run semantic queries over your twitter history
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
