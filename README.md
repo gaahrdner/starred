@@ -524,7 +524,7 @@
 ## Elixir 
 
 - [happycodrz/phoenix-apps](https://github.com/happycodrz/phoenix-apps) - 
-- [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained and transformer Neural Network models in Axon (+ 🤗 Models integration)
+- [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained Neural Network models in Axon (+ 🤗 Models integration)
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [GoogleCloudPlatform/elixir-samples](https://github.com/GoogleCloudPlatform/elixir-samples) - A collection of samples on using Elixir with Google Cloud Platform.
 - [ScenicFramework/scenic](https://github.com/ScenicFramework/scenic) - Core Scenic library
@@ -734,7 +734,7 @@
 - [evilsocket/islazy](https://github.com/evilsocket/islazy) - A Go library containing a set of opinionated packages, objects, helpers and functions implemented with the KISS principle in mind.
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [function61/hautomo](https://github.com/function61/hautomo) - Home automation hub fully built in Go, super simple to deploy
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for low-latency geo-distributed system and realtime collaboration application, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology.
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Streaming Serverless Framework for Software Edge Infra
 - [muchobien/tailscale-ui](https://github.com/muchobien/tailscale-ui) - Tailscale UI for Ubuntu
 - [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
@@ -2643,6 +2643,7 @@
 
 ## Python 
 
+- [daveshap/RecursiveSummarizer](https://github.com/daveshap/RecursiveSummarizer) - 
 - [SourceCode-AI/aura](https://github.com/SourceCode-AI/aura) - Python source code auditing and static analysis on a large scale
 - [wgryc/phasellm](https://github.com/wgryc/phasellm) - Large language model evaluation and workflow framework from Phase AI.
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
@@ -3899,6 +3900,7 @@
 
 ## TypeScript 
 
+- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
