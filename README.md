@@ -1174,6 +1174,7 @@
 - [aaronedell/deleto](https://github.com/aaronedell/deleto) - Randomly delete X number of files from a directory
 - [michaelfig/k8s-copier](https://github.com/michaelfig/k8s-copier) - Kubernetes dynamic resource-to-resource copier
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [eBay/akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -1305,6 +1306,7 @@
 - [demisto/alfred](https://github.com/demisto/alfred) - A Slack bot to add security info to messages containing URLs, hashes and IPs
 - [Phillipmartin/gopassivedns](https://github.com/Phillipmartin/gopassivedns) - PassiveDNS in Go
 - [blackfist/deez_factors](https://github.com/blackfist/deez_factors) - Looks for GitHub org users without 2FA turned on
+- [controlplaneio/netassert](https://github.com/controlplaneio/netassert) - Network security testing for DevSecOps workflows
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [katzien/go-structure-examples](https://github.com/katzien/go-structure-examples) - Examples for my talk on structuring go apps
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
@@ -1686,6 +1688,7 @@
 
 ## JavaScript 
 
+- [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI + running on free gpt api's
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
@@ -2005,10 +2008,11 @@
 
 ## Jupyter Notebook 
 
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf) - Crosslingual Generalization through Multitask Finetuning
 - [aliaksandr960/segment-anything-eo](https://github.com/aliaksandr960/segment-anything-eo) - Earth observation tools for Meta AI Segment Anything
-- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
 - [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [fpgaminer/GPTQ-triton](https://github.com/fpgaminer/GPTQ-triton) - GPTQ inference Triton kernel
@@ -2203,6 +2207,8 @@
 
 ## Others 
 
+- [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
+- [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
 - [teknium1/character-cards](https://github.com/teknium1/character-cards) - A collection of character cards for use in AI Roleplaying
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins) - A curated list of awesome ChatGPT plugins, demos and Posts
@@ -2656,15 +2662,23 @@
 
 ## Python 
 
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-prompted Generative Audio Model
+- [Significant-Gravitas/Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
+- [joshwallerr/newsnotfound](https://github.com/joshwallerr/newsnotfound) - Entire source code for NewsNotFound's article generation process ✍
+- [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
+- [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+- [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
+- [kmeng01/memit](https://github.com/kmeng01/memit) - Mass-editing thousands of facts into a transformer memory (ICLR 2023)
+- [jostmey/msm](https://github.com/jostmey/msm) - Improved statistical classifier for immune repertoires
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [plchld/InsightFlow](https://github.com/plchld/InsightFlow) - LLM-based tool for parsing information and chatting with it
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
-- [muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
+- [muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [newhouseb/clownfish](https://github.com/newhouseb/clownfish) - Constrained Decoding for LLMs against JSON Schema
@@ -2699,7 +2713,7 @@
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [dbasch/semantic-search-tweets](https://github.com/dbasch/semantic-search-tweets) - Run semantic queries over your twitter history
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -3264,7 +3278,7 @@
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [uavaustin/target-finder](https://github.com/uavaustin/target-finder) - Python library for identifying AUVSI SUAS targets
 - [makemytrip/dataShark](https://github.com/makemytrip/dataShark) - dataShark is a Security & Network Event Analytics Framework built on Apache Spark
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [mikesiegel/ews-crack](https://github.com/mikesiegel/ews-crack) - 
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
@@ -3666,6 +3680,7 @@
 
 ## Rust 
 
+- [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
 - [rustformers/llama-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
@@ -3815,7 +3830,7 @@
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
 - [nsg-ethz/mini_internet_project](https://github.com/nsg-ethz/mini_internet_project) - The official repository of the mini-Internet exercise.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [Aldenar/salt-malware-sources](https://github.com/Aldenar/salt-malware-sources) - Source files found after a recent hack of one of my machines, showing how the infection spreads itself and what it does, useful for analysis of other infected machines
@@ -3853,7 +3868,6 @@
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [yoonsikp/macOS-KVM-PCI-Passthrough](https://github.com/yoonsikp/macOS-KVM-PCI-Passthrough) - A macOS Virtualization Journey with GPU Passthrough
 - [zlabjp/kubernetes-resource](https://github.com/zlabjp/kubernetes-resource) - [DEPLICATED] This repository is no longer actively maintained.
-- [controlplaneio/netassert](https://github.com/controlplaneio/netassert) - Network security testing for DevSecOps workflows
 - [yboetz/motd](https://github.com/yboetz/motd) - Collection of 'message of the day' scripts
 - [mariusgrigaitis/docker-mac-ssh-auth-sock](https://github.com/mariusgrigaitis/docker-mac-ssh-auth-sock) - SSH_AUTH_SOCK socket forwarding for Docker for Mac
 - [aledbf/kubernetes-cluster-intel-nuc](https://github.com/aledbf/kubernetes-cluster-intel-nuc) - Kubernetes cluster running on Intel NUC
@@ -3912,6 +3926,7 @@
 
 ## Svelte 
 
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
 - [filedescriptor/untrusted-types](https://github.com/filedescriptor/untrusted-types) - 
 
 ## Swift 
@@ -3948,6 +3963,8 @@
 
 ## TypeScript 
 
+- [williamcotton/empirical-philosophy](https://github.com/williamcotton/empirical-philosophy) - A collection of empirical experiments using large language models and other neural network architectures to test the usefulness of metaphysical constructs.
+- [williamcotton/transynthetical-engine](https://github.com/williamcotton/transynthetical-engine) - Applied methods of analytical augmentation to build tools using large-language models.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [hey-pal/toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
@@ -4061,7 +4078,6 @@
 - [HendrikStrobelt/detecting-fake-text](https://github.com/HendrikStrobelt/detecting-fake-text) - Giant Language Model Test Room
 - [aws-samples/aws-bookstore-demo-app](https://github.com/aws-samples/aws-bookstore-demo-app) - AWS Bookstore Demo App is a full-stack sample web application that creates a storefront (and backend) for customers to shop for fictitious books. The entire application can be created with a single te
 - [amazon-archives/aws-full-stack-template](https://github.com/amazon-archives/aws-full-stack-template) - AWS Full-Stack Template is a full-stack sample web application that creates a simple CRUD (create, read, update, delete) app, and provides the foundational services, components, and plumbing needed to
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [CollaborationInEncapsulation/reactive-pacman](https://github.com/CollaborationInEncapsulation/reactive-pacman) - Multiplayer Reactive Pac-Man with RSocket
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
