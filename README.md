@@ -146,6 +146,7 @@
 
 ## C 
 
+- [Spritetm/picframe_colepd](https://github.com/Spritetm/picframe_colepd) - A WiFi picture frame allowing for remote photo uploads, using an ESP32-C3 and a 5.6" color E-ink display
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
@@ -567,6 +568,7 @@
 
 ## Go 
 
+- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library.
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
@@ -1690,7 +1692,6 @@
 
 - [enten/eaglercraft-ashes](https://github.com/enten/eaglercraft-ashes) - Git bundles of Eaglercraft repositories for archival purposes
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
-- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI + running on free gpt api's
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -2208,6 +2209,7 @@
 
 ## Others 
 
+- [derwiki/layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it's easy to miss important tasks. This runbook will help make sure you stay on track.
 - [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
 - [teknium1/character-cards](https://github.com/teknium1/character-cards) - A collection of character cards for use in AI Roleplaying
@@ -2663,6 +2665,7 @@
 
 ## Python 
 
+- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [minosvasilias/godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
 - [declare-lab/flan-eval](https://github.com/declare-lab/flan-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [Significant-Gravitas/Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
@@ -2675,6 +2678,7 @@
 - [jostmey/msm](https://github.com/jostmey/msm) - Improved statistical classifier for immune repertoires
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [plchld/InsightFlow](https://github.com/plchld/InsightFlow) - LLM-based tool for parsing information and chatting with it
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI + running on free gpt api's
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
@@ -2701,7 +2705,7 @@
 - [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4 and FP16 inference on CPU for RWKV language model
 - [johannakarras/DreamPose](https://github.com/johannakarras/DreamPose) - Official implementation of "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion"
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.
-- [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion Webui
+- [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -3620,6 +3624,7 @@
 
 ## Ruby 
 
+- [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 - [kinduff/dogapi.dog](https://github.com/kinduff/dogapi.dog) - Provides information on over 340 dog breeds, 20 breed groups, and fun facts.
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
@@ -3683,6 +3688,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
 - [rustformers/llama-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
