@@ -523,7 +523,7 @@
 - [JetBrains/teamcity-docker-agent](https://github.com/JetBrains/teamcity-docker-agent) - TeamCity agent docker image sources
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [pgorczak/srslte-docker-emulated](https://github.com/pgorczak/srslte-docker-emulated) - Minimal end-to-end LTE. Dockerized and emulated radio over shared memory.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 
 ## Elixir 
 
@@ -969,7 +969,7 @@
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
-- [go-furnace/go-furnace](https://github.com/go-furnace/go-furnace) - Go Hosting Solution for AWS, Google Could and Digital Ocean
+- [go-furnace/go-furnace](https://github.com/go-furnace/go-furnace) - Go Hosting Solution for AWS, Google Cloud and Digital Ocean
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
@@ -1287,7 +1287,7 @@
 - [tinrab/spidey](https://github.com/tinrab/spidey) - A Microservices and GraphQL based online store
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [ejcx/cf](https://github.com/ejcx/cf) - Cloudflare CLI
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
@@ -1358,7 +1358,7 @@
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -1821,7 +1821,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) - A DNS rebinding attack framework.
 - [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www]
-- [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [noahlevenson/stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for AI
 - [GoogleCloudPlatform/cloudbuild-integration-testing](https://github.com/GoogleCloudPlatform/cloudbuild-integration-testing) - Example of techniques for using Google Cloud Build to do integration tests of a microservices application
@@ -2010,6 +2010,7 @@
 
 ## Jupyter Notebook 
 
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf) - Crosslingual Generalization through Multitask Finetuning
@@ -2041,6 +2042,7 @@
 - [waico/SKAB](https://github.com/waico/SKAB) - SKAB - Skoltech Anomaly Benchmark. Time-series data for evaluating Anomaly Detection algorithms.
 - [cerlymarco/tsmoothie](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
 - [kornia/tutorials](https://github.com/kornia/tutorials) - Repository containing the tutorials
+- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [stared/thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch) - Thinking in tensors, writing in PyTorch (a hands-on deep learning intro)
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters
 - [ericmjl/Network-Analysis-Made-Simple](https://github.com/ericmjl/Network-Analysis-Made-Simple) - An introduction to network analysis and applied graph theory using Python and NetworkX
@@ -2665,11 +2667,11 @@
 
 ## Python 
 
+- [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [minosvasilias/godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
 - [declare-lab/flan-eval](https://github.com/declare-lab/flan-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [Significant-Gravitas/Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
-- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 - [joshwallerr/newsnotfound](https://github.com/joshwallerr/newsnotfound) - Entire source code for NewsNotFound's article generation process ✍
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
@@ -2678,14 +2680,14 @@
 - [jostmey/msm](https://github.com/jostmey/msm) - Improved statistical classifier for immune repertoires
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [plchld/InsightFlow](https://github.com/plchld/InsightFlow) - LLM-based tool for parsing information and chatting with it
-- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI + running on free gpt api's
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
-- [muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
+- [muellerberndt/micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [newhouseb/clownfish](https://github.com/newhouseb/clownfish) - Constrained Decoding for LLMs against JSON Schema
@@ -2704,7 +2706,6 @@
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4 and FP16 inference on CPU for RWKV language model
 - [johannakarras/DreamPose](https://github.com/johannakarras/DreamPose) - Official implementation of "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion"
-- [Priler/jarvis](https://github.com/Priler/jarvis) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.
 - [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
@@ -2895,7 +2896,6 @@
 - [kzl/decision-transformer](https://github.com/kzl/decision-transformer) - Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.
 - [martinwittmann/touchosc-generator](https://github.com/martinwittmann/touchosc-generator) - Generate touchosc files using templates making it possible to reuse and repeat components.
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for differentiable programming of quantum computers.  Train a quantum computer the same way as a neural network.
-- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [ankandrew/online-label-smoothing-pt](https://github.com/ankandrew/online-label-smoothing-pt) - Implementation of Online Label Smoothing  in PyTorch
 - [tkipf/gae](https://github.com/tkipf/gae) - Implementation of Graph Auto-Encoders in TensorFlow
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
@@ -3773,6 +3773,7 @@
 
 ## SCSS 
 
+- [Priler/jarvis](https://github.com/Priler/jarvis) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT) - Detect Tactics, Techniques & Combat Threats
 - [app-generator/flask-material-dashboard](https://github.com/app-generator/flask-material-dashboard) - Flask Dashboard - Material Design | AppSeed
@@ -3804,7 +3805,7 @@
 - [IPS-Hosting/game-images](https://github.com/IPS-Hosting/game-images) - Docker images for several game servers.
 - [Ponjimon/vrising-docker](https://github.com/Ponjimon/vrising-docker) - A Docker image for running a dedicated server for V Rising.
 - [ich777/docker-steamcmd-server](https://github.com/ich777/docker-steamcmd-server) - Simple Dockerfile that installs steamcmd and a selected game server
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head) - Demo App for TAG App Delivery
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [jdoss/ppngx](https://github.com/jdoss/ppngx) - Podman + Paperless NGX
@@ -3972,6 +3973,7 @@
 
 ## TypeScript 
 
+- [1rgs/clarity-reader](https://github.com/1rgs/clarity-reader) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.
 - [williamcotton/empirical-philosophy](https://github.com/williamcotton/empirical-philosophy) - A collection of empirical experiments using large language models and other neural network architectures to test the usefulness of metaphysical constructs.
 - [williamcotton/transynthetical-engine](https://github.com/williamcotton/transynthetical-engine) - Applied methods of analytical augmentation to build tools using large-language models.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
