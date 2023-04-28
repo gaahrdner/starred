@@ -197,7 +197,6 @@
 - [bootleg/ret-sync](https://github.com/bootleg/ret-sync) - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra/Binary Ninja disassemblers.
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
-- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [jsitnicki/ebpf-summit-2020](https://github.com/jsitnicki/ebpf-summit-2020) - Steering connections to sockets with BPF socket lookup hook (eBPF Summit 2020)
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [LloydLabs/wsb-detect](https://github.com/LloydLabs/wsb-detect) - wsb-detect enables you to detect if you are running in Windows Sandbox ("WSB")
@@ -494,7 +493,7 @@
 
 ## Crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [luckyframework/lucky](https://github.com/luckyframework/lucky) - A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.
 
 ## Dart 
@@ -568,6 +567,7 @@
 
 ## Go 
 
+- [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library.
@@ -2667,6 +2667,7 @@
 
 ## Python 
 
+- [benjie-git/CardStock](https://github.com/benjie-git/CardStock) - CardStock is a cross-platform tool for quickly and easily building programs. It provides a drawing-program-like editor for visually laying out your programs' parts, and a code editor for adding event-
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [minosvasilias/godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
@@ -2681,7 +2682,7 @@
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [plchld/InsightFlow](https://github.com/plchld/InsightFlow) - LLM-based tool for parsing information and chatting with it
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
@@ -2743,7 +2744,7 @@
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerting management for software developers.
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
-- [MichalGeyer/plug-and-play](https://github.com/MichalGeyer/plug-and-play) - Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”
+- [MichalGeyer/plug-and-play](https://github.com/MichalGeyer/plug-and-play) - Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation” (CVPR 2023)
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [yuvadm/krakensdr_pr](https://github.com/yuvadm/krakensdr_pr) - Passive Radar Code for the KrakenSDR
 - [mfkiwl/krakensdr_pr](https://github.com/mfkiwl/krakensdr_pr) - Passive Radar Code for the KrakenSDR
@@ -2922,7 +2923,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [vframeio/vframe](https://github.com/vframeio/vframe) - VFRAME: Visual Forensics and Metadata Extraction
 - [lucidrains/reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) - Reformer, the efficient Transformer, in Pytorch
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [muteb/Hoarder](https://github.com/muteb/Hoarder) - This script is made to collect the most valiable artifacts for foreniscs or incident reponse investigation rather than imaging the whole har drive.
 - [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social med
 - [angadsingh/argos](https://github.com/angadsingh/argos) - a spacial-temporal pattern detection system for home automation
@@ -2983,6 +2984,7 @@
 - [cloudflare/GHC-Errbot](https://github.com/cloudflare/GHC-Errbot) - A Google Hangouts Chat Backend for Errbot
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [cedowens/Mythic-Macro-Generator](https://github.com/cedowens/Mythic-Macro-Generator) - Python3 script to generate a macro to launch a Mythic payload. Author: Cedric Owens
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [Fewbytes/rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
