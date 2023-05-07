@@ -435,7 +435,7 @@
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
-- [maxritter/DIY-Thermocam](https://github.com/maxritter/DIY-Thermocam) - The DIY-Thermocam is a do-it-yourself infrared camera, based on the popular FLIR Lepton long-wave infrared sensor and the Arduino compatible Teensy 4.1 microcontroller.
+- [maxritter/diy-thermocam](https://github.com/maxritter/diy-thermocam) - A do-it-yourself thermal imager, based on the popular FLIR Lepton LWIR sensor and an Arduino compatible Teensy 4.1 microcontroller
 - [ptrkrysik/gr-gsm](https://github.com/ptrkrysik/gr-gsm) - Gnuradio blocks and tools for receiving GSM transmissions
 - [facebookarchive/beringei](https://github.com/facebookarchive/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
@@ -2674,6 +2674,7 @@
 
 ## Python 
 
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions
 - [abertsch72/unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json) - Structured and typehinted GPT responses in Python
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3999,7 +4000,7 @@
 
 ## TypeScript 
 
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for connecting custom data to large language models
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [1rgs/clarity-reader](https://github.com/1rgs/clarity-reader) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.
 - [williamcotton/empirical-philosophy](https://github.com/williamcotton/empirical-philosophy) - A collection of empirical experiments using large language models and other neural network architectures to test the usefulness of metaphysical constructs.
 - [williamcotton/transynthetical-engine](https://github.com/williamcotton/transynthetical-engine) - Applied methods of analytical augmentation to build tools using large-language models.
