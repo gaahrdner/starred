@@ -330,6 +330,7 @@
 
 ## C++ 
 
+- [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [nomic-ai/gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [function3d/petalot](https://github.com/function3d/petalot) - PET Bottle To 3D Filament
@@ -2680,6 +2681,10 @@
 
 ## Python 
 
+- [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
+- [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
+- [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
@@ -3336,7 +3341,6 @@
 - [taki0112/Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) - Simple Tensorflow Cookbook for easy-to-use
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [MisterBianco/BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [salesforce/hassh](https://github.com/salesforce/hassh) - HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a sma
@@ -3721,6 +3725,7 @@
 
 ## Rust 
 
+- [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -3835,6 +3840,7 @@
 ## Shell 
 
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
+- [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password Connect into your GitHub Actions jobs.
 - [minamijoyo/tfmigrate-atlantis-example](https://github.com/minamijoyo/tfmigrate-atlantis-example) - An example for tfmigrate with Atlantis
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
@@ -4009,6 +4015,7 @@
 
 ## TypeScript 
 
+- [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [1rgs/clarity-reader](https://github.com/1rgs/clarity-reader) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.
