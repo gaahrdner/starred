@@ -514,7 +514,7 @@
 - [poszu/godot-servers-k8s](https://github.com/poszu/godot-servers-k8s) - 
 - [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems
 - [grocy/grocy-docker](https://github.com/grocy/grocy-docker) - ERP beyond your fridge - now containerized - this is the docker repo of https://github.com/grocy/grocy
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [andrewbeard/broworkshop](https://github.com/andrewbeard/broworkshop) - Materials for the BSides NoVA/Charleston 2018 Bro Workshop
@@ -611,7 +611,7 @@
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. 一个款用于创建通用图数据结构、对其进行修改、分析和可视化的库。
+- [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. 一款用于创建通用图数据结构、对其进行修改、分析和可视化的库。
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [kerbyj/goLazagne](https://github.com/kerbyj/goLazagne) - Go library for credentials recovery
 - [vyrus001/msflib](https://github.com/vyrus001/msflib) - A golang library designed to interact with Metasploit
@@ -624,6 +624,7 @@
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [sassoftware/relic](https://github.com/sassoftware/relic) - Relic is a service and a tool for adding digital signatures to operating system packages for Linux and Windows
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies
@@ -1541,7 +1542,6 @@
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
