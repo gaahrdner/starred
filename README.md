@@ -325,6 +325,7 @@
 
 ## C++ 
 
+- [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [nomic-ai/gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
@@ -553,7 +554,7 @@
 ## GDScript 
 
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
-- [db0/Stable-Horde-Client-Addon](https://github.com/db0/Stable-Horde-Client-Addon) - A Godot addon for using Stable Horde
+- [Haidra-Org/AI-Horde-Godot-Addon](https://github.com/Haidra-Org/AI-Horde-Godot-Addon) - A Godot addon for using Stable Horde
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 
 ## GLSL 
