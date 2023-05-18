@@ -1342,6 +1342,7 @@
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [NateGraff/blessedvirginmary](https://github.com/NateGraff/blessedvirginmary) - LLVM IR to Bash Transpiler
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [justinbarrick/flux-operator](https://github.com/justinbarrick/flux-operator) - Operator for creating and managing Weaveworks Flux, helm-operator, and Tiller instances
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -1591,7 +1592,6 @@
 - [adilmoujahid/blockchain-python-tutorial](https://github.com/adilmoujahid/blockchain-python-tutorial) - Source Code for my blog post: A Practical Introduction to Blockchain with Python
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [skalnik/butterlap.bike](https://github.com/skalnik/butterlap.bike) - 🌉🚲💨
-- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [ThemesGuide/top-hat](https://github.com/ThemesGuide/top-hat) - Tophat Themes - Give Bootstrap a custom, stylish look 🎩
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
@@ -2084,6 +2084,7 @@
 - [unearthed/explore_australia](https://github.com/unearthed/explore_australia) - Access to Australia-wide public data for OZ Minerals/Unearthed Explorer challenge
 - [llSourcell/mapo](https://github.com/llSourcell/mapo) - Predict mining prospects and mineral deposits using deep learning and satellite imagery
 - [re-search/DocProduct](https://github.com/re-search/DocProduct) - Medical Q&A with Deep Language Models
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [cbassa/satellite_analysis](https://github.com/cbassa/satellite_analysis) - Analysis scripts of things related to satellites
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
@@ -2679,6 +2680,7 @@
 
 ## Python 
 
+- [AdmTal/PostgreSQL-Query-Lock-Explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer) - Command line utility to show what locks will be acquired by a given query.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
@@ -3258,7 +3260,6 @@
 - [alectrocute/flaskSaaS](https://github.com/alectrocute/flaskSaaS) - A great starting point to build your SaaS in Flask & Python, with Stripe subscription billing 🚀
 - [smellslikeml/ActionAI](https://github.com/smellslikeml/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
 - [nickwalker037/Credit-Card-Fraud-Detection](https://github.com/nickwalker037/Credit-Card-Fraud-Detection) - Using undersampling techniques and logistic regression in order to predict credit card fraud. Kernel for the Kaggle dataset "Credit Card Fraud Detection"
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [Z4ck404/REST_API_for_fraud-detection](https://github.com/Z4ck404/REST_API_for_fraud-detection) - A logistic regression model that detects the fraud in online transactions that can be accesed with a REST API
 - [DocNow/twarc](https://github.com/DocNow/twarc) - A command line tool (and Python library) for archiving Twitter JSON
 - [m-labs/nmigen-soc](https://github.com/m-labs/nmigen-soc) - System on Chip toolkit for nMigen
@@ -4027,7 +4028,7 @@
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [hey-pal/toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+- [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [eumemic/ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
