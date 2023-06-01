@@ -577,7 +577,7 @@
 - [MrIceman/go-uml](https://github.com/MrIceman/go-uml) - A tool written in Go to build Sequence Diagrams and more UML - in Go
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
+- [githubexporter/github-exporter](https://github.com/githubexporter/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library.
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [authzed/controller-idioms](https://github.com/authzed/controller-idioms) - Generic libraries for building idiomatic Kubernetes controllers
@@ -2234,7 +2234,6 @@
 - [Jamsers/Bistro-Demo-Tweaked](https://github.com/Jamsers/Bistro-Demo-Tweaked) - Lumberyard Bistro demo for Godot, tweaked
 - [weiweihuanghuang/Times-New-Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard) - It's Times New Roman but every seventh letter is jarringly sans serif
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
-- [HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection) - Mod repo for TOTK on Yuzu emulator.
 - [Kuronons/FZ_graphics](https://github.com/Kuronons/FZ_graphics) - Flipper Zero Custom animations, profile and passport pictures by Kuronons
 - [binarly-io/SupplyChainAttacks](https://github.com/binarly-io/SupplyChainAttacks) - 
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use.
@@ -3859,6 +3858,7 @@
 
 ## Shell 
 
+- [HolographicWings/TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection) - Mod repo for TOTK on Yuzu emulator.
 - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
