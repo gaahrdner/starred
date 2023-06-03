@@ -1202,7 +1202,7 @@
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [jondot/goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
-- [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [kubernetes/klog](https://github.com/kubernetes/klog) - Leveled execution logs for Go (fork of https://github.com/golang/glog)
 - [greths/brice](https://github.com/greths/brice) - 
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
@@ -1559,7 +1559,6 @@
 - [cyberdefenders/email-header-analyzer](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail Header Analyzer
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [Chicago/Google-Translate-API-Demo](https://github.com/Chicago/Google-Translate-API-Demo) - Using the v2 Google Translate API to translate a web page in the browser.
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
@@ -1709,7 +1708,6 @@
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
 - [enten/eaglercraft-ashes](https://github.com/enten/eaglercraft-ashes) - Git bundles of Eaglercraft repositories for archival purposes
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -2728,7 +2726,7 @@
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [minosvasilias/godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
-- [declare-lab/flan-eval](https://github.com/declare-lab/flan-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
+- [declare-lab/instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [Significant-Gravitas/Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
 - [joshwallerr/newsnotfound](https://github.com/joshwallerr/newsnotfound) - Entire source code for NewsNotFound's article generation process ✍
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
@@ -3087,6 +3085,7 @@
 - [Elizabeth-Warren/warren_organizing_email](https://github.com/Elizabeth-Warren/warren_organizing_email) - 
 - [Elizabeth-Warren/supportal-backend](https://github.com/Elizabeth-Warren/supportal-backend) - A volunteer supporter portal
 - [robert/programming-feedback-for-advanced-beginners](https://github.com/robert/programming-feedback-for-advanced-beginners) - Specific, real-world ways to make your code cleaner and more professional
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
@@ -3999,12 +3998,13 @@
 
 ## Svelte 
 
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
 - [filedescriptor/untrusted-types](https://github.com/filedescriptor/untrusted-types) - 
 
 ## Swift 
 
 - [StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query your Apple Health data with natural language 💬 🩺
-- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper & GPT-based app for crushing remote SWE interviews
+- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
 - [positive-security/find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
