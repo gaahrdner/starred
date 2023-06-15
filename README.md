@@ -2714,7 +2714,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
-- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
 - [abertsch72/unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json) - Structured and typehinted GPT responses in Python
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3327,7 +3327,7 @@
 - [pimdegroot/homeclimate](https://github.com/pimdegroot/homeclimate) - Repository for the home climate monitoring I built
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -3984,7 +3984,7 @@
 - [att-innovate/charmander](https://github.com/att-innovate/charmander) - Charmander Scheduler Lab - Mesos, Docker, InfluxDB, Spark
 - [lambci/lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 - [mesosphere-backup/dcos-vagrant](https://github.com/mesosphere-backup/dcos-vagrant) - Local DC/OS cluster provisioning
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner & Attack Surface Management Platform | Sn1per
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
 - [FusionAuth/security-scripts](https://github.com/FusionAuth/security-scripts) - Scripts built from our Guide to User Data Security
 - [TritonDataCenter/triton](https://github.com/TritonDataCenter/triton) - Triton DataCenter: a cloud management platform with first class support for containers.
 - [mesosphere-backup/dcos-docker](https://github.com/mesosphere-backup/dcos-docker) - DEPRECATED - Run DC/OS in Docker containers
