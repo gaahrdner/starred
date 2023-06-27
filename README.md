@@ -2034,6 +2034,7 @@
 
 ## Jupyter Notebook 
 
+- [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v1
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon release the trained model.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
@@ -2241,7 +2242,7 @@
 
 ## Others 
 
-- [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - Latest Papers and Datasets on Multimodal Large Language Models
+- [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
 - [Jamsers/Bistro-Demo-Tweaked](https://github.com/Jamsers/Bistro-Demo-Tweaked) - Lumberyard Bistro demo for Godot, tweaked
 - [weiweihuanghuang/Times-New-Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard) - It's Times New Roman but every seventh letter is jarringly sans serif
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
@@ -3367,7 +3368,7 @@
 - [makemytrip/dataShark](https://github.com/makemytrip/dataShark) - dataShark is a Security & Network Event Analytics Framework built on Apache Spark
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [mikesiegel/ews-crack](https://github.com/mikesiegel/ews-crack) - 
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
