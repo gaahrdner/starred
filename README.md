@@ -1989,7 +1989,6 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [manu354/cryptocurrency-arbitrage](https://github.com/manu354/cryptocurrency-arbitrage) - A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
 - [izifortune/bitcoin-trading-dca-serverless](https://github.com/izifortune/bitcoin-trading-dca-serverless) - Bitcoin investing using Dollar Cost Averaging using aws lambda
 - [brianddk/binance-fees](https://github.com/brianddk/binance-fees) - A simple nodejs program to generate a report showing the smallest possible binance purchases
@@ -2189,6 +2188,7 @@
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## Makefile 
 
@@ -2302,7 +2302,7 @@
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [deviantollam/ultimatehandcuffkey](https://github.com/deviantollam/ultimatehandcuffkey) - a copy of TOOOL's "Ultimate Handcuff Key" diagram from 2009
 - [kapatheus/egg-v-rising](https://github.com/kapatheus/egg-v-rising) - Pterodactyl egg - V Rising Dedicated Server
-- [reanalytics-databoutique/webscraping-open-project](https://github.com/reanalytics-databoutique/webscraping-open-project) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python
+- [TheWebScrapingClub/webscraping-open-project](https://github.com/TheWebScrapingClub/webscraping-open-project) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
@@ -3924,7 +3924,7 @@
 - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
-- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password Connect into your GitHub Actions jobs.
+- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs.
 - [minamijoyo/tfmigrate-atlantis-example](https://github.com/minamijoyo/tfmigrate-atlantis-example) - An example for tfmigrate with Atlantis
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [IPS-Hosting/game-images](https://github.com/IPS-Hosting/game-images) - Docker images for several game servers.
@@ -4171,7 +4171,7 @@
 - [haltcase/trilogy](https://github.com/haltcase/trilogy) - TypeScript SQLite layer with support for both native C++ & pure JavaScript drivers.
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [zakjan/pixi-graph](https://github.com/zakjan/pixi-graph) - Graph visualization library using PIXI.js and Graphology
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor plugin system for Slate & React.
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [rapideditor/country-coder](https://github.com/rapideditor/country-coder) - 📍➡️ 🇩🇰 Convert longitude-latitude pairs to ISO 3166-1 codes quickly and locally
