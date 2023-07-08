@@ -1545,6 +1545,7 @@
 
 ## HTML 
 
+- [MiyakoYakota/search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) - 
 - [kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics.
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
 - [BuzzFeedNews/2017-08-spy-plane-finder](https://github.com/BuzzFeedNews/2017-08-spy-plane-finder) - The data and analysis referenced in the Aug. 7, 2017 BuzzFeed News article, "BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found." https://www.buzzfeed.com/peterald
@@ -2363,7 +2364,6 @@
 - [oresat/getting-started](https://github.com/oresat/getting-started) - How to get started with Oresat, and CubeSats in general
 - [eugeneyan/ml-surveys](https://github.com/eugeneyan/ml-surveys) - 📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
 - [madjin/awesome-vrchat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
-- [danyconnect/Softcam.key-Oscam](https://github.com/danyconnect/Softcam.key-Oscam) - 
 - [BlackOtton/RedStar-Media](https://github.com/BlackOtton/RedStar-Media) - Extracted media files from North Korean OS, Red Star 3.0
 - [abhishekkrthakur/approachingalmost](https://github.com/abhishekkrthakur/approachingalmost) - Approaching (Almost) Any Machine Learning Problem
 - [MSFTserver/print2a](https://github.com/MSFTserver/print2a) - (Relocated) 3d weaponry from across the globe
@@ -2725,6 +2725,7 @@
 
 ## Python 
 
+- [openworm/OpenWorm](https://github.com/openworm/OpenWorm) - Repository for the main Dockerfile with the Openworm software stack and project-wide issues
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.
 - [havenhq/haven](https://github.com/havenhq/haven) - Deploy LLMs on your own cloud
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -2987,7 +2988,7 @@
 - [datamade/probablepeople](https://github.com/datamade/probablepeople) - :family: a python library for parsing unstructured western names into name components.
 - [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [Pirate-Crew/IPTV](https://github.com/Pirate-Crew/IPTV) - Search and perform brute force attacks on illegal IPTV Servers
 - [datascopeanalytics/traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis
 - [lucidrains/segformer-pytorch](https://github.com/lucidrains/segformer-pytorch) - Implementation of Segformer, Attention + MLP neural network for segmentation, in Pytorch
@@ -3105,7 +3106,7 @@
 - [lanius/flask-mitten](https://github.com/lanius/flask-mitten) - Adds security functions to Flask applications for preventing some of the basic threats.
 - [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models
 - [FrancoisGrondin/BIRD](https://github.com/FrancoisGrondin/BIRD) - Big Impulse Response Dataset
-- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [chriscannon/highlander](https://github.com/chriscannon/highlander) - There can be only one... process
 - [buffer/thug](https://github.com/buffer/thug) - Python low-interaction honeyclient
 - [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, Threa
