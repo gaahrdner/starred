@@ -147,6 +147,8 @@
 
 ## C 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
+- [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
 - [Spritetm/picframe_colepd](https://github.com/Spritetm/picframe_colepd) - A WiFi picture frame allowing for remote photo uploads, using an ESP32-C3 and a 5.6" color E-ink display
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -333,6 +335,7 @@
 
 ## C++ 
 
+- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Running Stable Diffusion on a RPI Zero 2 (or in 260MB of RAM)
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
 - [Svxy/The-Simpsons-Hit-and-Run](https://github.com/Svxy/The-Simpsons-Hit-and-Run) - Stolen (and slightly cleaned up) version of The Simpsons: Hit & Run original source code from 2003
 - [bruvzg/gdsdecomp](https://github.com/bruvzg/gdsdecomp) - Godot reverse engineering tools
@@ -531,7 +534,7 @@
 - [JetBrains/teamcity-docker-agent](https://github.com/JetBrains/teamcity-docker-agent) - TeamCity agent docker image sources
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [pgorczak/srslte-docker-emulated](https://github.com/pgorczak/srslte-docker-emulated) - Minimal end-to-end LTE. Dockerized and emulated radio over shared memory.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
 ## Elixir 
 
@@ -2171,7 +2174,6 @@
 
 ## Lua 
 
-- [YTP-Plus/YTPPlusStudio](https://github.com/YTP-Plus/YTPPlusStudio) - ytp+ studio
 - [nccgroup/nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts) - NMAP Vulnerability Scanning Scripts
 - [schollz/broadcast](https://github.com/schollz/broadcast) - 
 - [monome/norns](https://github.com/monome/norns) - norns is many sound instruments.
@@ -2729,6 +2731,7 @@
 
 ## Python 
 
+- [ajvikram/JIRA-GPT](https://github.com/ajvikram/JIRA-GPT) - JIRA Automation Using GPT
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [saulpw/aipl](https://github.com/saulpw/aipl) - Array-Inspired Pipeline Language
@@ -3086,7 +3089,7 @@
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [deepseagirl/degoogle](https://github.com/deepseagirl/degoogle) - search Google and extract results directly. skip all the click-through links and other sketchiness
-- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [airbus-seclab/gustave](https://github.com/airbus-seclab/gustave) - GUSTAVE is a fuzzing platform for embedded OS kernels. It is based on QEMU and AFL (and all of its forkserver siblings). It allows to fuzz OS kernels like simple applications.
 - [honoki/bbrf-client](https://github.com/honoki/bbrf-client) - The Bug Bounty Reconnaissance Framework (BBRF) can help you coordinate your reconnaissance workflows across multiple devices
 - [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
@@ -4289,7 +4292,7 @@
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [widgetti/ipyvolume](https://github.com/widgetti/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 
 ## V 
