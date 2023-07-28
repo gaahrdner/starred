@@ -2795,7 +2795,7 @@
 - [asahi417/lmppl](https://github.com/asahi417/lmppl) - Calculate perplexity on a text with pre-trained language models. Support MLM (eg. DeBERTa), recurrent LM (eg. GPT3), and encoder-decoder LM (eg. Flan-T5).
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 - [IST-DASLab/gptq](https://github.com/IST-DASLab/gptq) - Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
 - [IST-DASLab/sparsegpt](https://github.com/IST-DASLab/sparsegpt) - Code for the ICML 2023 paper "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot".
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
