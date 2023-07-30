@@ -1181,6 +1181,7 @@
 - [mailgun/gubernator](https://github.com/mailgun/gubernator) - High Performance Rate Limiting MicroService and Library
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
 - [kudobuilder/kudo](https://github.com/kudobuilder/kudo) - Kubernetes Universal Declarative Operator (KUDO)
 - [eko/monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [GoogleCloudPlatform/stackdriver-slo-to-bigquery](https://github.com/GoogleCloudPlatform/stackdriver-slo-to-bigquery) - Tooling to enable long-term reporting on SLOs defined in Stackdriver Service Monitoring
@@ -2487,7 +2488,7 @@
 - [joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely
 - [aptnotes/data](https://github.com/aptnotes/data) - APTnotes data
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
-- [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets towards AI-powered log analytics
+- [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
@@ -3399,7 +3400,6 @@
 - [ytisf/PyExfil](https://github.com/ytisf/PyExfil) - A Python Package for Data Exfiltration
 - [dropbox/securitybot](https://github.com/dropbox/securitybot) - Distributed alerting for the masses!
 - [duo-labs/dlint](https://github.com/duo-labs/dlint) - Dlint is a tool for encouraging best coding practices and helping ensure we're writing secure Python code.
-- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump the contents
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [pimdegroot/homeclimate](https://github.com/pimdegroot/homeclimate) - Repository for the home climate monitoring I built
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
