@@ -1681,7 +1681,7 @@
 - [GoogleCloudPlatform/df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection) - Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [parsiya/eslinter](https://github.com/parsiya/eslinter) - Manual JavaScript Linting is a Bug
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [Novetta/CLAVIN](https://github.com/Novetta/CLAVIN) - CLAVIN (Cartographic Location And Vicinity INdexer) is an open source software package for document geoparsing and georesolution that employs context-based geographic entity resolution.
 - [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 - [kripthor/pwnagotchi-beacons](https://github.com/kripthor/pwnagotchi-beacons) - A pwnagotchi plugin that sends status messages encapsulated inside a valid beacon frame. They are easy to process from an Android/iOS application
@@ -1960,7 +1960,7 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [mephux/komanda](https://github.com/mephux/komanda) - The IRC Client For Developers
+- [djcas9/komanda](https://github.com/djcas9/komanda) - The IRC Client For Developers
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
@@ -2004,7 +2004,7 @@
 - [freeCodeCamp/mail-for-good](https://github.com/freeCodeCamp/mail-for-good) - An open source email campaign management tool for nonprofits
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
-- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
+- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [node-ci/nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for running Ansible playbooks
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [mdb/concourse-consul-kv-resource](https://github.com/mdb/concourse-consul-kv-resource) - A Concourse resource for getting and setting values to and from Consul's KV store
@@ -2760,7 +2760,7 @@
 - [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
 - [jonmendenhall/jetson-uav](https://github.com/jonmendenhall/jetson-uav) - Adds YOLOv3 person detection to a Pixhawk UAV with a Jetson Nano, and custom GCS code to display detection results on a map
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
-- [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Open source SQL engine in Python
+- [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
 - [everythingishacked/Gamebody](https://github.com/everythingishacked/Gamebody) - Full-body game controller built with Python, OpenCV, Mediapipe
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
@@ -3447,7 +3447,7 @@
 - [taki0112/Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) - Simple Tensorflow Cookbook for easy-to-use
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
+- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [salesforce/hassh](https://github.com/salesforce/hassh) - HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a sma
 - [SparkITSolutions/phoenix](https://github.com/SparkITSolutions/phoenix) - Cuckoo Sandbox is an automated dynamic malware analysis system
@@ -4361,7 +4361,7 @@
 - [zeek/zeek-docs](https://github.com/zeek/zeek-docs) - Documentation for Zeek
 - [tylabs/dovehawk_dns](https://github.com/tylabs/dovehawk_dns) - DoveHawk Passive DNS Collector Module for Zeek
 - [theflakes/bro-large_uploads](https://github.com/theflakes/bro-large_uploads) - 
-- [mephux/bro.vim](https://github.com/mephux/bro.vim) - bro.vim - A simple plugin for working with the bro scripting languages.
+- [djcas9/bro.vim](https://github.com/djcas9/bro.vim) - bro.vim - A simple plugin for working with the bro scripting languages.
 
 
 ## License
