@@ -581,6 +581,7 @@
 
 ## Go 
 
+- [zknill/sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
@@ -1034,7 +1035,7 @@
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
 - [rs/rest-layer](https://github.com/rs/rest-layer) - REST Layer, Go (golang) REST API framework
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
 - [jpillora/opts](https://github.com/jpillora/opts) - A Go (golang) package for building frictionless command-line interfaces
 - [spf13/pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
@@ -2266,6 +2267,7 @@
 
 ## Others 
 
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - 
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
 - [AnbuKumar-maker/AI-on-Jetson-Nano](https://github.com/AnbuKumar-maker/AI-on-Jetson-Nano) - I have created a series of programs using NVIDIA Jetson Nano, Pi Camera and Logitech Web Camera. I installed OpenCV version 4 along with Python 3 to create these sample programs
@@ -2665,7 +2667,7 @@
 - [xtr4nge/FruityWifi](https://github.com/xtr4nge/FruityWifi) - FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system (Jessie) adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry 
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [slackhq/goSDL](https://github.com/slackhq/goSDL) - goSDL
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [HFenter/MarginBot](https://github.com/HFenter/MarginBot) - Bitfinex Margin Lending Managment Bot
@@ -2770,7 +2772,7 @@
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [Max-Manning/passiveRadar](https://github.com/Max-Manning/passiveRadar) - Processing code for a FM radio based passive bistatic radar
-- [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow Automation for the Code Review Process
+- [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for the code review process. Use YAML to automatically assign reviewers, apply labels, and merge PRs.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
@@ -3176,7 +3178,7 @@
 - [Elizabeth-Warren/warren_organizing_email](https://github.com/Elizabeth-Warren/warren_organizing_email) - 
 - [Elizabeth-Warren/supportal-backend](https://github.com/Elizabeth-Warren/supportal-backend) - A volunteer supporter portal
 - [robert/programming-feedback-for-advanced-beginners](https://github.com/robert/programming-feedback-for-advanced-beginners) - Specific, real-world ways to make your code cleaner and more professional
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
@@ -3832,6 +3834,7 @@
 
 ## Rust 
 
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
 - [psarna/edgemail](https://github.com/psarna/edgemail) - 
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
