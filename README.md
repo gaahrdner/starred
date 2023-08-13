@@ -336,6 +336,8 @@
 
 ## C++ 
 
+- [vietanhdev/open-adas](https://github.com/vietanhdev/open-adas) - An open source advanced driver assistance system (ADAS) that uses Jetson Nano as the hardware. Features: Traffic sign detection, Forward collision warning, Lane departure warning.
+- [DoubangoTelecom/ultimateALPR-SDK](https://github.com/DoubangoTelecom/ultimateALPR-SDK) - World's fastest ANPR / ALPR implementation for CPUs, GPUs, VPUs and NPUs using deep learning (Tensorflow, Tensorflow lite, TensorRT, OpenVX, OpenVINO). Multi-Charset (Latin, Korean, Chinese) & Multi-O
 - [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Running Stable Diffusion on a RPI Zero 2 (or in 260MB of RAM)
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
 - [Svxy/The-Simpsons-Hit-and-Run](https://github.com/Svxy/The-Simpsons-Hit-and-Run) - Stolen (and slightly cleaned up) version of The Simpsons: Hit & Run original source code from 2003
@@ -782,7 +784,7 @@
 - [kevinburke/rest](https://github.com/kevinburke/rest) - Go REST helpers
 - [psanford/wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang).
 - [observIQ/stanza](https://github.com/observIQ/stanza) - Fast and lightweight log transport and processing.
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [bradleyjkemp/abwhose](https://github.com/bradleyjkemp/abwhose) - The simplest way to find how to report abusive domains
 - [nodauf/Swego](https://github.com/nodauf/Swego) - Swiss army knife Webserver in Golang. Keep simple like the python SimpleHTTPServer but with many features
 - [cloud-bulldozer/kube-burner](https://github.com/cloud-bulldozer/kube-burner) - Kube-burner is a Kubernetes performance and scale test orchestration framework written in golang
@@ -2740,6 +2742,7 @@
 
 ## Python 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
@@ -2876,7 +2879,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [EtteGit/EnragedRabbitProject](https://github.com/EtteGit/EnragedRabbitProject) - 
-- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - [ICCV 2023] Text-to-Image Diffusion Models are Zero-Shot Video Generators
+- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - [ICCV 2023 Oral] Text-to-Image Diffusion Models are Zero-Shot Video Generators
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
