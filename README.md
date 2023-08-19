@@ -157,7 +157,6 @@
 - [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
 - [PurpleVsGreen/beacown](https://github.com/PurpleVsGreen/beacown) - 
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
@@ -583,6 +582,7 @@
 
 ## Go 
 
+- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [zknill/sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
@@ -1721,10 +1721,10 @@
 
 ## JavaScript 
 
+- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [odensc/yatpack](https://github.com/odensc/yatpack) - Livestreaming with NVIDIA Jetson Nano
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
 - [rickyrobinett/langchainjs-workers](https://github.com/rickyrobinett/langchainjs-workers) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -2309,6 +2309,7 @@
 - [GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
 - [notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev) - A curated collection of game development learning resources
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
@@ -2842,7 +2843,7 @@
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
@@ -3417,7 +3418,7 @@
 - [ytisf/PyExfil](https://github.com/ytisf/PyExfil) - A Python Package for Data Exfiltration
 - [dropbox/securitybot](https://github.com/dropbox/securitybot) - Distributed alerting for the masses!
 - [duo-labs/dlint](https://github.com/duo-labs/dlint) - Dlint is a tool for encouraging best coding practices and helping ensure we're writing secure Python code.
-- [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
+- [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [pimdegroot/homeclimate](https://github.com/pimdegroot/homeclimate) - Repository for the home climate monitoring I built
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
@@ -3844,6 +3845,8 @@
 
 ## Rust 
 
+- [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
 - [fmeringdal/covert](https://github.com/fmeringdal/covert) - 
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
@@ -4109,7 +4112,6 @@
 
 ## Swift 
 
-- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [StanfordBDHG/HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query your Apple Health data with natural language 💬 🩺
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
 - [positive-security/find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
@@ -4154,6 +4156,7 @@
 - [dzhng/llm-api](https://github.com/dzhng/llm-api) - Fully typed & consistent chat APIs for OpenAI, Anthropic, Azure's chat models for browser, edge, and node environments.
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source f
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [cloudflare/itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) - OpenAPI 3 schema generator and validator for Cloudflare Workers
