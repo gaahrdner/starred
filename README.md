@@ -987,7 +987,7 @@
 - [Ullaakut/disgo](https://github.com/Ullaakut/disgo) - 🕺🏽Simple output library for go CLIs.
 - [PacktPublishing/Hands-On-Software-Engineering-with-Golang](https://github.com/PacktPublishing/Hands-On-Software-Engineering-with-Golang) - Hands-On Software Engineering with Golang, published by Packt
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
-- [LukaSikic/subzy](https://github.com/LukaSikic/subzy) - Subdomain takeover vulnerability checker
+- [PentestPad/subzy](https://github.com/PentestPad/subzy) - Subdomain takeover vulnerability checker
 - [cloudflare/slirpnetstack](https://github.com/cloudflare/slirpnetstack) - slirp4netns implementation using gvisor/netstack
 - [fwessels/simdjson-go](https://github.com/fwessels/simdjson-go) - Golang port of simdjson
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
@@ -1574,7 +1574,7 @@
 - [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
+- [observablehq/plot](https://github.com/observablehq/plot) - Observable Plot: a concise API for exploratory data visualization
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -2660,6 +2660,7 @@
 
 ## PHP 
 
+- [Part-DB/Part-DB-server](https://github.com/Part-DB/Part-DB-server) - Part-DB is an Open source inventory management system for your electronic components
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [idno/known](https://github.com/idno/known) - A social publishing platform.
@@ -2784,7 +2785,7 @@
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [Max-Manning/passiveRadar](https://github.com/Max-Manning/passiveRadar) - Processing code for a FM radio based passive bistatic radar
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for the code review process. Use YAML to automatically assign reviewers, apply labels, and merge PRs.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
 - [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive archite
@@ -4160,7 +4161,7 @@
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [cloudflare/itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) - OpenAPI 3 schema generator and validator for Cloudflare Workers
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [cloudflare/d1-northwind](https://github.com/cloudflare/d1-northwind) - Northwind Traders D1 Demo
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
