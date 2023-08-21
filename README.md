@@ -48,6 +48,7 @@
 - [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Less](#less)
@@ -1581,7 +1582,6 @@
 - [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts) - My collection of bitmap fonts pulled from various demoscene archives over the years
 - [cyberdefenders/email-header-analyzer](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail Header Analyzer
 - [OpenRCE/Malware-Analysis-Training](https://github.com/OpenRCE/Malware-Analysis-Training) - Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [Chicago/Google-Translate-API-Demo](https://github.com/Chicago/Google-Translate-API-Demo) - Using the v2 Google Translate API to translate a web page in the browser.
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
@@ -2163,6 +2163,10 @@
 - [gianlucahmd/loads_clustering](https://github.com/gianlucahmd/loads_clustering) - Data Science project to cluster loads coming from http://en.openei.org/datasets/files/961/pub/
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
+
+## Just 
+
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 
 ## KiCad Layout 
 
