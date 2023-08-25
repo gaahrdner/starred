@@ -2274,6 +2274,7 @@
 
 ## Others 
 
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - 
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
@@ -2749,6 +2750,10 @@
 
 ## Python 
 
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) - 🤖 Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more!
+- [lmstudio-ai/model-catalog](https://github.com/lmstudio-ai/model-catalog) - A collection of standardized JSON descriptors for Large Language Model (LLM) files.
+- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - 
 - [roboflow/inference](https://github.com/roboflow/inference) - An easy-to-use, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models.
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
@@ -2899,7 +2904,7 @@
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (Models, Vector DBs, File Converters) to Pipelines or Agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [fullthom/chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - 
 - [oneearedrabbit/badger-system-ii](https://github.com/oneearedrabbit/badger-system-ii) - Tinkering with Badger 2040.
 - [vszal/pop-kustomize](https://github.com/vszal/pop-kustomize) - End-to-End Google Cloud CI/CD example repo and tutorial
@@ -3855,7 +3860,7 @@
 
 - [Dicklesworthstone/fast_vector_similarity](https://github.com/Dicklesworthstone/fast_vector_similarity) - The Fast Vector Similarity Library is designed to provide efficient computation of various similarity measures between vectors.
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The fast and reliable Determinate Nix Installer, with over 500,000 installs.
 - [fmeringdal/covert](https://github.com/fmeringdal/covert) - 
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
