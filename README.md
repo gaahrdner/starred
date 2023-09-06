@@ -2057,6 +2057,7 @@
 
 ## Jupyter Notebook 
 
+- [veekaybee/viberary](https://github.com/veekaybee/viberary) - Good books, good vibes
 - [iamarunbrahma/finetuned-qlora-falcon7b-medical](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical) - Finetuning of Falcon-7B LLM using QLoRA on Mental Health Conversational Dataset
 - [my-other-github-account/llm-humaneval-benchmarks](https://github.com/my-other-github-account/llm-humaneval-benchmarks) - 
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
@@ -2276,6 +2277,8 @@
 
 ## Others 
 
+- [AmpereComputing/Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere) - 
+- [davidphilipbarr/Sweep](https://github.com/davidphilipbarr/Sweep) - Sweep - a small promicro based keyboard inspired by the Ferris.
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
@@ -2767,7 +2770,7 @@
 - [Haidra-Org/AI-Horde-Worker](https://github.com/Haidra-Org/AI-Horde-Worker) - This repo turns your PC into a AI Horde worker node
 - [Dicklesworthstone/llama_embeddings_fastapi_service](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service) - 
 - [automorphic-ai/trex](https://github.com/automorphic-ai/trex) - Intelligently transform unstructured to structured data
-- [normal-computing/outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Generative Model Programming
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
