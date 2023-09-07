@@ -583,6 +583,7 @@
 
 ## Go 
 
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multipl
 - [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
@@ -1396,7 +1397,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
-- [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
+- [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [dustinblackman/streamroller](https://github.com/dustinblackman/streamroller) - Self hosted simulcasting to Twitch, Youtube, and Facebook made easy.
 - [pajbot/pajbot2](https://github.com/pajbot/pajbot2) - pajbot in go
@@ -2082,6 +2083,7 @@
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
 - [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [fpgaminer/GPTQ-triton](https://github.com/fpgaminer/GPTQ-triton) - GPTQ inference Triton kernel
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
@@ -2525,7 +2527,7 @@
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
 - [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
-- [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
+- [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [SkeltonThatcher/run-book-template](https://github.com/SkeltonThatcher/run-book-template) - Run Book / Operations Manual template for modern software systems
 - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Secur
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -2756,6 +2758,10 @@
 
 ## Python 
 
+- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [evennia/evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
@@ -2897,7 +2903,6 @@
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [dbasch/semantic-search-tweets](https://github.com/dbasch/semantic-search-tweets) - Run semantic queries over your twitter history
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
@@ -3868,6 +3873,7 @@
 
 ## Rust 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [Dicklesworthstone/fast_vector_similarity](https://github.com/Dicklesworthstone/fast_vector_similarity) - The Fast Vector Similarity Library is designed to provide efficient computation of various similarity measures between vectors.
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 500,000 installs.
@@ -4175,6 +4181,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [erxes/erxes](https://github.com/erxes/erxes) - The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
@@ -4210,7 +4217,7 @@
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
-- [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source User Onboarding and Cross Channel User Messaging Platform. Open Source alternative to Appcues / Pendo /  Braze /  One Signal / Customer Io . Use Laudspeaker to design p
+- [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source User Onboarding, Product Adoption and Messaging Platform. Open Source alternative to Appcues / Pendo /  Braze /  One Signal / Customer Io . Use Laudspeaker to design pr
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [open-taggy/taggy](https://github.com/open-taggy/taggy) - taggy is a typescript-based frontend package to automatically tag (or categorize) textual content.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
