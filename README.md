@@ -1573,6 +1573,7 @@
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
 - [BuzzFeedNews/2017-08-spy-plane-finder](https://github.com/BuzzFeedNews/2017-08-spy-plane-finder) - The data and analysis referenced in the Aug. 7, 2017 BuzzFeed News article, "BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found." https://www.buzzfeed.com/peterald
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
@@ -1913,7 +1914,7 @@
 - [victorvoid/dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [vshymanskyy/randomart](https://github.com/vshymanskyy/randomart) - Generative WebGL Random Art renderer
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
@@ -4215,7 +4216,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
@@ -4236,7 +4237,6 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [maxwellpeterson/kafka-worker](https://github.com/maxwellpeterson/kafka-worker) - Kafka 0.8.0 broker implementation on top of Cloudflare Workers
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
-- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
