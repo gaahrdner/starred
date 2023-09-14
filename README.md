@@ -270,6 +270,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [wekillpeople/browser-dumpwd](https://github.com/wekillpeople/browser-dumpwd) - Dump browser passwords(chrome, firefox) with sqlite3 lib.
 - [nleseul/obs-shaderfilter](https://github.com/nleseul/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
+- [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [github/glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.
 - [shadowsocks/simple-obfs](https://github.com/shadowsocks/simple-obfs) - A simple obfuscating tool (Deprecated)
 - [openai/retro](https://github.com/openai/retro) - Retro Games in Gym
@@ -348,7 +349,7 @@
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [nomic-ai/gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 - [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [function3d/petalot](https://github.com/function3d/petalot) - PET Bottle To 3D Filament
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [quinndiggity/hacking_slot_machines](https://github.com/quinndiggity/hacking_slot_machines) - Hacking slot machines.
@@ -483,7 +484,6 @@
 - [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [aftertheflood/sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
-- [wilwaldon/flatstrap](https://github.com/wilwaldon/flatstrap) - Bootstrap without all the extra stuff
 
 ## Clojure 
 
@@ -583,6 +583,7 @@
 
 ## Go 
 
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multipl
 - [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine
@@ -2047,6 +2048,7 @@
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
+- [wilwaldon/flatstrap](https://github.com/wilwaldon/flatstrap) - Bootstrap without all the extra stuff
 
 ## Jinja 
 
@@ -2745,7 +2747,6 @@
 - [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) - Re-play Security Events
 - [iamrootsh3ll/AnchorWatch](https://github.com/iamrootsh3ll/AnchorWatch) - A Rogue Device Detection Script with Email Alerts Functionality for Windows Subsystem
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
-- [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [EmpireProject/Empire](https://github.com/EmpireProject/Empire) - Empire is a PowerShell and Python post-exploitation agent.
 
@@ -2763,6 +2764,8 @@
 
 ## Python 
 
+- [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
+- [turboderp/exllamav2](https://github.com/turboderp/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
@@ -3878,6 +3881,7 @@
 
 ## Rust 
 
+- [not-pizza/victor](https://github.com/not-pizza/victor) - Web-optimized vector database (written in Rust).
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [Dicklesworthstone/fast_vector_similarity](https://github.com/Dicklesworthstone/fast_vector_similarity) - The Fast Vector Similarity Library is designed to provide efficient computation of various similarity measures between vectors.
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
@@ -3947,7 +3951,7 @@
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [coord-e/magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
