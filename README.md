@@ -149,6 +149,7 @@
 
 ## C 
 
+- [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
 - [am0nsec/HellsGate](https://github.com/am0nsec/HellsGate) - Original C Implementation of the Hell's Gate VX Technique
 - [ddosify/alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
@@ -1100,7 +1101,6 @@
 - [guiyomh/charlatan](https://github.com/guiyomh/charlatan) - Relying on brianvoe/gofakeit, Charlatan allows you to create a ton of fixtures/fake data for use while developing or testing your project. It is inspired by nelmio/alice.It gives you a few essential t
 - [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - [PaesslerAG/gval](https://github.com/PaesslerAG/gval) - Expression evaluation in golang
-- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go
 - [Knetic/govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [jfilipczyk/gomatch](https://github.com/jfilipczyk/gomatch) - Library created for testing JSON against patterns.
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
@@ -1351,7 +1351,6 @@
 - [pkg/sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) - Simplified Container System
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [hashicorp/vault-plugin-auth-kubernetes](https://github.com/hashicorp/vault-plugin-auth-kubernetes) - Vault authentication plugin for Kubernetes Service Accounts
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -1779,7 +1778,6 @@
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [bettercap/caplets](https://github.com/bettercap/caplets) - caplets and proxy modules.
-- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [akhilrex/podgrab](https://github.com/akhilrex/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
@@ -2083,6 +2081,7 @@
 
 - [krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) - 
 - [fastai/lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models
+- [TIGER-AI-Lab/MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - This repo contains the code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning"
 - [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [samvher/bert-for-laptops](https://github.com/samvher/bert-for-laptops) - A BERT that you can train on a (gaming) laptop.
@@ -2308,6 +2307,7 @@
 
 ## Others 
 
+- [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
 - [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
 - [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
 - [AmpereComputing/Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere) - 
@@ -2791,6 +2791,12 @@
 
 ## Python 
 
+- [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j
+- [tomaarsen/attention_sinks](https://github.com/tomaarsen/attention_sinks) - Extend existing LLMs way beyond the original training length with constant memory usage, and without retraining
+- [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
@@ -2805,9 +2811,8 @@
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet: A simple forecasting package
-- [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA) - Efficient long-context fine-tuning, supervised fine-tuning, LongQA dataset.
+- [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA) - Code and documents of LongLoRA
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
-- [TIGER-AI-Lab/MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - This repo contains the code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning"
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
@@ -3027,6 +3032,7 @@
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).
 - [Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads (NO LONGER SUPPORTED)
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [temporalio/sdk-python](https://github.com/temporalio/sdk-python) - Temporal Python SDK
 - [clarkerubber/irwin](https://github.com/clarkerubber/irwin) - irwin - the protector of lichess from all chess players villainous
 - [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser) - bypass-url-parser
@@ -4292,7 +4298,7 @@
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
-- [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source User Onboarding, Product Adoption and Messaging Platform. Open Source alternative to Appcues / Pendo /  Braze /  One Signal / Customer Io . Use Laudspeaker to design pr
+- [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Product Onboarding, and Customer Messaging Platform. Open Source alternative to Appcues / Pendo /  Braze /  One Signal / Customer Io . Use Laudspeaker to design product
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [open-taggy/taggy](https://github.com/open-taggy/taggy) - taggy is a typescript-based frontend package to automatically tag (or categorize) textual content.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
