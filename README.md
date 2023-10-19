@@ -583,7 +583,7 @@
 
 - [KenneyNL/Starter-Kit-FPS](https://github.com/KenneyNL/Starter-Kit-FPS) - 
 - [KenneyNL/Starter-Kit-City-Builder](https://github.com/KenneyNL/Starter-Kit-City-Builder) - 
-- [Jamsers/Bistro-Demo-Tweaked](https://github.com/Jamsers/Bistro-Demo-Tweaked) - Lumberyard Bistro demo for Godot
+- [Jamsers/Bistro-Demo-Tweaked](https://github.com/Jamsers/Bistro-Demo-Tweaked) - Bistro demo for Godot showcasing lighting and high quality assets.
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [Haidra-Org/AI-Horde-Godot-Addon](https://github.com/Haidra-Org/AI-Horde-Godot-Addon) - A Godot addon for using Stable Horde
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
@@ -2864,7 +2864,7 @@
 - [Haidra-Org/AI-Horde-Worker](https://github.com/Haidra-Org/AI-Horde-Worker) - This repo turns your PC into a AI Horde worker node
 - [Dicklesworthstone/swiss_army_llama](https://github.com/Dicklesworthstone/swiss_army_llama) - A FastAPI service for semantic text search using precomputed embeddings and advanced similarity measures, with built-in support for various file types through textract.
 - [automorphic-ai/trex](https://github.com/automorphic-ai/trex) - Intelligently transform unstructured to structured data
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neurosymbolic text generation
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neuro Symbolic Text Generation
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
@@ -2961,7 +2961,7 @@
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
