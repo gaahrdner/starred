@@ -1288,7 +1288,6 @@
 - [olliebarrick/gitops-controller](https://github.com/olliebarrick/gitops-controller) - git-controller is a proof-of-concept GitOps controller that can sync from Git to Kubernetes or from Kubernetes to Git
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [digitalocean/csi-digitalocean](https://github.com/digitalocean/csi-digitalocean) - A Container Storage Interface (CSI) Driver  for DigitalOcean Block Storage
-- [dollarshaveclub/acyl](https://github.com/dollarshaveclub/acyl) - Testing Environments On Demand
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
 - [filecoin-project/venus](https://github.com/filecoin-project/venus) - Filecoin Full Node Implementation in Go
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
@@ -2840,7 +2839,7 @@
 - [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
 - [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - Everything about MetaCLIP: curation/training code, metadata, distribution and pre-trained models.
 - [wy-z/requests-openapi](https://github.com/wy-z/requests-openapi) - RequestsOpenAPI is a python client library for OpenAPI 3.0
-- [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework
+- [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
 - [TonicAI/tvalmetrics](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) - AgentTuning: Enabling Generalized Agent Abilities for LLMs
