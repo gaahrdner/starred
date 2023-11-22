@@ -2018,6 +2018,7 @@
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
 - [anselm/aterrain](https://github.com/anselm/aterrain) - Exposes a few features of Cesium to AFrame
 - [USCDataScience/polar-deep-insights](https://github.com/USCDataScience/polar-deep-insights) - Conceptual - Temporal - Spatial analysis of the trec polar dataset
+- [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [cloudflare/workers-graphql-gateway-example](https://github.com/cloudflare/workers-graphql-gateway-example) - GraphQL running on Cloudflare Workers
 - [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provide
 - [PhantomBot/PhantomBot](https://github.com/PhantomBot/PhantomBot) - PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the m
@@ -2829,6 +2830,7 @@
 
 ## Python 
 
+- [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
@@ -3230,7 +3232,7 @@
 - [ankandrew/online-label-smoothing-pt](https://github.com/ankandrew/online-label-smoothing-pt) - Implementation of Online Label Smoothing  in PyTorch
 - [tkipf/gae](https://github.com/tkipf/gae) - Implementation of Graph Auto-Encoders in TensorFlow
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
-- [terrytangyuan/distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed Machine Learning Patterns (Manning Publications). Now available for early access. Read it online for free!  https://bit.ly/2RKv8Zo
+- [terrytangyuan/distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed Machine Learning Patterns from Manning Publications by Yuan Tang https://bit.ly/2RKv8Zo
 - [jivoi/pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
 - [jcrawfordor/cellscan](https://github.com/jcrawfordor/cellscan) - Mobile sensor to collect data useful in detecting use of IMSI catcher ("Stingray") devices. Loosely based on Project Seaglass from UWashington but with reduced cost/complexity. Still very much a work 
@@ -4518,7 +4520,6 @@
 - [brannondorsey/chattervox](https://github.com/brannondorsey/chattervox) - 📡 An AX.25 packet radio chat protocol with support for digital signatures and binary compression. Like IRC over radio waves.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
-- [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
