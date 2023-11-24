@@ -165,7 +165,7 @@
 - [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
 - [PurpleVsGreen/beacown](https://github.com/PurpleVsGreen/beacown) - 
-- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device.
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
 - [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
@@ -310,7 +310,7 @@
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
-- [kaitlyndotmoe/OculusKiller](https://github.com/kaitlyndotmoe/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
+- [BunniKaitlyn/OculusKiller](https://github.com/BunniKaitlyn/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
 - [Shogan/kube-chaos](https://github.com/Shogan/kube-chaos) - A chaos engineering style game where you seek out and destroy Kubernetes pods, twinstick shmup style.
 - [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck) - Identifies the bytes that Microsoft Defender flags on.
 - [lyuma/Av3Emulator](https://github.com/lyuma/Av3Emulator) - Emulator for VRChat's Avatars 3.0 system, built on the Unity PlayableGraph API
@@ -412,7 +412,7 @@
 - [y-x-c/wearable-microphone-jamming](https://github.com/y-x-c/wearable-microphone-jamming) - Repository for our paper Wearable Microphone Jamming
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [EQuiw/code-imitator](https://github.com/EQuiw/code-imitator) - 
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
@@ -526,6 +526,7 @@
 
 ## Dart 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [kodecocodes/flta-materials](https://github.com/kodecocodes/flta-materials) - The projects and the materials that accompany the Flutter Apprentice book
 - [chuabingquan/helm](https://github.com/chuabingquan/helm) - 💪 Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
@@ -1668,6 +1669,7 @@
 - [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) - Concourse CI pipelines for the buildpacks team
 - [serudda/steroidesign](https://github.com/serudda/steroidesign) - Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
+- [karthik/life-hacks](https://github.com/karthik/life-hacks) - Some life hacks documented
 - [SamWhited/typo](https://github.com/SamWhited/typo) - This repo has been moved to https://git.sr.ht/~samwhited/typo
 
 ## Handlebars 
@@ -1761,8 +1763,8 @@
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [thomasjacquin/allsky](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
@@ -1783,7 +1785,7 @@
 - [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [cfortuner/plugins](https://github.com/cfortuner/plugins) - AI plugins for apps like chatGPT :)
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
@@ -1813,6 +1815,7 @@
 - [stackgl/shader-school](https://github.com/stackgl/shader-school) - :mortar_board: A workshopper for GLSL shaders and graphics programming
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [HashLips/generative-art-opensource](https://github.com/HashLips/generative-art-opensource) - Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
 - [travisghansen/external-auth-server](https://github.com/travisghansen/external-auth-server) - easy auth for reverse proxies
 - [corollari/waspline-reader](https://github.com/corollari/waspline-reader) - FOSS version of BeeLine Reader
@@ -2336,7 +2339,7 @@
 
 ## Others 
 
-- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat = PandoraNext. New GPTs(Gizmo) UI, All in one!
+- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
 - [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
 - [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
@@ -2428,7 +2431,6 @@
 - [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [mxm0z/awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing) - Awesome collection of great and useful resources concerning intelligence writing such as manuals/guides, standards, books, and articles
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [a13xp0p0v/linux-kernel-defence-map](https://github.com/a13xp0p0v/linux-kernel-defence-map) - Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
@@ -2721,7 +2723,6 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
 - [oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
-- [karthik/life-hacks](https://github.com/karthik/life-hacks) - Some life hacks documented
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -2741,6 +2742,8 @@
 
 ## PHP 
 
+- [IngestAI/deepmark](https://github.com/IngestAI/deepmark) - Deepmark AI enables a unique testing environment for language models (LLM) assessment on task-specific metrics and on your own data so your GenAI-powered solution has predictable and reliable performa
+- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat = PandoraNext. New GPTs(Gizmo) UI, All in one!
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a strategic project management system for non-project managers.
 - [Part-DB/Part-DB-server](https://github.com/Part-DB/Part-DB-server) - Part-DB is an Open source inventory management system for your electronic components
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
@@ -2830,6 +2833,11 @@
 
 ## Python 
 
+- [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
+- [run-llama/rags](https://github.com/run-llama/rags) - 
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
@@ -2866,7 +2874,6 @@
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models)
 - [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - AI-First Process Automation with Transformers
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
-- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Guides and Tools
 - [smpanaro/more-ane-transformers](https://github.com/smpanaro/more-ane-transformers) - Run transformers (incl. LLMs) on the Apple Neural Engine.
@@ -4142,6 +4149,7 @@
 
 ## Shell 
 
+- [bach-sh/bach](https://github.com/bach-sh/bach) - Bach Testing Framework
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all chatgpt's system prompt
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative!
 - [rnanosaur/nanosaur](https://github.com/rnanosaur/nanosaur) - 🦕 nanosaur is a little tracked robot, powered by ROS 2. Made for NVIDIA Jetson
@@ -4331,12 +4339,15 @@
 
 ## TypeScript 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast.
 - [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
@@ -4366,7 +4377,7 @@
 - [dzhng/llm-api](https://github.com/dzhng/llm-api) - Fully typed & consistent chat APIs for OpenAI, Anthropic, Azure's chat models for browser, edge, and node environments.
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Pres
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [cloudflare/itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) - OpenAPI 3 schema generator and validator for Cloudflare Workers
