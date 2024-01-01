@@ -2899,6 +2899,7 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - Stanford DSPy: The framework for programming with foundation models
 - [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [kaydotai/kay](https://github.com/kaydotai/kay) - 
 - [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - Everything about MetaCLIP: curation/training code, metadata, distribution and pre-trained models.
 - [wy-z/requests-openapi](https://github.com/wy-z/requests-openapi) - RequestsOpenAPI is a python client library for OpenAPI 3.0
@@ -4390,7 +4391,6 @@
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
-- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 - [jxnl/magic-text](https://github.com/jxnl/magic-text) - 
 - [jonluca/har-to-openapi](https://github.com/jonluca/har-to-openapi) - HAR to OpenAPI spec generator
