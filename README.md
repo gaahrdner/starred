@@ -305,7 +305,6 @@
 
 ## C# # 
 
-- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
 - [wolfgarbe/PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
 - [huggingface/unity-api](https://github.com/huggingface/unity-api) - 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -560,6 +559,7 @@
 
 ## Elixir 
 
+- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [happycodrz/phoenix-apps](https://github.com/happycodrz/phoenix-apps) - 
 - [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) - Pre-trained Neural Network models in Axon (+ 🤗 Models integration)
@@ -1812,7 +1812,7 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [appvia/cosign-keyless-admission-webhook](https://github.com/appvia/cosign-keyless-admission-webhook) - Kubernetes admission webhook that uses cosign verify to check the subject and issuer of the image matches what you expect
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
@@ -2882,7 +2882,7 @@
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - aiconfig -- config-driven, source control friendly AI application development
 - [joennlae/tensorli](https://github.com/joennlae/tensorli) - Absolute minimalistic implementation of a GPT-like transformer using only numpy (&lt;650 lines).
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
 - [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
@@ -2896,7 +2896,7 @@
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
 - [koordinates/kart](https://github.com/koordinates/kart) - Distributed version-control for geospatial and tabular data
 - [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - Stanford DSPy: The framework for programming with foundation models
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - Stanford DSPy: The framework for programming—not prompting—foundation models
 - [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
