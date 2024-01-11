@@ -149,6 +149,7 @@
 
 ## C 
 
+- [risolvipro/playdate-mode7](https://github.com/risolvipro/playdate-mode7) - A Mode 7 library for Playdate.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
@@ -627,7 +628,7 @@
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [zknill/sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
@@ -743,7 +744,7 @@
 - [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [s1ntaxe770r/terraform-provider-planetscale](https://github.com/s1ntaxe770r/terraform-provider-planetscale) - Unofficial Terraform provider for planetscale
-- [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
+- [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform / OpenTofu state migration tool for GitOps
 - [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 - [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) - [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet ⎈
@@ -1781,7 +1782,7 @@
 - [odensc/yatpack](https://github.com/odensc/yatpack) - Livestreaming with NVIDIA Jetson Nano
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. 👉 Deskt
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
 - [rickyrobinett/langchainjs-workers](https://github.com/rickyrobinett/langchainjs-workers) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [cloudflare/chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
@@ -1789,7 +1790,7 @@
 - [adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you
 - [enten/eaglercraft-ashes](https://github.com/enten/eaglercraft-ashes) - Git bundles of Eaglercraft repositories for archival purposes
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished reports with SQL and markdown
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown..
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [dzoba/gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -2857,6 +2858,7 @@
 
 ## Python 
 
+- [spenczar/quivr](https://github.com/spenczar/quivr) - Python library for working with Arrow data in tabular form
 - [freckletonj/uniteai](https://github.com/freckletonj/uniteai) - Your AI Stack in Your Editor
 - [mzbac/mlx-lora](https://github.com/mzbac/mlx-lora) - 
 - [gavi/mlx-whatsapp](https://github.com/gavi/mlx-whatsapp) - 
@@ -2920,7 +2922,7 @@
 - [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - Everything about MetaCLIP: curation/training code, metadata, distribution and pre-trained models.
 - [wy-z/requests-openapi](https://github.com/wy-z/requests-openapi) - RequestsOpenAPI is a python client library for OpenAPI 3.0
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
-- [TonicAI/tvalmetrics](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
+- [TonicAI/tonic_validate](https://github.com/TonicAI/tonic_validate) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) - AgentTuning: Enabling Generalized Agent Abilities for LLMs
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
@@ -3056,7 +3058,7 @@
 - [asahi417/lmppl](https://github.com/asahi417/lmppl) - Calculate perplexity on a text with pre-trained language models. Support MLM (eg. DeBERTa), recurrent LM (eg. GPT3), and encoder-decoder LM (eg. Flan-T5).
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (CSV, pandas, polars, etc). PandasAI makes data analysis conversational
 - [IST-DASLab/gptq](https://github.com/IST-DASLab/gptq) - Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
 - [IST-DASLab/sparsegpt](https://github.com/IST-DASLab/sparsegpt) - Code for the ICML 2023 paper "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot".
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
@@ -3257,7 +3259,7 @@
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [mspicer/pcapinator](https://github.com/mspicer/pcapinator) - A tool for processing a lot of pcaps using tshark
 - [betodealmeida/shillelagh](https://github.com/betodealmeida/shillelagh) - Making it easy to query APIs via SQL
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [AmnestyTech/investigations](https://github.com/AmnestyTech/investigations) - Indicators from Amnesty International's investigations
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
@@ -4416,7 +4418,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build AI Driven Business App
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Superflows-AI/superflows](https://github.com/Superflows-AI/superflows) - Open-source toolkit to build an AI copilot for SaaS products
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
