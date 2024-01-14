@@ -348,6 +348,7 @@
 
 ## C++ 
 
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -2866,7 +2867,7 @@
 - [spenczar/quivr](https://github.com/spenczar/quivr) - Python library for working with Arrow data in tabular form
 - [freckletonj/uniteai](https://github.com/freckletonj/uniteai) - Your AI Stack in Your Editor
 - [mzbac/mlx-lora](https://github.com/mzbac/mlx-lora) - 
-- [gavi/mlx-whatsapp](https://github.com/gavi/mlx-whatsapp) - 
+- [gavi/mlx-whatsapp](https://github.com/gavi/mlx-whatsapp) - An mlx project to train a base model on your whatsapp chats using (Q)Lora finetuning
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can interpret and execute functions/plugins
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce the output format (JSON Schema, Regex etc) of a language model
 - [volotat/Anagnorisis](https://github.com/volotat/Anagnorisis) - Local recommendation system based on LLama 2
@@ -2897,7 +2898,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
@@ -4431,7 +4432,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Superflows-AI/superflows](https://github.com/Superflows-AI/superflows) - Open-source toolkit to build an AI copilot for SaaS products
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
