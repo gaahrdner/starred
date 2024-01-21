@@ -532,6 +532,7 @@
 
 ## Dart 
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [kodecocodes/flta-materials](https://github.com/kodecocodes/flta-materials) - The projects and the materials that accompany the Flutter Apprentice book
@@ -2833,7 +2834,6 @@
 - [BankSecurity/Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities
 - [mandiant/ThreatPursuit-VM](https://github.com/mandiant/ThreatPursuit-VM) - Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well a
 - [olafhartong/ATTACKdatamap](https://github.com/olafhartong/ATTACKdatamap) - A datasource assessment on an event level to show potential coverage or the MITRE ATT&CK framework
-- [josephkingstone/cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit) - Attempting to be an all in one repo for others' userful aggressor scripts as well as things we've found useful during Red Team Operations.
 - [S3cur3Th1sSh1t/Creds](https://github.com/S3cur3Th1sSh1t/Creds) - Some usefull Scripts and Executables for Pentest & Forensics
 - [davehull/Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework
 - [nettitude/PoshC2](https://github.com/nettitude/PoshC2) - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
