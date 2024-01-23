@@ -383,7 +383,6 @@
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
-- [geemion/Khepri](https://github.com/geemion/Khepri) - Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 - [ehbar/evol](https://github.com/ehbar/evol) - Evol: The non-life evolution simulator
@@ -985,7 +984,7 @@
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [lesovsky/noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 - [status-im/doubleratchet](https://github.com/status-im/doubleratchet) - The Double Ratchet Algorithm implementation in Go
@@ -1788,7 +1787,7 @@
 - [odensc/yatpack](https://github.com/odensc/yatpack) - Livestreaming with NVIDIA Jetson Nano
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source multi-user ChatGPT for all LLMs, embedders, and vector databases. Unlimited documents, messages, and users in one privacy-focused app.
 - [rickyrobinett/langchainjs-workers](https://github.com/rickyrobinett/langchainjs-workers) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [cloudflare/chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
@@ -2459,6 +2458,7 @@
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
 - [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
+- [roadwy/RIP](https://github.com/roadwy/RIP) - 
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [mxm0z/awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing) - Awesome collection of great and useful resources concerning intelligence writing such as manuals/guides, standards, books, and articles
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
@@ -2862,6 +2862,7 @@
 
 ## Python 
 
+- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data
 - [apple/ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints of the research paper:  Scalable Pre-training of Large Autoregressive Image Models
 - [spenczar/quivr](https://github.com/spenczar/quivr) - Python library for working with Arrow data in tabular form
 - [freckletonj/uniteai](https://github.com/freckletonj/uniteai) - Your AI Stack in Your Editor
@@ -2994,7 +2995,7 @@
 - [Haidra-Org/AI-Horde-Worker](https://github.com/Haidra-Org/AI-Horde-Worker) - This repo turns your PC into a AI Horde worker node
 - [Dicklesworthstone/swiss_army_llama](https://github.com/Dicklesworthstone/swiss_army_llama) - A FastAPI service for semantic text search using precomputed embeddings and advanced similarity measures, with built-in support for various file types through textract.
 - [automorphic-ai/trex](https://github.com/automorphic-ai/trex) - Enforce structured output from LLMs 100% of the time
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
@@ -3063,7 +3064,7 @@
 - [asahi417/lmppl](https://github.com/asahi417/lmppl) - Calculate perplexity on a text with pre-trained language models. Support MLM (eg. DeBERTa), recurrent LM (eg. GPT3), and encoder-decoder LM (eg. Flan-T5).
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (CSV, pandas, polars, etc). PandasAI makes data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational
 - [IST-DASLab/gptq](https://github.com/IST-DASLab/gptq) - Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
 - [IST-DASLab/sparsegpt](https://github.com/IST-DASLab/sparsegpt) - Code for the ICML 2023 paper "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot".
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
@@ -3784,6 +3785,7 @@
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [SystemsApproach/book](https://github.com/SystemsApproach/book) - Computer Networks: A Systems Approach -- Textbook
 - [DT42/BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [llSourcell/tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot) - Tensorflow chatbot demo by @Sirajology on Youtube
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [astorfi/Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap) - :satellite: Organized Resources for Deep Learning Researchers and Developers
@@ -4304,7 +4306,6 @@
 - [yboetz/motd](https://github.com/yboetz/motd) - Collection of 'message of the day' scripts
 - [mariusgrigaitis/docker-mac-ssh-auth-sock](https://github.com/mariusgrigaitis/docker-mac-ssh-auth-sock) - SSH_AUTH_SOCK socket forwarding for Docker for Mac
 - [aledbf/kubernetes-cluster-intel-nuc](https://github.com/aledbf/kubernetes-cluster-intel-nuc) - Kubernetes cluster running on Intel NUC
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [cloudposse/bastion](https://github.com/cloudposse/bastion) - 🔒Secure Bastion implemented as Docker Container running Alpine Linux with Google Authenticator & DUO MFA support
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [tiziw/iuvolt](https://github.com/tiziw/iuvolt) - Script to undervolt Intel CPUs
