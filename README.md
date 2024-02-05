@@ -2877,7 +2877,7 @@
 - [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [apple/ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints of the research paper:  Scalable Pre-training of Large Autoregressive Image Models
-- [spenczar/quivr](https://github.com/spenczar/quivr) - Python library for working with Arrow data in tabular form
+- [B612-Asteroid-Institute/quivr](https://github.com/B612-Asteroid-Institute/quivr) - Python library for working with Arrow data in tabular form
 - [freckletonj/uniteai](https://github.com/freckletonj/uniteai) - Your AI Stack in Your Editor
 - [mzbac/mlx-lora](https://github.com/mzbac/mlx-lora) - 
 - [gavi/mlx-whatsapp](https://github.com/gavi/mlx-whatsapp) - An mlx project to train a base model on your whatsapp chats using (Q)Lora finetuning
@@ -3182,7 +3182,7 @@
 - [kvh/dcp](https://github.com/kvh/dcp) - Universal data copy
 - [MurtyShikhar/LanguagePatching](https://github.com/MurtyShikhar/LanguagePatching) - Code for our EMNLP '22 paper "Fixing Model Bugs with Natural Language Patches"
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [canimus/cuallee](https://github.com/canimus/cuallee) - Possible the fastest DataFrame agnostic quality check library in town.
+- [canimus/cuallee](https://github.com/canimus/cuallee) - Possibly the fastest DataFrame-agnostic quality check library in town.
 - [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [seaglass-project/seaglass](https://github.com/seaglass-project/seaglass) - 
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
