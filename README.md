@@ -557,7 +557,7 @@
 - [JetBrains/teamcity-docker-agent](https://github.com/JetBrains/teamcity-docker-agent) - TeamCity agent docker image sources
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [pgorczak/srslte-docker-emulated](https://github.com/pgorczak/srslte-docker-emulated) - Minimal end-to-end LTE. Dockerized and emulated radio over shared memory.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 
 ## Elixir 
 
@@ -607,9 +607,10 @@
 
 ## Go 
 
+- [hlfshell/coppermind](https://github.com/hlfshell/coppermind) - Instruction based LLM contextual memory manager to power custom AI personalities and chatbots
 - [zitadel/passwap](https://github.com/zitadel/passwap) - Package passwap provides a unified implementation between different password hashing algorithms. It allows for easy swapping between algorithms, using the same API for all of them.
 - [lunarway/shuttle](https://github.com/lunarway/shuttle) - CLI for handling shared build and deploy tools between projects no matter what technologies the projects are using
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [int128/argocd-commenter](https://github.com/int128/argocd-commenter) - Notify ArgoCD Application status via Pull Request comment or GitHub Deployment API
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT
@@ -673,7 +674,7 @@
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [google/mangle](https://github.com/google/mangle) - 
-- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering Kubernetes|Edge|5G|IoT|XaaS Apps.
 - [PerimeterX/marshmallow](https://github.com/PerimeterX/marshmallow) - Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [dailymotion-oss/octopilot](https://github.com/dailymotion-oss/octopilot) - Automate your Gitops workflow, by automatically creating/merging GitHub Pull Requests
@@ -1794,7 +1795,7 @@
 - [odensc/yatpack](https://github.com/odensc/yatpack) - Livestreaming with NVIDIA Jetson Nano
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source multi-user ChatGPT for all LLMs, embedders, and vector databases. Unlimited documents, messages, and users in one privacy-focused app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [rickyrobinett/langchainjs-workers](https://github.com/rickyrobinett/langchainjs-workers) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [cloudflare/chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
@@ -1814,7 +1815,6 @@
 - [mathgladiator/roslin](https://github.com/mathgladiator/roslin) - 
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [Cryptogenic/PS5-IPV6-Kernel-Exploit](https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on &lt;= 4.51FW
@@ -2037,6 +2037,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [Ceasar/Encyclopedia](https://github.com/Ceasar/Encyclopedia) - Tool for keeping a hypermedia encyclopedia
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [skalnik/shitty-beer-bingo](https://github.com/skalnik/shitty-beer-bingo) - :poop::beers::game_die:
 - [phoboslab/underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - A list of disposable email domains
@@ -2123,6 +2124,8 @@
 
 ## Jupyter Notebook 
 
+- [cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql) - A series of top performing Text to SQL LLMs
+- [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮
 - [adamkarvonen/chess_llm_interpretability](https://github.com/adamkarvonen/chess_llm_interpretability) - Evaluating an LLM trained on chess PGN strings using techniques from the Othello World Models paper.
 - [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [PRIS-CV/DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (arXiv 2023)
@@ -2139,7 +2142,7 @@
 - [TIGER-AI-Lab/MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - This repo contains the code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning"
 - [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [samvher/bert-for-laptops](https://github.com/samvher/bert-for-laptops) - A BERT that you can train on a (gaming) laptop.
 - [veekaybee/viberary](https://github.com/veekaybee/viberary) - Good books, good vibes
 - [iamarunbrahma/finetuned-qlora-falcon7b-medical](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical) - Finetuning of Falcon-7B LLM using QLoRA on Mental Health Conversational Dataset
@@ -2871,10 +2874,10 @@
 
 ## Python 
 
+- [wgryc/emerging-trajectories](https://github.com/wgryc/emerging-trajectories) - Open source framework for using LLMs to forecast political, economic, and social events.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [nlmatics/nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the server side code for llmsherpa API to connect. It includes parsers for various file formats.
 - [Mihaiii/llm_steer](https://github.com/Mihaiii/llm_steer) - Steer LLM outputs towards a certain topic/subject and enhance response capabilities using activation engineering by adding steering vectors
-- [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [apple/ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints of the research paper:  Scalable Pre-training of Large Autoregressive Image Models
 - [B612-Asteroid-Institute/quivr](https://github.com/B612-Asteroid-Institute/quivr) - Python library for working with Arrow data in tabular form
@@ -2993,7 +2996,7 @@
 - [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [evennia/evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
@@ -4100,6 +4103,7 @@
 
 ## Rust 
 
+- [pramatias/documentdf](https://github.com/pramatias/documentdf) - 
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [exein-io/pulsar](https://github.com/exein-io/pulsar) - A modular and blazing fast runtime security tool for the IoT, powered by eBPF.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
@@ -4166,7 +4170,7 @@
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [jmdx/TLS-poison](https://github.com/jmdx/TLS-poison) - 
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [alexforster/pdu](https://github.com/alexforster/pdu) - Small, fast, and correct L2/L3/L4 packet parser.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
@@ -4378,6 +4382,7 @@
 
 ## Svelte 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [filedescriptor/untrusted-types](https://github.com/filedescriptor/untrusted-types) - 
 
 ## Swift 
@@ -4449,7 +4454,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [jacobsimon/prompting](https://github.com/jacobsimon/prompting) - A batteries-included, model-agnostic prompt engineering library for Node.js and TypeScript.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Superflows-AI/superflows](https://github.com/Superflows-AI/superflows) - Open-source toolkit to build an AI copilot for SaaS products
@@ -4472,7 +4477,7 @@
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [cloudflare/itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) - OpenAPI 3 and 3.1 schema generator and validator for Cloudflare Workers
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [cloudflare/d1-northwind](https://github.com/cloudflare/d1-northwind) - Northwind Traders D1 Demo
 - [winglang/wing](https://github.com/winglang/wing) - 🔥 A programming language for the cloud - A unified programming model, combining infrastructure and runtime code into one language  🚀🚀
