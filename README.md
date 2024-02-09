@@ -1434,7 +1434,7 @@
 - [cloudflare/mitmengine](https://github.com/cloudflare/mitmengine) - A MITM (monster-in-the-middle) detection tool. Used to build MALCOLM:
 - [squat/terraform-provider-vultr](https://github.com/squat/terraform-provider-vultr) - Terraform Vultr Provider
 - [cloudposse-archives/sudosh](https://github.com/cloudposse-archives/sudosh) - Shell wrapper to run a login shell with `sudo` as the current user for the purpose of audit logging
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
 - [ernesto-jimenez/goautomock](https://github.com/ernesto-jimenez/goautomock) - Automatically generate mocks for interfaces with go generate
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
@@ -3914,7 +3914,7 @@
 - [astorfi/TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-- [cyanogen/uchroma](https://github.com/cyanogen/uchroma) - An advanced driver for Razer Chroma hardware in Linux
+- [hyperb1iss/uchroma](https://github.com/hyperb1iss/uchroma) - An advanced driver for Razer Chroma hardware in Linux
 - [wnielson/Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) - A distributed transcoding backend for Plex
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [Kyubyong/transformer](https://github.com/Kyubyong/transformer) - A TensorFlow Implementation of the Transformer: Attention Is All You Need
