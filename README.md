@@ -872,7 +872,7 @@
 - [matryer/crunchcrunchcrunchstack](https://github.com/matryer/crunchcrunchcrunchstack) - This repo is a starting point for a Go + Svelte.js + TailwindCSS project.
 - [florianl/tc-skeleton](https://github.com/florianl/tc-skeleton) - Simple project to demonstrate the loading of eBPF programs via florianl/go-tc.
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [Binject/shellcode](https://github.com/Binject/shellcode) - Shellcode library as a Go package
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
 - [Binject/backdoorfactory](https://github.com/Binject/backdoorfactory) - A from-scratch rewrite of The Backdoor Factory - a MitM tool for inserting shellcode into all types of binaries on the wire.
@@ -1797,7 +1797,7 @@
 - [odensc/yatpack](https://github.com/odensc/yatpack) - Livestreaming with NVIDIA Jetson Nano
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [rickyrobinett/langchainjs-workers](https://github.com/rickyrobinett/langchainjs-workers) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [cloudflare/chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
@@ -2138,7 +2138,7 @@
 - [xetdata/onnx-models](https://github.com/xetdata/onnx-models) - A copy of ONNX models, datasets, and code all in one GitHub repository. Follow the README to learn more.
 - [desik1998/MathWithLLMs](https://github.com/desik1998/MathWithLLMs) - 
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
