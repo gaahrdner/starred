@@ -348,6 +348,7 @@
 
 ## C++ 
 
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -640,7 +641,7 @@
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [zknill/sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
@@ -714,7 +715,7 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [jackc/tern](https://github.com/jackc/tern) - The SQL Fan's Migrator
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [cyberark/summon-conjur](https://github.com/cyberark/summon-conjur) - CyberArk Conjur provider for Summon
@@ -784,7 +785,6 @@
 - [aaw/histosketch](https://github.com/aaw/histosketch) - A golang streaming histogram sketch. Fast quantiles and counts below a threshold.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [schollz/duct](https://github.com/schollz/duct) - Inspired by patchbay.pub
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - Build apps that learn and adapt. Time series AI for developers.
 - [iwpnd/sectr](https://github.com/iwpnd/sectr) - Build a circular sector polygon feature spanning the angle between two given bearings, a center point and a radius. A pizza piece! 🍕
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources
 - [mumoshu/variant2](https://github.com/mumoshu/variant2) - Turn your bash scripts into a modern, single-executable CLI app today
@@ -3015,7 +3015,7 @@
 - [bsilverthorn/maccarone](https://github.com/bsilverthorn/maccarone) - AI-managed code blocks in Python ⏪⏩
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [lmstudio-ai/model-catalog](https://github.com/lmstudio-ai/model-catalog) - A collection of standardized JSON descriptors for Large Language Model (LLM) files.
-- [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - 
+- [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 - [roboflow/inference](https://github.com/roboflow/inference) - A fast, easy-to-use, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models.
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
 - [Haidra-Org/AI-Horde-Worker](https://github.com/Haidra-Org/AI-Horde-Worker) - This repo turns your PC into a AI Horde worker node
@@ -3939,7 +3939,7 @@
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [oarriaga/face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [mdipierro/nlib](https://github.com/mdipierro/nlib) - The book "Annotated Algorithms in Python" and the nlib.py library
@@ -4154,6 +4154,7 @@
 - [weggli-rs/weggli](https://github.com/weggli-rs/weggli) - weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.
 - [gamozolabs/cuddly_kangaroo](https://github.com/gamozolabs/cuddly_kangaroo) - A static website generator that embeds all images as base64, and thus can be used with a single resource.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface to locally accelerate and query data tables sourced from any database, data warehouse, or data lake.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [threathunters-io/laurel](https://github.com/threathunters-io/laurel) - Transform Linux Audit logs for SIEM usage
 - [crate-ci/committed](https://github.com/crate-ci/committed) - Nitpicking commit history since beabf39
@@ -4244,7 +4245,7 @@
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [bach-sh/bach](https://github.com/bach-sh/bach) - Bach Testing Framework
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative!
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distribution as an Open-Source RDS Alternative
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [rnanosaur/nanosaur](https://github.com/rnanosaur/nanosaur) - 🦕 nanosaur is a little tracked robot, powered by ROS 2. Made for NVIDIA Jetson
 - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
@@ -4417,7 +4418,7 @@
 
 ## TLA 
 
-- [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA+ specifications of varying complexities
+- [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities
 
 ## Tcl 
 
