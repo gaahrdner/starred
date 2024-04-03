@@ -511,7 +511,7 @@
 
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
@@ -2915,7 +2915,7 @@
 - [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG pipelines.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - A framework for fast development and deployment of production-ready RAG pipelines.
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
@@ -2972,7 +2972,7 @@
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig is a config-based framework to build generative AI applications.
 - [joennlae/tensorli](https://github.com/joennlae/tensorli) - Absolute minimalistic implementation of a GPT-like transformer using only numpy (&lt;650 lines).
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into o
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
@@ -4009,7 +4009,7 @@
 - [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [internetarchive/brozzler](https://github.com/internetarchive/brozzler) - brozzler - distributed browser-based web crawler
 - [tobykurien/pi-tracking-telescope](https://github.com/tobykurien/pi-tracking-telescope) - An optical tracking telescope using OpenCV, Raspberry Pi, Arduino, and 3D printed parts
-- [timofurrer/maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
+- [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
 - [toolswatch/vFeed](https://github.com/toolswatch/vFeed) - The Correlated CVE Vulnerability And Threat Intelligence Database API
 - [iautom8things/ansible-meta-dynamic-inventory](https://github.com/iautom8things/ansible-meta-dynamic-inventory) - Naming is hard.  This wrapper script allows you to use set notation with dynamic host groups.
 - [Miserlou/easy-expressions](https://github.com/Miserlou/easy-expressions) - Easy Regular Expressions for Python
