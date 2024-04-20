@@ -58,6 +58,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
+- [Meson](#meson)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -603,7 +604,7 @@
 - [Jamsers/Bistro-Demo-Tweaked](https://github.com/Jamsers/Bistro-Demo-Tweaked) - Bistro demo for Godot showcasing lighting and high quality assets.
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 - [Haidra-Org/AI-Horde-Godot-Addon](https://github.com/Haidra-Org/AI-Horde-Godot-Addon) - A Godot addon for using Stable Horde
-- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 
 ## GLSL 
 
@@ -612,6 +613,10 @@
 
 ## Go 
 
+- [knl/pulley](https://github.com/knl/pulley) - A service to expose Prometheus metrics of your CI’s validation of Pull Requests, using GitHub webhooks.
+- [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
+- [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) - Prometheus Exporter for GitHub Pull Requests
+- [jmartin82/mkpis](https://github.com/jmartin82/mkpis) - Measuring the development process for Gitflow managed projects.
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [gravitational/gha-exporter](https://github.com/gravitational/gha-exporter) - GitHub Actions metrics exporter for Prometheus
@@ -634,7 +639,7 @@
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc.,
 - [candiddev/rot](https://github.com/candiddev/rot) - Future proof secrets management
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [Ieooo/clash](https://github.com/Ieooo/clash) - fork from clash
@@ -654,7 +659,7 @@
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [zknill/sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
@@ -1097,7 +1102,7 @@
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [pquerna/ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
@@ -1809,7 +1814,7 @@
 - [odensc/yatpack](https://github.com/odensc/yatpack) - Livestreaming with NVIDIA Jetson Nano
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.
 - [rickyrobinett/langchainjs-workers](https://github.com/rickyrobinett/langchainjs-workers) - 
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [cloudflare/chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
@@ -2327,7 +2332,6 @@
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [counteractive/incident-response-plan-template](https://github.com/counteractive/incident-response-plan-template) - A concise, directive, specific, flexible, and free incident response plan template
 - [singer-io/getting-started](https://github.com/singer-io/getting-started) - This repository is a getting started guide to Singer.
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [azer/go-makefile-example](https://github.com/azer/go-makefile-example) - Example Makefile for Go projects
 - [MartinHeinz/go-project-blueprint](https://github.com/MartinHeinz/go-project-blueprint) - Blueprint/Boilerplate For Golang Projects
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
@@ -2346,6 +2350,10 @@
 ## Mathematica 
 
 - [hoffmannjordan/insect-wing-venation-patterns](https://github.com/hoffmannjordan/insect-wing-venation-patterns) - Code corresponding to the manuscript "A simple developmental model recapitulates complex insect wing venation patterns" PNAS 2018
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Nim 
 
@@ -2417,7 +2425,7 @@
 - [AmpereComputing/Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere) - 
 - [davidphilipbarr/Sweep](https://github.com/davidphilipbarr/Sweep) - Sweep - a small promicro based keyboard inspired by the Ferris.
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
@@ -2858,6 +2866,7 @@
 
 ## PowerShell 
 
+- [DeveloperMetrics/lead-time-for-changes](https://github.com/DeveloperMetrics/lead-time-for-changes) - A GitHub Action to roughly calculate DORA lead time for changes
 - [atomiczsec/My-Payloads](https://github.com/atomiczsec/My-Payloads) - A collection of my payloads for the bash bunny, rubber ducky, FlipperZero, and OMG cable
 - [Z3BRO/FzDumps](https://github.com/Z3BRO/FzDumps) - I compiled all the dumps from https://github.com/djsime1/awesome-flipperzero and https://github.com/UberGuidoZ/Flipper into 2 organised folders.
 - [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) - This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.
