@@ -2947,7 +2947,7 @@
 - [freckletonj/uniteai](https://github.com/freckletonj/uniteai) - Your AI Stack in Your Editor
 - [mzbac/mlx-lora](https://github.com/mzbac/mlx-lora) - 
 - [gavi/mlx-whatsapp](https://github.com/gavi/mlx-whatsapp) - An mlx project to train a base model on your whatsapp chats using (Q)Lora finetuning
-- [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can interpret and execute functions/plugins
+- [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce the output format (JSON Schema, Regex etc) of a language model
 - [volotat/Anagnorisis](https://github.com/volotat/Anagnorisis) - Local recommendation system based on LLama 2
 - [sdan/selfextend](https://github.com/sdan/selfextend) - an implementation of Self-Extend, to expand the context window via grouped attention
