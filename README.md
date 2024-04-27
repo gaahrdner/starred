@@ -125,7 +125,7 @@
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [RandalLinden/DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [Ko-/aes-armcortexm](https://github.com/Ko-/aes-armcortexm) - Fast, constant-time and masked AES assembly implementations for ARM Cortex-M3 and M4
 - [bitdump/BLHeli](https://github.com/bitdump/BLHeli) - BLHeli for brushless ESC firmware
 
@@ -532,7 +532,7 @@
 
 ## Crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [luckyframework/lucky](https://github.com/luckyframework/lucky) - A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.
 
 ## Dart 
@@ -639,7 +639,6 @@
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [overflowy/spongebob-cli](https://github.com/overflowy/spongebob-cli) - SpongeBob delivered straight from your terminal
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc.,
-- [candiddev/rot](https://github.com/candiddev/rot) - Future proof secrets management
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
@@ -1384,7 +1383,7 @@
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) - Fast lossless data compression in Go
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
@@ -2397,6 +2396,7 @@
 
 ## Others 
 
+- [Profluent-AI/OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI-generated gene editing systems
 - [beetrove/openai-gpts-data](https://github.com/beetrove/openai-gpts-data) - Data about 349K OpenAI Custom GPTs
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [kutinden/buyingacar](https://github.com/kutinden/buyingacar) - 
@@ -2406,6 +2406,7 @@
 - [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [cognitom/OpenCola](https://github.com/cognitom/OpenCola) - Coca-Cola
+- [candiddev/rot](https://github.com/candiddev/rot) - Secure Secrets Management for the Modern Sysadmin
 - [yhLeeee/Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) - A curated collection of research papers exploring the utilization of LLMs for graph-related tasks.
 - [korchasa/awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - A curated list of awesome ChatGPT software.
 - [surprisetalk/wigwams](https://github.com/surprisetalk/wigwams) - curated list of alternative projects
@@ -2429,7 +2430,6 @@
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
-- [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
 - [AnbuKumar-maker/AI-on-Jetson-Nano](https://github.com/AnbuKumar-maker/AI-on-Jetson-Nano) - I have created a series of programs using NVIDIA Jetson Nano, Pi Camera and Logitech Web Camera. I installed OpenCV version 4 along with Python 3 to create these sample programs
 - [YahboomTechnology/Transbot_Jetson](https://github.com/YahboomTechnology/Transbot_Jetson) - Yahboom ROS Transbot Robot with Lidar Depth camera support MoveIt 3D mapping for Nvidia Jetson NANO 4GB B01
@@ -2909,6 +2909,10 @@
 
 ## Python 
 
+- [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
+- [joaomdmoura/crewAI-tools](https://github.com/joaomdmoura/crewAI-tools) - 
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [hacksider/roop-cam](https://github.com/hacksider/roop-cam) - real time face swap and one-click video deepfake with only a single image (Uncensored)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: Language Guided Generation of 3D Embodied AI Environments.
@@ -3085,6 +3089,7 @@
 - [cyrilou242/ftcc](https://github.com/cyrilou242/ftcc) - Fast Text Classification with Compressors dictionary
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [abacaj/code-eval](https://github.com/abacaj/code-eval) - Run evaluation on LLMs using human-eval benchmark
+- [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [ajvikram/JIRA-GPT](https://github.com/ajvikram/JIRA-GPT) - JIRA Automation Using GPT
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
@@ -3096,7 +3101,7 @@
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [abacaj/mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference) - Run inference on MPT-30B using CPU
 - [the-modem-distro/pinephone_modem_sdk](https://github.com/the-modem-distro/pinephone_modem_sdk) - Pinephone Modem SDK: Tools to build your own bootloader, kernel and rootfs
-- [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - An efficient tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
+- [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - RAG based tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
 - [openworm/OpenWorm](https://github.com/openworm/OpenWorm) - Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -3113,7 +3118,7 @@
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [Max-Manning/passiveRadar](https://github.com/Max-Manning/passiveRadar) - Processing code for a FM radio based passive bistatic radar
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
 - [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive archite
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -4491,6 +4496,7 @@
 
 ## TypeScript 
 
+- [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
@@ -4535,7 +4541,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Superflows-AI/superflows](https://github.com/Superflows-AI/superflows) - Open-source toolkit to build an AI copilot for SaaS products
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Language-to-actions engine
