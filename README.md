@@ -152,6 +152,7 @@
 
 ## C 
 
+- [Adriankhl/godot-llm](https://github.com/Adriankhl/godot-llm) - LLM in Godot
 - [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
 - [anfractuosity/ramrecovery](https://github.com/anfractuosity/ramrecovery) - Simple demo illustrating remanence of data in RAM (see Cold boot attack) using a Raspberry Pi.  Loads many images of the Mona Lisa into RAM and recovers after powering off/on again.
 - [risolvipro/playdate-mode7](https://github.com/risolvipro/playdate-mode7) - A Mode 7 library for Playdate.
@@ -353,7 +354,6 @@
 
 ## C++ 
 
-- [Adriankhl/godot-llm](https://github.com/Adriankhl/godot-llm) - LLM in Godot
 - [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
 - [snap-stanford/snap](https://github.com/snap-stanford/snap) - Stanford Network Analysis Platform (SNAP) is a general purpose network analysis and graph mining library.
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
@@ -2921,6 +2921,8 @@
 
 ## Python 
 
+- [nkasmanoff/pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [kyegomez/AlphaFold3](https://github.com/kyegomez/AlphaFold3) - Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
@@ -2978,7 +2980,7 @@
 - [gavi/mlx-whatsapp](https://github.com/gavi/mlx-whatsapp) - An mlx project to train a base model on your whatsapp chats using (Q)Lora finetuning
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce the output format (JSON Schema, Regex etc) of a language model
-- [volotat/Anagnorisis](https://github.com/volotat/Anagnorisis) - Local recommendation system based on LLama 2
+- [volotat/Anagnorisis](https://github.com/volotat/Anagnorisis) - Local recommendation system
 - [sdan/selfextend](https://github.com/sdan/selfextend) - an implementation of Self-Extend, to expand the context window via grouped attention
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [mikepapadim/llama-shepherd-cli](https://github.com/mikepapadim/llama-shepherd-cli) - A CLI to manage install and configure llama inference implemenation in multiple languages
@@ -3419,7 +3421,7 @@
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
 - [CyberPunkMetalHead/Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) - This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me
 - [minimaxir/aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
-- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [allo-/virtual_webcam_background](https://github.com/allo-/virtual_webcam_background) - Use a virtual webcam background and overlays with body-pix and v4l2loopback
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
@@ -3505,7 +3507,7 @@
 - [yanminglai/Malware-GAN](https://github.com/yanminglai/Malware-GAN) - Realization of paper: "Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN" 2017
 - [jiupinjia/SkyAR](https://github.com/jiupinjia/SkyAR) - Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
+- [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition.
 - [Frichetten/aws_stealth_perm_enum](https://github.com/Frichetten/aws_stealth_perm_enum) - Research on the enumeration of IAM permissions without logging to CloudTrail
 - [serain/bbrecon](https://github.com/serain/bbrecon) - Python library and CLI for the Bug Bounty Recon API
 - [den4uk/andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
