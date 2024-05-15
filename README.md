@@ -440,7 +440,7 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [WithSecureLabs/C3](https://github.com/WithSecureLabs/C3) - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [google/safeside](https://github.com/google/safeside) - Understand and mitigate software-observable side-channels
 - [jmoon018/PacVim](https://github.com/jmoon018/PacVim) - 
 - [EspoTek/Labrador](https://github.com/EspoTek/Labrador) - EspoTek Labrador is a USB device that transforms your PC or smartphone into a fully-featured electronics lab.  This repo holds all of the source code!
@@ -1614,7 +1614,7 @@
 
 - [mohammed90/caddy-zero-trust-tls-everywhere](https://github.com/mohammed90/caddy-zero-trust-tls-everywhere) - Example of zero-trust architecture with Caddy Server
 - [terraform-google-modules/terraform-google-vault](https://github.com/terraform-google-modules/terraform-google-vault) - Deploys Vault on Compute Engine
-- [saeed349/Quant-Trading-Cloud-Infrastructure](https://github.com/saeed349/Quant-Trading-Cloud-Infrastructure) - 
+- [saeed349/Quant-Trading-Cloud-Infrastructure](https://github.com/saeed349/Quant-Trading-Cloud-Infrastructure) - This repository is an advanced version of the MBATS infrastructure that you can use to provision Google Cloud and CloudFlare services so that you could take the different components of MBATS into the 
 - [jboero/hashistack-gcpcr](https://github.com/jboero/hashistack-gcpcr) - 
 - [minamijoyo/tfmigrate-atlantis-demo](https://github.com/minamijoyo/tfmigrate-atlantis-demo) - A demo for tfmigrate with Atlantis
 - [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) - End-to-end modular samples and landing zones toolkit for Terraform on GCP.
@@ -2947,7 +2947,7 @@
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
-- [matthewmcneely/seinfeld-graph](https://github.com/matthewmcneely/seinfeld-graph) - A graph of "Seinfeld" Seasons, Episodes, Characters and Lines
+- [matthewmcneely/seinfeld-graph](https://github.com/matthewmcneely/seinfeld-graph) - A knowledge graph of "Seinfeld" Seasons, Episodes, Characters and Lines
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
 - [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
