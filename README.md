@@ -2153,6 +2153,7 @@
 
 ## Jupyter Notebook 
 
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [facebookresearch/searchformer](https://github.com/facebookresearch/searchformer) - Official codebase for the paper "Beyond A* Better Planning with Transformers via Search Dynamics Bootstrapping".
 - [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - Unified Training of Universal Time Series Forecasting Transformers
 - [AviSoori1x/makeMoE](https://github.com/AviSoori1x/makeMoE) - From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
@@ -3365,7 +3366,7 @@
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [breakerspace/weaponizing-censors](https://github.com/breakerspace/weaponizing-censors) - censors pose a threat to the entire Internet
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster with Flux
 - [yogeshkk/K8sPurger](https://github.com/yogeshkk/K8sPurger) - Hunt Unused Resources In Kubernetes
 - [DigeeX/raider](https://github.com/DigeeX/raider) - DEPRECATED, please use the new repository from OWASP: https://github.com/OWASP/raider
 - [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
