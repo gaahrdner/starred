@@ -2928,7 +2928,7 @@
 
 - [lamini-ai/lamini-earnings-calls](https://github.com/lamini-ai/lamini-earnings-calls) - 
 - [BBischof/yapping](https://github.com/BBischof/yapping) - Verbosity control for AI agents
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [entropy-research/Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
@@ -3187,7 +3187,7 @@
 - [IST-DASLab/gptq](https://github.com/IST-DASLab/gptq) - Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
 - [IST-DASLab/sparsegpt](https://github.com/IST-DASLab/sparsegpt) - Code for the ICML 2023 paper "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot".
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
-- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [danielgross/LlamaAcademy](https://github.com/danielgross/LlamaAcademy) - A school for camelids
 - [1rgs/MeGPT](https://github.com/1rgs/MeGPT) - Fine-tune a large language model on your own iMessages
 - [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
