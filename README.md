@@ -2204,7 +2204,7 @@
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - The hub for EleutherAI's work on interpretability and learning dynamics
 - [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf) - Crosslingual Generalization through Multitask Finetuning
 - [aliaksandr960/segment-anything-eo](https://github.com/aliaksandr960/segment-anything-eo) - Earth observation tools for Meta AI Segment Anything
-- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
 - [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [fpgaminer/GPTQ-triton](https://github.com/fpgaminer/GPTQ-triton) - GPTQ inference Triton kernel
