@@ -854,7 +854,7 @@
 - [evilsocket/islazy](https://github.com/evilsocket/islazy) - A Go library containing a set of opinionated packages, objects, helpers and functions implemented with the KISS principle in mind.
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [function61/hautomo](https://github.com/function61/hautomo) - Home automation hub fully built in Go, super simple to deploy
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra
 - [muchobien/tailscale-ui](https://github.com/muchobien/tailscale-ui) - Tailscale UI for Ubuntu
 - [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
@@ -2462,7 +2462,7 @@
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
 - [AnbuKumar-maker/AI-on-Jetson-Nano](https://github.com/AnbuKumar-maker/AI-on-Jetson-Nano) - I have created a series of programs using NVIDIA Jetson Nano, Pi Camera and Logitech Web Camera. I installed OpenCV version 4 along with Python 3 to create these sample programs
 - [YahboomTechnology/Transbot_Jetson](https://github.com/YahboomTechnology/Transbot_Jetson) - Yahboom ROS Transbot Robot with Lidar Depth camera support MoveIt 3D mapping for Nvidia Jetson NANO 4GB B01
-- [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
+- [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
 - [weiweihuanghuang/Times-New-Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard) - It's Times New Roman but every seventh letter is jarringly sans serif
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [Kuronons/FZ_graphics](https://github.com/Kuronons/FZ_graphics) - Flipper Zero Custom animations, profile and passport pictures by Kuronons
@@ -2749,6 +2749,7 @@
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [mauricesvay/awesome-vr-ux](https://github.com/mauricesvay/awesome-vr-ux) - Awesome VR UX
 - [wizztjh/awesome-WebVR](https://github.com/wizztjh/awesome-WebVR) - A curated list of awesome WebVR packages and resources.
 - [thejourneydude/awesome_vr](https://github.com/thejourneydude/awesome_vr) - List of curated articles on VR for developers and designers.
@@ -3161,7 +3162,7 @@
 - [everythingishacked/Gamebody](https://github.com/everythingishacked/Gamebody) - Full-body game controller built with Python, OpenCV, Mediapipe
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
@@ -3902,7 +3903,6 @@
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
 - [RJT1990/mantra](https://github.com/RJT1990/mantra) - A high-level, rapid development framework for machine learning projects
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
