@@ -2161,6 +2161,7 @@
 
 ## Jupyter Notebook 
 
+- [eugeneyan/visualizing-finetunes](https://github.com/eugeneyan/visualizing-finetunes) - 
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [facebookresearch/searchformer](https://github.com/facebookresearch/searchformer) - Official codebase for the paper "Beyond A* Better Planning with Transformers via Search Dynamics Bootstrapping".
 - [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - [ICML2024] Unified Training of Universal Time Series Forecasting Transformers
@@ -2643,7 +2644,7 @@
 - [FlorianWilk/SpotMicroAI](https://github.com/FlorianWilk/SpotMicroAI) - SpotMicro AI - How to build a self-learning Robot
 - [nextdns/metadata](https://github.com/nextdns/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
 - [yegle/your-dns](https://github.com/yegle/your-dns) - A docker-compose file to provide a secure adblocking DNS server
-- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major sections from Facebook, Instagram and Twitter including posts (likes/comments), photos/videos, contact informations, followers, following and much more.
+- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major sections from Facebook, Instagram, TikTok and Twitter (X) including posts (likes/comments), photos/videos, contact information, followers, following and much more
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [zeek/zeek-osquery](https://github.com/zeek/zeek-osquery) - Bro/Zeek integration with osquery
 - [teoseller/osquery-attck](https://github.com/teoseller/osquery-attck) - Mapping the MITRE ATT&CK Matrix with Osquery
@@ -2961,7 +2962,7 @@
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is an open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics in a single application 🔥 🖥 . Open source GenAI and LLM Application Performance Monitorin
+- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is an open-source LLM Observability tool built on OpenTelemetry. 📈🔥 Monitor GPU performance, LLM traces with input and output metadata, and metrics like cost, tokens, and user interactions alo
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 - [joaomdmoura/crewAI-tools](https://github.com/joaomdmoura/crewAI-tools) - 
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
@@ -3266,7 +3267,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
+- [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [EtteGit/EnragedRabbitProject](https://github.com/EtteGit/EnragedRabbitProject) - 
 - [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - [ICCV 2023 Oral] Text-to-Image Diffusion Models are Zero-Shot Video Generators
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
@@ -4565,7 +4566,7 @@
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines alternative. Automate security workflows at scale with code and no-code.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
