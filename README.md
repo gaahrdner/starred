@@ -2945,6 +2945,7 @@
 
 ## Python 
 
+- [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs
 - [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
