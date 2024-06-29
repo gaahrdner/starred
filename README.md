@@ -1270,7 +1270,7 @@
 - [go-gota/gota](https://github.com/go-gota/gota) - Gota: DataFrames and data wrangling in Go (Golang)
 - [PacktPublishing/Hands-on-Fundamentals-of-Data-Science-with-Go](https://github.com/PacktPublishing/Hands-on-Fundamentals-of-Data-Science-with-Go) - 
 - [CaliDog/certstream-go](https://github.com/CaliDog/certstream-go) - Go library for connecting to CertStream
-- [activecm/rita-archive](https://github.com/activecm/rita-archive) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
+- [activecm/rita-legacy](https://github.com/activecm/rita-legacy) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [google/cloudprober](https://github.com/google/cloudprober) - [Moved to cloudprober/cloudprober] An active monitoring software to detect failures before your customers do.
@@ -3398,7 +3398,6 @@
 - [Viralmaniar/Passhunt](https://github.com/Viralmaniar/Passhunt) - Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [vertexproject/synapse](https://github.com/vertexproject/synapse) - Synapse Central Intelligence System
-- [abhishekkrthakur/mlspace](https://github.com/abhishekkrthakur/mlspace) - MLSpace: Hassle-free machine learning & deep learning development
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [r3curs1v3-pr0xy/sub404](https://github.com/r3curs1v3-pr0xy/sub404) - A python tool to check subdomain takeover vulnerability
@@ -4342,7 +4341,7 @@
 - [grapl-security/grapl](https://github.com/grapl-security/grapl) - Graph platform for Detection and Response
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [nerdypepper/pista](https://github.com/nerdypepper/pista) - a simple {bash, zsh} prompt for programmers
+- [oppiliappan/pista](https://github.com/oppiliappan/pista) - a simple {bash, zsh} prompt for programmers
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [uavaustin/pathfinder](https://github.com/uavaustin/pathfinder) - Rust crate for adjusting a list of waypoints to avoid obstacles
