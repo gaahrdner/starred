@@ -625,6 +625,7 @@
 
 ## Go 
 
+- [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) - A drop-in replacement for SQS designed for great developer experience and efficiency.
 - [dorklyorg/dorkly](https://github.com/dorklyorg/dorkly) - Contains source code for GitHub Action and docker bits for backend service
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [cruise-automation/isopod](https://github.com/cruise-automation/isopod) - An expressive DSL and framework for Kubernetes configuration without YAML
@@ -4584,6 +4585,7 @@
 
 ## TypeScript 
 
+- [Omniplex-ai/omniplex](https://github.com/Omniplex-ai/omniplex) - Open-Source Perplexity
 - [SciPhi-AI/R2R-Dashboard](https://github.com/SciPhi-AI/R2R-Dashboard) - 
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
