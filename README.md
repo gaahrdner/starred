@@ -2184,7 +2184,6 @@
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql) - A series of top performing Text to SQL LLMs
 - [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
 - [adamkarvonen/chess_llm_interpretability](https://github.com/adamkarvonen/chess_llm_interpretability) - Visualizing the internal board state of a GPT trained on chess PGN strings, and performing interventions on its internal board state and representation of player Elo.
 - [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [PRIS-CV/DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (CVPR 2024)
@@ -2370,7 +2369,7 @@
 - [MartinHeinz/go-project-blueprint](https://github.com/MartinHeinz/go-project-blueprint) - Blueprint/Boilerplate For Golang Projects
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
+- [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker
 - [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops, workstations and servers.
 - [cpilsworth/cloudflare-worker-action](https://github.com/cpilsworth/cloudflare-worker-action) - GitHub action for deploying a worker to Cloudflare
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -3076,7 +3075,7 @@
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig is a config-based framework to build generative AI applications.
 - [joennlae/tensorli](https://github.com/joennlae/tensorli) - Absolute minimalistic implementation of a GPT-like transformer using only numpy (&lt;650 lines).
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
@@ -4615,6 +4614,7 @@
 - [cnoe-io/plugin-argo-workflows](https://github.com/cnoe-io/plugin-argo-workflows) - Backstage plugin for Argo Workflows
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [gregsadetsky/sagittarius](https://github.com/gregsadetsky/sagittarius) - A GPT-4/Gemini Voice/Video Exploration Tool
