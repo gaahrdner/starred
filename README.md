@@ -625,6 +625,10 @@
 
 ## Go 
 
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [syntaqx/cookie](https://github.com/syntaqx/cookie) - Cookies, but with structs, for happiness.
 - [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) - A drop-in replacement for SQS designed for great developer experience and efficiency.
 - [dorklyorg/dorkly](https://github.com/dorklyorg/dorkly) - Contains source code for GitHub Action and docker bits for backend service
@@ -2754,7 +2758,6 @@
 - [guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Growing the code out of your notebooks - the right way.
 - [deviantollam/Key-and-Pin-Decoding](https://github.com/deviantollam/Key-and-Pin-Decoding) - Key and Lock Decoding Tools
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [infosecn1nja/AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense) - Attack and defend active directory using modern post exploitation adversary tradecraft activity
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
@@ -2956,6 +2959,8 @@
 
 ## Python 
 
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack.
 - [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [AgentOps-AI/Jaiqu](https://github.com/AgentOps-AI/Jaiqu) - Automatically reformat any JSON into any schema with AI
@@ -3055,7 +3060,7 @@
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - [CVPR 2024] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
+- [SuperDuperDB/superduper](https://github.com/SuperDuperDB/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
