@@ -1998,7 +1998,6 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [adamschwartz/worker-generate-invoice-pdf](https://github.com/adamschwartz/worker-generate-invoice-pdf) - Generate an invoice PDF on the fly with Cloudflare Workers
 - [oliy/dbslides](https://github.com/oliy/dbslides) - Jumping the Shark with Postgres
-- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [victorqribeiro/radio](https://github.com/victorqribeiro/radio) - A simple javascript web radio visualizer
 - [datavized/twotone](https://github.com/datavized/twotone) - An open-source data sonification web app
 - [NSkelsey/aaalm](https://github.com/NSkelsey/aaalm) - Generate network maps from packet captures
@@ -2399,6 +2398,7 @@
 
 ## Nix 
 
+- [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@adisbladis]
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Building blocks for self-hosting with battery included.
@@ -2475,7 +2475,7 @@
 - [AmpereComputing/Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere) - 
 - [davidphilipbarr/Sweep](https://github.com/davidphilipbarr/Sweep) - Sweep - a small promicro based keyboard inspired by the Ferris.
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
 - [AnbuKumar-maker/AI-on-Jetson-Nano](https://github.com/AnbuKumar-maker/AI-on-Jetson-Nano) - I have created a series of programs using NVIDIA Jetson Nano, Pi Camera and Logitech Web Camera. I installed OpenCV version 4 along with Python 3 to create these sample programs
@@ -3060,7 +3060,7 @@
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - [CVPR 2024] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
-- [SuperDuperDB/superduper](https://github.com/SuperDuperDB/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
@@ -3779,6 +3779,7 @@
 - [evilsocket/ergo-planes-detector](https://github.com/evilsocket/ergo-planes-detector) - 🧠✈️ An ergo based project that relies on a convolutional neural network to detect airplanes from satellite imagery.
 - [evilsocket/ergo](https://github.com/evilsocket/ergo) - 🧠 A tool that makes AI easier.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
+- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [salesforce/ja3](https://github.com/salesforce/ja3) - JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [render-examples/fastai-v3](https://github.com/render-examples/fastai-v3) - Starter app for fastai v3 model deployment on Render
