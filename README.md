@@ -1931,6 +1931,7 @@
 - [progrium/envy](https://github.com/progrium/envy) - Lightweight dev environments with a twist
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
+- [Felx-B/vscode-web](https://github.com/Felx-B/vscode-web) - Visual Studio Code for browser
 - [glenstack/vscode-workers](https://github.com/glenstack/vscode-workers) - Visual Studio Code running on Cloudflare Workers
 - [msrkp/PPScan](https://github.com/msrkp/PPScan) - Client Side Prototype Pollution Scanner
 - [FSecureLABS/dref](https://github.com/FSecureLABS/dref) - DNS Rebinding Exploitation Framework
@@ -2104,7 +2105,6 @@
 - [reactiflux/discord-irc](https://github.com/reactiflux/discord-irc) - Connects Discord and IRC channels by sending messages back and forth.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
-- [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [swiftyspiffy/Burkes-Booty-Twitch-Extension](https://github.com/swiftyspiffy/Burkes-Booty-Twitch-Extension) - Twitch extension allow users to view doubloon/soundbyte credit counts and to send soundbytes to stream.
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
@@ -2398,6 +2398,7 @@
 
 ## Nix 
 
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
 - [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@adisbladis]
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
@@ -2882,6 +2883,7 @@
 - [xtr4nge/FruityWifi](https://github.com/xtr4nge/FruityWifi) - FruityWiFi is a wireless network auditing tool. The application can be installed in any Debian based system (Jessie) adding the extra packages. Tested in Debian, Kali Linux, Kali Linux ARM (Raspberry 
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
+- [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [slackhq/goSDL](https://github.com/slackhq/goSDL) - goSDL
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
@@ -3026,7 +3028,7 @@
 - [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Supabase for RAG - Build and scale production-ready user facing AI apps
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
@@ -3201,7 +3203,7 @@
 - [everythingishacked/Gamebody](https://github.com/everythingishacked/Gamebody) - Full-body game controller built with Python, OpenCV, Mediapipe
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
@@ -4261,6 +4263,7 @@
 
 ## Rust 
 
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [nkaz001/hftbacktest](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool in Python and Rust, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books, wi
@@ -4757,7 +4760,6 @@
 - [eg9y/PS5bot](https://github.com/eg9y/PS5bot) - bot to monitor PS5 stock and auto-purchase when available
 - [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [Felx-B/vscode-web](https://github.com/Felx-B/vscode-web) - Visual Studio Code for browser
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
