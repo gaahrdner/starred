@@ -3032,7 +3032,7 @@
 - [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications in production
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications in production.
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
@@ -3151,7 +3151,7 @@
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
+- [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents
 - [junruxiong/IncarnaMind](https://github.com/junruxiong/IncarnaMind) - Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
@@ -3375,6 +3375,7 @@
 - [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) - DeepMind's Tacotron-2 Tensorflow implementation
 - [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) - WaveRNN Vocoder + TTS
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [benedekrozemberczki/SGCN](https://github.com/benedekrozemberczki/SGCN) - A PyTorch implementation of "Signed Graph Convolutional Network" (ICDM 2018).
 - [RexYing/gnn-model-explainer](https://github.com/RexYing/gnn-model-explainer) - gnn explainer
 - [ChandlerBang/awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) - Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
@@ -4192,7 +4193,6 @@
 
 ## Roff 
 
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 
 ## Ruby 
