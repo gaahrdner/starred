@@ -3530,7 +3530,7 @@
 - [frewsxcv/who-hosts-hate](https://github.com/frewsxcv/who-hosts-hate) - Who hosts hate on the internet?
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [marcelbischoff/tinygrad](https://github.com/marcelbischoff/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [d0nk/parler-tricks](https://github.com/d0nk/parler-tricks) - Reverse engineered Parler API
 - [s0md3v/Decodify](https://github.com/s0md3v/Decodify) - Detect and decode encoded strings, recursively.
