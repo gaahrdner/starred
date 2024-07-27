@@ -2199,6 +2199,7 @@
 - [desik1998/MathWithLLMs](https://github.com/desik1998/MathWithLLMs) - 
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" (ICLR 2024)
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
@@ -3095,7 +3096,6 @@
 - [Jcparkyn/dpoint](https://github.com/Jcparkyn/dpoint) - Open-source digital stylus using camera tracking and inertial measurements
 - [KoeAI/LLVC](https://github.com/KoeAI/LLVC) - 
 - [zjohn77/lightning-mlflow-hf](https://github.com/zjohn77/lightning-mlflow-hf) - Use QLoRA to tune LLM in PyTorch-Lightning w/ Huggingface + MLflow
-- [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [openai/consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE
 - [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
@@ -3530,7 +3530,7 @@
 - [frewsxcv/who-hosts-hate](https://github.com/frewsxcv/who-hosts-hate) - Who hosts hate on the internet?
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [marcelbischoff/tinygrad](https://github.com/marcelbischoff/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [d0nk/parler-tricks](https://github.com/d0nk/parler-tricks) - Reverse engineered Parler API
 - [s0md3v/Decodify](https://github.com/s0md3v/Decodify) - Detect and decode encoded strings, recursively.
