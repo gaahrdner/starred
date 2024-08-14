@@ -357,6 +357,7 @@
 
 ## C++ 
 
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
 - [trailofbits/multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier.
 - [Adriankhl/godot-llm](https://github.com/Adriankhl/godot-llm) - LLM in Godot
 - [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
@@ -1767,6 +1768,7 @@
 
 ## Java 
 
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
@@ -2481,7 +2483,6 @@
 - [lxx0628/Prompting-Framework-Survey](https://github.com/lxx0628/Prompting-Framework-Survey) - A curated list of awesome publications and researchers on prompting framework updated and maintained by The Intelligent System Security (IS2).
 - [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) - A curated list of awesome Ebitengine frameworks, libraries and software
 - [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
-- [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
 - [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
@@ -2975,8 +2976,9 @@
 
 ## Python 
 
+- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [stanfordnlp/pyreft](https://github.com/stanfordnlp/pyreft) - ReFT: Representation Finetuning for Language Models
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [hwchase17/langgraph-engineer](https://github.com/hwchase17/langgraph-engineer) - 
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.
 - [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward diffusion models.
@@ -3104,6 +3106,7 @@
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig is a config-based framework to build generative AI applications.
 - [joennlae/tensorli](https://github.com/joennlae/tensorli) - Absolute minimalistic implementation of a GPT-like transformer using only numpy (&lt;650 lines).
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+- [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
@@ -4280,6 +4283,7 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
@@ -4322,7 +4326,7 @@
 - [tkaitchuck/aHash](https://github.com/tkaitchuck/aHash) - aHash is a non-cryptographic hashing algorithm that uses the AES hardware instruction
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
