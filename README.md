@@ -207,6 +207,7 @@
 - [willfindlay/bpfbox](https://github.com/willfindlay/bpfbox) - 🐝 BPFBox 📦 Exploring process confinement in eBPF
 - [captain-amygdala/pistorm](https://github.com/captain-amygdala/pistorm) - 68k Hardware Emulator
 - [criblio/appscope](https://github.com/criblio/appscope) - Gain observability into any Linux command or application with no code modification
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [intel/kernel-fuzzer-for-xen-project](https://github.com/intel/kernel-fuzzer-for-xen-project) - Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL
@@ -356,7 +357,7 @@
 
 ## C++ 
 
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers,
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker recognition, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 ser
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
 - [trailofbits/multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier.
 - [Adriankhl/godot-llm](https://github.com/Adriankhl/godot-llm) - LLM in Godot
@@ -932,7 +933,6 @@
 - [matryer/crunchcrunchcrunchstack](https://github.com/matryer/crunchcrunchcrunchstack) - This repo is a starting point for a Go + Svelte.js + TailwindCSS project.
 - [florianl/tc-skeleton](https://github.com/florianl/tc-skeleton) - Simple project to demonstrate the loading of eBPF programs via florianl/go-tc.
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [Binject/shellcode](https://github.com/Binject/shellcode) - Shellcode library as a Go package
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
 - [Binject/backdoorfactory](https://github.com/Binject/backdoorfactory) - A from-scratch rewrite of The Backdoor Factory - a MitM tool for inserting shellcode into all types of binaries on the wire.
@@ -2978,6 +2978,7 @@
 
 ## Python 
 
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - A website to scrape? There's a simple way.
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
@@ -3024,7 +3025,7 @@
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT: Complete Observability and Evals for the Entire GenAI Stack, from LLMs to GPUs. Improve your LLM apps from playground to production 📈. Supports 20+ monitoring integrations like OpenAI & LangC
@@ -3198,7 +3199,7 @@
 - [Dicklesworthstone/swiss_army_llama](https://github.com/Dicklesworthstone/swiss_army_llama) - A FastAPI service for semantic text search using precomputed embeddings and advanced similarity measures, with built-in support for various file types through textract.
 - [automorphic-ai/trex](https://github.com/automorphic-ai/trex) - Enforce structured output from LLMs 100% of the time
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
@@ -3214,7 +3215,7 @@
 - [Futrell/ziplm](https://github.com/Futrell/ziplm) - 
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [abacaj/mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference) - Run inference on MPT-30B using CPU
 - [the-modem-distro/pinephone_modem_sdk](https://github.com/the-modem-distro/pinephone_modem_sdk) - Pinephone Modem SDK: Tools to build your own bootloader, kernel and rootfs
@@ -4219,6 +4220,7 @@
 
 ## Ruby 
 
+- [ankane/transformers-ruby](https://github.com/ankane/transformers-ruby) - State-of-the-art transformers for Ruby
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [ankane/blazer](https://github.com/ankane/blazer) - Business intelligence made simple
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
@@ -4651,7 +4653,7 @@
 - [lindylearn/aboutideasnow](https://github.com/lindylearn/aboutideasnow) - Find people to talk to or collaborate with by searching across the /about, /ideas and /now pages of 1000s of personal websites.
 - [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and even files!
 - [cnoe-io/plugin-argo-workflows](https://github.com/cnoe-io/plugin-argo-workflows) - Backstage plugin for Argo Workflows
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
@@ -4891,7 +4893,7 @@
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern Vue admin panel built with Vue 3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [VictorioBerra/patch-me](https://github.com/VictorioBerra/patch-me) - A GUI for services like https://patchbay.pub/
 - [bitquery/widgets](https://github.com/bitquery/widgets) - Widgets for blockchain data visualizations
