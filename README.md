@@ -386,7 +386,7 @@
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [nomic-ai/gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [function3d/petalot](https://github.com/function3d/petalot) - PET Bottle To 3D Filament
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -3041,7 +3041,7 @@
 - [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 30.67% tasks (pass@1) in SWE-bench lite and 38.40% tasks (pass@1) in SWE-bench verified with 
 - [KittyChiu/workflow-metrics](https://github.com/KittyChiu/workflow-metrics) - A GitHub action to measure GitHub Actions workflow metrics. An enabler to put the concept discussed in the post to practice - https://www.kittychiu.com/posts/managing-actions-consumption/.
 - [cfusting/conditional-growth](https://github.com/cfusting/conditional-growth) - Grow virtual creatures in static and physics simulated environments.
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is yet another fast serving framework for large language models and vision language models.
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -3091,7 +3091,7 @@
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - [CVPR 2024] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
@@ -3362,7 +3362,7 @@
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [DownrightNifty/gh_hack_PoC](https://github.com/DownrightNifty/gh_hack_PoC) - 
