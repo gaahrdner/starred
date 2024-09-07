@@ -320,7 +320,7 @@
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
-- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [BnuuySolutions/OculusKiller](https://github.com/BnuuySolutions/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
 - [Shogan/kube-chaos](https://github.com/Shogan/kube-chaos) - A chaos engineering style game where you seek out and destroy Kubernetes pods, twinstick shmup style.
 - [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck) - Identifies the bytes that Microsoft Defender flags on.
@@ -1885,7 +1885,6 @@
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
-- [moj-analytical-services/splink](https://github.com/moj-analytical-services/splink) - Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends
 - [mathgladiator/roslin](https://github.com/mathgladiator/roslin) - 
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
@@ -3366,6 +3365,7 @@
 - [yuvadm/krakensdr_pr](https://github.com/yuvadm/krakensdr_pr) - Passive Radar Code for the KrakenSDR
 - [mfkiwl/krakensdr_pr](https://github.com/mfkiwl/krakensdr_pr) - Passive Radar Code for the KrakenSDR
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+- [moj-analytical-services/splink](https://github.com/moj-analytical-services/splink) - Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning Distribution
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
