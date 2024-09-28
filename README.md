@@ -1258,7 +1258,6 @@
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 - [evilsocket/shellz](https://github.com/evilsocket/shellz) - shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.
 - [evilsocket/sum](https://github.com/evilsocket/sum) - A specialized database server for linear algebra and machine learning.
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages
 - [tsurubee/sshr](https://github.com/tsurubee/sshr) - Proxy server for routing SSH connections
 - [degenerat3/meteor](https://github.com/degenerat3/meteor) - A cross-platform C2/teamserver supporting multiple transport protocols, written in Go.
@@ -2026,6 +2025,7 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [adamschwartz/worker-generate-invoice-pdf](https://github.com/adamschwartz/worker-generate-invoice-pdf) - Generate an invoice PDF on the fly with Cloudflare Workers
 - [oliy/dbslides](https://github.com/oliy/dbslides) - Jumping the Shark with Postgres
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [victorqribeiro/radio](https://github.com/victorqribeiro/radio) - A simple javascript web radio visualizer
 - [datavized/twotone](https://github.com/datavized/twotone) - An open-source data sonification web app
 - [NSkelsey/aaalm](https://github.com/NSkelsey/aaalm) - Generate network maps from packet captures
