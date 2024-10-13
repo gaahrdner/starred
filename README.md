@@ -360,6 +360,7 @@
 
 ## C++ 
 
+- [kevmo314/scuda](https://github.com/kevmo314/scuda) - 
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker recognition, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 ser
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
@@ -470,7 +471,7 @@
 - [ucbrise/confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
-- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
+- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
@@ -639,6 +640,8 @@
 
 ## Go 
 
+- [naughtygopher/pocache](https://github.com/naughtygopher/pocache) - Pocache is a minimal cache package which focuses on a preemptive optimistic caching strategy
+- [adamdecaf/deadcheck](https://github.com/adamdecaf/deadcheck) - dead mans switch without reliance on your system
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced Layer 7 reverse proxy server written in Go
 - [tjb/gofaux](https://github.com/tjb/gofaux) - versatile cli tool that captures and stores json requests, allowing you to replay them as needed.
 - [Telemaco019/kubesafe](https://github.com/Telemaco019/kubesafe) - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands.
@@ -1490,7 +1493,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
-- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, and OpenCV Contrib.
+- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
 - [davecheney/gophercon2018-performance-tuning-workshop](https://github.com/davecheney/gophercon2018-performance-tuning-workshop) - GopherCon 2018 Performance Tuning Workshop
 - [valyala/chclient](https://github.com/valyala/chclient) - Fast http client for SELECT queries in clickhouse
 - [genuinetools/img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
@@ -2214,6 +2217,7 @@
 - [eugeneyan/visualizing-finetunes](https://github.com/eugeneyan/visualizing-finetunes) - 
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [facebookresearch/searchformer](https://github.com/facebookresearch/searchformer) - Official codebase for the paper "Beyond A* Better Planning with Transformers via Search Dynamics Bootstrapping".
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - [ICML2024] Unified Training of Universal Time Series Forecasting Transformers
 - [AviSoori1x/makeMoE](https://github.com/AviSoori1x/makeMoE) - From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
 - [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
@@ -2998,7 +3002,8 @@
 
 ## Python 
 
-- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
+- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA+FAISS powered video surveillance system
 - [disler/poc-realtime-ai-assistant](https://github.com/disler/poc-realtime-ai-assistant) - 
 - [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
 - [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
@@ -3064,12 +3069,12 @@
 - [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT: Complete Observability and Evals for the Entire GenAI Stack, from LLMs to GPUs. Improve your LLM apps from playground to production 📈. Supports 20+ monitoring integrations like OpenAI & LangC
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 - [crewAIInc/crewAI-tools](https://github.com/crewAIInc/crewAI-tools) - 
-- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: Language Guided Generation of 3D Embodied AI Environments.
 - [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 30.67% tasks (pass@1) in SWE-bench lite and 38.40% tasks (pass@1) in SWE-bench verified with 
 - [KittyChiu/workflow-metrics](https://github.com/KittyChiu/workflow-metrics) - A GitHub action to measure GitHub Actions workflow metrics. An enabler to put the concept discussed in the post to practice - https://www.kittychiu.com/posts/managing-actions-consumption/.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [cfusting/conditional-growth](https://github.com/cfusting/conditional-growth) - Grow virtual creatures in static and physics simulated environments.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
@@ -3159,7 +3164,7 @@
 - [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [kaydotai/kay](https://github.com/kaydotai/kay) - 
-- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
+- [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 - [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - ICLR2024 Spotlight: curation/training code, metadata, distribution and pre-trained models for MetaCLIP; CVPR 2024: MoDE: CLIP Data Experts via Clustering
 - [wy-z/requests-openapi](https://github.com/wy-z/requests-openapi) - A lightweight but powerful and easy-to-use Python client library for OpenAPI v3.
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
@@ -4666,7 +4671,7 @@
 - [TrafficGuard/sophia](https://github.com/TrafficGuard/sophia) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more
 - [tscircuit/bunaider](https://github.com/tscircuit/bunaider) - 
 - [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML + SCIM support this afternoon.
-- [palico-ai/palico-ai](https://github.com/palico-ai/palico-ai) - Development Workspace for Building, Experimenting, and Deploying your LLM Applications
+- [palico-ai/palico-ai](https://github.com/palico-ai/palico-ai) - Quickly Iterate on your LLM Development with an Integrated Workspace
 - [Omniplex-ai/omniplex](https://github.com/Omniplex-ai/omniplex) - Open-Source Perplexity
 - [SciPhi-AI/R2R-Application](https://github.com/SciPhi-AI/R2R-Application) - react + next.js dashboard for R2R: production-ready RAG engine with a sh*t ton of features.
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
@@ -4682,7 +4687,6 @@
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
