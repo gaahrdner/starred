@@ -963,7 +963,7 @@
 - [willscott/go-nfs](https://github.com/willscott/go-nfs) - golang NFSv3 server
 - [jordanlewis/gcassert](https://github.com/jordanlewis/gcassert) - Assert your Go code is inlined and bounds-check eliminated
 - [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
-- [forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector) - 🚨 The artifactcollector is a customizable agent to collect forensic artifacts on any Windows, macOS or Linux system
+- [forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector) - 🧭 The artifactcollector is a customizable agent to collect forensic artifacts on any Windows, macOS or Linux system
 - [mfbx9da4/brightpath-backend](https://github.com/mfbx9da4/brightpath-backend) - Find the safest well lit walking path between two locations on earth.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
@@ -3052,7 +3052,7 @@
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [lamini-ai/lamini-earnings-calls](https://github.com/lamini-ai/lamini-earnings-calls) - 
 - [BBischof/yapping](https://github.com/BBischof/yapping) - Verbosity control for AI agents
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
 - [entropy-research/Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
