@@ -2247,6 +2247,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" (ICLR 2024)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 - [fastai/lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models
 - [TIGER-AI-Lab/MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - Code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning" (ICLR 2024)
@@ -3019,13 +3020,15 @@
 
 ## Python 
 
-- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vis
+- [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+- [agentos-project/agentos](https://github.com/agentos-project/agentos) - The Python Component System (PCS) is an API and CLI for building, running, and sharing Python code. AgentOS is a set of libraries built on top of PCS that make it easy to build, run, and share agents 
+- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is a conversational AI powered by TEN, integrating Gemini 2.0 Multimodal Live API, OpenAI Realtime API, RTC, and more. It offers real-time capabilities to see, hear, and speak, along with ad
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [lucidrains/coconut-pytorch](https://github.com/lucidrains/coconut-pytorch) - Implementation of 🥥 Coconut, Chain of Continuous Thought, in Pytorch
 - [lucidrains/gotennet-pytorch](https://github.com/lucidrains/gotennet-pytorch) - Implementation of GotenNet, new SOTA 3d equivariant transformer, in Pytorch
-- [taketwo/llm-ollama](https://github.com/taketwo/llm-ollama) - LLM plugin providing access to local Ollama models using HTTP API
+- [taketwo/llm-ollama](https://github.com/taketwo/llm-ollama) - LLM plugin providing access to models running on an Ollama server
 - [OpenBB-finance/openbb-agents](https://github.com/OpenBB-finance/openbb-agents) - R&D playground to play with agents and OpenBB
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [evolutionaryscale/esm](https://github.com/evolutionaryscale/esm) - 
@@ -3232,7 +3235,6 @@
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [smpanaro/more-ane-transformers](https://github.com/smpanaro/more-ane-transformers) - Run transformers (incl. LLMs) on the Apple Neural Engine.
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24].
@@ -4754,7 +4756,7 @@
 - [SciPhi-AI/R2R-Application](https://github.com/SciPhi-AI/R2R-Application) - react + next.js dashboard for R2R: The most advanced AI retrieval system. Containerized, Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
