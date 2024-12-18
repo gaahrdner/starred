@@ -1473,7 +1473,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [hashicorp/vault-plugin-auth-kubernetes](https://github.com/hashicorp/vault-plugin-auth-kubernetes) - Vault authentication plugin for Kubernetes Service Accounts
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [rawdigits/go-flashpaper](https://github.com/rawdigits/go-flashpaper) - Flashpaper is a simple go-based service for creating one time use links to text data or individual files.
 - [sroberts/cacador](https://github.com/sroberts/cacador) - Indicator Extractor
@@ -3371,7 +3371,7 @@
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [benjie-git/CardStock](https://github.com/benjie-git/CardStock) - CardStock is a cross-platform tool for quickly and easily building programs. It provides a drawing-program-like editor for visually laying out your programs' parts, and a code editor for adding event-
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
-- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
+- [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [minosvasilias/godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
 - [declare-lab/instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [Significant-Gravitas/Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
@@ -3653,6 +3653,7 @@
 - [deepseagirl/degoogle](https://github.com/deepseagirl/degoogle) - search Google and extract results directly. skip all the click-through links and other sketchiness
 - [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [airbus-seclab/gustave](https://github.com/airbus-seclab/gustave) - GUSTAVE is a fuzzing platform for embedded OS kernels. It is based on QEMU and AFL (and all of its forkserver siblings). It allows to fuzz OS kernels like simple applications.
+- [BonJarber/SecUtils](https://github.com/BonJarber/SecUtils) - Random utilities from my security projects that might be useful to others
 - [honoki/bbrf-client](https://github.com/honoki/bbrf-client) - The Bug Bounty Reconnaissance Framework (BBRF) can help you coordinate your reconnaissance workflows across multiple devices
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
 - [google/fuzzbench](https://github.com/google/fuzzbench) - FuzzBench - Fuzzer benchmarking as a service.
@@ -4575,7 +4576,6 @@
 - [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [jetstack/cert-manager-nginx-plus-lab](https://github.com/jetstack/cert-manager-nginx-plus-lab) - Lab demonstrating cert-manager, nginx-plus and Venafi
-- [BonJarber/SecUtils](https://github.com/BonJarber/SecUtils) - Random utilities from my security projects that might be useful to others
 - [th3hack3rwiz/Lazy-FuzzZ](https://github.com/th3hack3rwiz/Lazy-FuzzZ) - Sometimes we want to fuzz a set of sub-domain URLs with a common wordlist. Fuzzing them one by one is a tedious task, not to mention the false positives we obtain in those results. To solve this probl
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [erik-smit/oohhh-what-does-this-ipmi-doooo-no-deedee-nooooo](https://github.com/erik-smit/oohhh-what-does-this-ipmi-doooo-no-deedee-nooooo) - 
