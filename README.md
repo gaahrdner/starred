@@ -302,7 +302,7 @@
 - [fabianhu/SIP-Pi](https://github.com/fabianhu/SIP-Pi) - SIP answering machine running on Raspberry Pi
 - [go-gl/glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [conorpp/u2f-zero](https://github.com/conorpp/u2f-zero) - U2F USB token optimized for physical security, affordability, and style
@@ -924,7 +924,7 @@
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources
 - [mumoshu/variant2](https://github.com/mumoshu/variant2) - Turn your bash scripts into a modern, single-executable CLI app today
 - [anacrolix/dht](https://github.com/anacrolix/dht) - dht is used by anacrolix/torrent, and is intended for use as a library in other projects both torrent related and otherwise
-- [gokrazy/rsync](https://github.com/gokrazy/rsync) - gokrazy rsync
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [layeh/radius](https://github.com/layeh/radius) - a Go (golang) RADIUS client and server implementation
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [frigus02/kyml](https://github.com/frigus02/kyml) - A CLI, which helps you to work with and deploy plain Kubernetes YAML files.
@@ -3096,7 +3096,7 @@
 - [Pravko-Solutions/FlashLearn](https://github.com/Pravko-Solutions/FlashLearn) - Integrate LLM in any pipeline - fit/predict pattern, JSON driven flows, and built in concurency support.
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [suwi-lanji/auto-commit](https://github.com/suwi-lanji/auto-commit) - Have GEMINI stage and write commit for you
-- [thomasahle/tensorgrad](https://github.com/thomasahle/tensorgrad) - Tensor Network Library with Autograd
+- [thomasahle/tensorgrad](https://github.com/thomasahle/tensorgrad) - Machine Learning with Symbolic Tensors
 - [Om-Alve/smolGPT](https://github.com/Om-Alve/smolGPT) - 
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [buiapp/reaktiv](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
@@ -3153,7 +3153,7 @@
 - [lmnr-ai/flow](https://github.com/lmnr-ai/flow) - A lightweight task engine for building stateful AI agents that prioritizes simplicity and flexibility.
 - [adobe-research/dynasaur](https://github.com/adobe-research/dynasaur) - Official repository for "DynaSaur: Large Language Agents Beyond Predefined Actions"
 - [villasv/ssh-artwork](https://github.com/villasv/ssh-artwork) - 
-- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS), YouTube d
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downl
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM2 and SmolVLM family of models
 - [DavidVujic/python-polylith-example-rye](https://github.com/DavidVujic/python-polylith-example-rye) - Example Polylith setup for Python and Rye
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith) - Tooling support for the Polylith Architecture in Python.
@@ -4489,6 +4489,7 @@
 
 ## Rust 
 
+- [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -4966,7 +4967,7 @@
 - [1rgs/clarity-reader](https://github.com/1rgs/clarity-reader) - Layered, depth-first reading—start with summaries, tap to explore details, and gain clarity on complex topics.
 - [williamcotton/empirical-philosophy](https://github.com/williamcotton/empirical-philosophy) - A collection of empirical experiments using large language models and other neural network architectures to test the usefulness of metaphysical constructs.
 - [williamcotton/transynthetical-engine](https://github.com/williamcotton/transynthetical-engine) - Applied methods of analytical augmentation to build tools using large-language models.
-- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI agent chatbot large PDF docs
+- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI PDF chatbot agent
 - [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
