@@ -670,6 +670,7 @@
 
 ## Go 
 
+- [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Claude Code, Aider, Codex, and Amp. 10x your productivity
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
@@ -1781,7 +1782,6 @@
 
 ## HTML 
 
-- [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
 - [Kuberwastaken/backdooms](https://github.com/Kuberwastaken/backdooms) - A self-contained game that fits inside a QR code inspired by DOOM 1993 and The Backrooms
 - [aerokube/moon](https://github.com/aerokube/moon) - Browser automation solution for Kubernetes and Openshift supporting Selenium, Playwright, Puppeteer and Cypress
 - [llSourcell/ScienceFlow](https://github.com/llSourcell/ScienceFlow) - An AI to accelerate Scientific Discovery
@@ -1892,7 +1892,7 @@
 
 ## Java 
 
-- [swgee/BurpMCP](https://github.com/swgee/BurpMCP) - Burp Suite Extension with MCP Server
+- [swgee/BurpMCP](https://github.com/swgee/BurpMCP) - Burp Suite Extension with MCP Server to enhance manual application security testing
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [GoogleCloudPlatform/jit-groups](https://github.com/GoogleCloudPlatform/jit-groups) - JIT Groups is an open source application that lets you implement secure, self-service access management for Google Cloud using groups.
 - [VanceVagell/kv4p-ht](https://github.com/VanceVagell/kv4p-ht) - Open source handheld ham radio project KV4P-HT
@@ -2347,7 +2347,6 @@
 - [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [PRIS-CV/DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (CVPR 2024)
-- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [xetdata/onnx-models](https://github.com/xetdata/onnx-models) - A copy of ONNX models, datasets, and code all in one GitHub repository. Follow the README to learn more.
 - [desik1998/MathWithLLMs](https://github.com/desik1998/MathWithLLMs) - 
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
@@ -2648,6 +2647,7 @@
 - [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
 - [cognitom/OpenCola](https://github.com/cognitom/OpenCola) - Coca-Cola
 - [candiddev/rot](https://github.com/candiddev/rot) - Boring Cryptography Tooling for Humans
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [yhLeeee/Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) - A curated collection of research papers exploring the utilization of LLMs for graph-related tasks.
 - [surprisetalk/wigwams](https://github.com/surprisetalk/wigwams) - curated list of alternative projects
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
@@ -3308,7 +3308,7 @@
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack.
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [AgentOps-AI/Jaiqu](https://github.com/AgentOps-AI/Jaiqu) - Automatically reformat any JSON into any schema with AI
-- [asf-transfer/burr](https://github.com/asf-transfer/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.
+- [apache/burr](https://github.com/apache/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.
 - [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
@@ -3623,7 +3623,7 @@
 - [catid/supercharger](https://github.com/catid/supercharger) - Supercharge Open-Source AI Models
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
-- [yeagerai/yeagerai-agent](https://github.com/yeagerai/yeagerai-agent) - 
+- [genlayerlabs/yeagerai-agent](https://github.com/genlayerlabs/yeagerai-agent) - 
 - [grumpyp/chroma-langchain-tutorial](https://github.com/grumpyp/chroma-langchain-tutorial) - The project involves using the Wikipedia API to retrieve current content on a topic, and then using LangChain, OpenAI and Chroma to ask and answer questions about it. The aim of the project is to show
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [OwenPendrighElliott/SpeechSearch](https://github.com/OwenPendrighElliott/SpeechSearch) - 
@@ -4600,6 +4600,7 @@
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [EliseZeroTwo/ml1hax](https://github.com/EliseZeroTwo/ml1hax) - An exploit chain for the Magic Leap One (and probably other TX2 devices)
 - [dahlend/kete](https://github.com/dahlend/kete) - Kete Solar System Survey tools
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
@@ -4980,7 +4981,6 @@
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) - Matterbridge plugin manager for Matter
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
