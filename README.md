@@ -1617,7 +1617,6 @@
 - [ContainerSolutions/helm-monitor](https://github.com/ContainerSolutions/helm-monitor) - Monitor K8S Helm release, rollback on metrics behavior (Prometheus, Elasticsearch, Sentry)
 - [Jigsaw-Code/outline-ss-server](https://github.com/Jigsaw-Code/outline-ss-server) - Outline Shadowsocks server
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [russellcullen/dankbot](https://github.com/russellcullen/dankbot) - A Dank Discord Bot
@@ -1944,6 +1943,7 @@
 
 ## Java 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
 - [swgee/BurpMCP](https://github.com/swgee/BurpMCP) - Burp Suite Extension with MCP Server to enhance manual application security testing
@@ -2453,7 +2453,6 @@
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Zoomcamp is a free nine-week course that covers the fundamentals of data engineering.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
@@ -3223,6 +3222,11 @@
 
 ## Python 
 
+- [cased/sandboxes](https://github.com/cased/sandboxes) - Universal API for cloud sandboxes
+- [cased/kit](https://github.com/cased/kit) - The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.
+- [kaushikb11/verifiers-monitor](https://github.com/kaushikb11/verifiers-monitor) - Observability framework for RL training and evaluation
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [DebarghaG/proofofthought](https://github.com/DebarghaG/proofofthought) - "Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning" published Sys2Reasoning Workshop NeurIPS 2024
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -3235,7 +3239,7 @@
 - [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Environments for LLM Reinforcement Learning
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text server.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API end
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;70% on SWE-bench verified!
 - [maitrix-org/llm-reasoners](https://github.com/maitrix-org/llm-reasoners) - A library for advanced large language model reasoning
@@ -3373,7 +3377,7 @@
 - [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [jplhughes/bon-jailbreaking](https://github.com/jplhughes/bon-jailbreaking) - Code release for Best-of-N Jailbreaking
-- [ArcadeAI/arcade-mcp](https://github.com/ArcadeAI/arcade-mcp) - Arcade Tool Development Kit (TDK), Worker, Evals, and CLI
+- [ArcadeAI/arcade-mcp](https://github.com/ArcadeAI/arcade-mcp) - The best way to create and build MCP Servers
 - [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
 - [simonw/llm-claude-3](https://github.com/simonw/llm-claude-3) - LLM plugin for interacting with the Claude 3 family of models
 - [leondz/lm_risk_cards](https://github.com/leondz/lm_risk_cards) - Risks and targets for assessing LLMs & LLM vulnerabilities
@@ -3489,7 +3493,7 @@
 - [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: Language Guided Generation of 3D Embodied AI Environments.
 - [AutoCodeRoverSG/auto-code-rover](https://github.com/AutoCodeRoverSG/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with ea
 - [KittyChiu/workflow-metrics](https://github.com/KittyChiu/workflow-metrics) - A GitHub action to measure GitHub Actions workflow metrics. An enabler to put the concept discussed in the post to practice - https://www.kittychiu.com/posts/managing-actions-consumption/.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [cfusting/conditional-growth](https://github.com/cfusting/conditional-growth) - Grow virtual creatures in static and physics simulated environments.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Probabilistic Time Series Forecasting
@@ -3821,6 +3825,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [DownrightNifty/gh_hack_PoC](https://github.com/DownrightNifty/gh_hack_PoC) - 
 - [CarperAI/cheese](https://github.com/CarperAI/cheese) - Used for adaptive human in the loop evaluation of language and embedding models.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 - [tensorflow/datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
@@ -5145,6 +5150,8 @@
 
 ## TypeScript 
 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [pulsecost/pulsecost-oss](https://github.com/pulsecost/pulsecost-oss) - Proxy + Dashboard for optimizing LLM usage costs with reports
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [graycoreio/daffodil](https://github.com/graycoreio/daffodil) - Build complex Ecommerce store frontends and connect to any backend https://discord.gg/BdaJVZ53sR
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
@@ -5442,6 +5449,7 @@
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 - [ampproject/worker-dom](https://github.com/ampproject/worker-dom) - The same DOM API and Frameworks you know, but in a Web Worker.
+- [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow) - Do things fast
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [brannondorsey/chattervox](https://github.com/brannondorsey/chattervox) - 📡 An AX.25 packet radio chat protocol with support for digital signatures and binary compression. Like IRC over radio waves.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
