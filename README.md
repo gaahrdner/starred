@@ -1687,7 +1687,6 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go
 - [qor/transition](https://github.com/qor/transition) - Transition is a Golang state machine implementation
@@ -1701,7 +1700,6 @@
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [cirocosta/cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
@@ -2322,6 +2320,7 @@
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [bitbull-team/docker-exec-web-console](https://github.com/bitbull-team/docker-exec-web-console) - A web UI to docker exec from the browser
 - [qor/media](https://github.com/qor/media) - Media add uploading files to cloud or other destinations with support for image cropping and resizing features to any structs
@@ -2560,6 +2559,7 @@
 
 ## Kotlin 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 - [glasskube/operator](https://github.com/glasskube/operator) - 🧊 Glasskube Apps Operator
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -3236,6 +3236,7 @@
 
 ## Python 
 
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [character-ai/Ovi](https://github.com/character-ai/Ovi) - 
 - [Pringled/pyversity](https://github.com/Pringled/pyversity) - Fast Diversification for Search & Retrieval
@@ -3269,7 +3270,7 @@
 - [cpldcpu/CandleSense](https://github.com/cpldcpu/CandleSense) - Detecting oscillations in a candle flame triplet using only wires and a CH32V003 microcontroller.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-quality Text-to-Speech Narration
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOC, DOCX, HTML, RTF, TXT, and MD.
 - [micahflee/paramilitary-leaks](https://github.com/micahflee/paramilitary-leaks) - Exploring the Paramilitary Leaks dataset, 200 GB of chat logs from AP III and the Oath Keepers
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
@@ -3323,7 +3324,7 @@
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 - [shadygm/ROSplat](https://github.com/shadygm/ROSplat) - The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
-- [intel/auto-round](https://github.com/intel/auto-round) - Advanced Quantization Algorithm for LLMs and VLMs, with support for CPU, Intel GPU, CUDA and HPU.
+- [intel/auto-round](https://github.com/intel/auto-round) - Advanced quantization toolkit for LLMs. Native support for WOQ, MXFP4, NVFP4, GGUF, AutoBits and seamless integration with Transformers, vLLM, SGLang.
 - [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Tamagotchi-style digital pet with a neural network featuring neurogenesis & Hebbian learning
 - [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - The most accurate document search and store for building AI apps
 - [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
@@ -3497,6 +3498,7 @@
 - [nkasmanoff/pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [kyegomez/Open-AF3](https://github.com/kyegomez/Open-AF3) - Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -4023,7 +4025,7 @@
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) - OnionSearch is a script that scrapes urls on different .onion search engines.
 - [0bs3ssion/Reconbot](https://github.com/0bs3ssion/Reconbot) - Reconnaissance and Enumeration automation script
 - [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) - Arsenal is just a quick inventory and launcher for hacking programs
-- [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+- [AutoRecon/AutoRecon](https://github.com/AutoRecon/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [RedDrip7/SunBurst_DGA_Decode](https://github.com/RedDrip7/SunBurst_DGA_Decode) - SunBurst DGA Decode Script
 - [frewsxcv/who-hosts-hate](https://github.com/frewsxcv/who-hosts-hate) - Who hosts hate on the internet?
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
@@ -4513,6 +4515,7 @@
 - [sammchardy/python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading
 - [jealous/stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 - [yasinkuyu/binance-trader](https://github.com/yasinkuyu/binance-trader) - 💰 Cryptocurrency Trading Bot for Binance (Experimental)
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
 - [thtrieu/darkflow](https://github.com/thtrieu/darkflow) - Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
 - [JeremyNGalloway/mod_plaintext.py](https://github.com/JeremyNGalloway/mod_plaintext.py) - AKA "Internet Chemotherapy"
@@ -5252,7 +5255,6 @@
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project management tool for tiny teams
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [AtotheY/saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
 - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
