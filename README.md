@@ -711,7 +711,7 @@
 ## Go 
 
 - [loresuso/psc](https://github.com/loresuso/psc) - the ps utility, with an eBPF twist and container context
-- [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.
+- [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
 - [leg100/otf](https://github.com/leg100/otf) - An open source alternative to terraform enterprise.
 - [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -738,7 +738,7 @@
 - [flemzord/mutating-registry-webhook](https://github.com/flemzord/mutating-registry-webhook) - Kubernetes admission webhook that automatically rewrites container image references to use pull-through cache registries (ECR, corporate proxies) based on configurable rules.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
-- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine-Tuning on Kubernetes
+- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and LLM Fine-Tuning on Kubernetes
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [sgl-project/ome](https://github.com/sgl-project/ome) - Open Model Engine (OME) — Kubernetes operator for LLM serving, GPU scheduling, and model lifecycle management. Works with SGLang, vLLM, TensorRT-LLM, and Triton
 - [saymedia/journald-cloudwatch-logs](https://github.com/saymedia/journald-cloudwatch-logs) - Collects logs from journald and writes them to CloudWatch Logs as JSON
@@ -3260,6 +3260,7 @@
 
 ## Python 
 
+- [ucsdsysnet/dontlookup](https://github.com/ucsdsysnet/dontlookup) - 
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [chunkhound/chunkhound](https://github.com/chunkhound/chunkhound) - Local first codebase intelligence
@@ -4539,7 +4540,7 @@
 - [bijection/sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [KonradIT/gopro-py-api](https://github.com/KonradIT/gopro-py-api) - Unofficial GoPro API Library for Python - connect to GoPro via WiFi.
-- [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
+- [Kaggle/kaggle-cli](https://github.com/Kaggle/kaggle-cli) - Official Kaggle CLI
 - [Bellspringsteen/OurCamera](https://github.com/Bellspringsteen/OurCamera) - https://www.nytimes.com/2018/03/15/nyregion/bike-lane-blocked-new-york.html
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -5105,7 +5106,7 @@
 - [yboetz/motd](https://github.com/yboetz/motd) - Collection of 'message of the day' scripts
 - [mariusgrigaitis/docker-mac-ssh-auth-sock](https://github.com/mariusgrigaitis/docker-mac-ssh-auth-sock) - SSH_AUTH_SOCK socket forwarding for Docker for Mac
 - [aledbf/kubernetes-cluster-intel-nuc](https://github.com/aledbf/kubernetes-cluster-intel-nuc) - Kubernetes cluster running on Intel NUC
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [cloudposse/bastion](https://github.com/cloudposse/bastion) - 🔒Secure Bastion implemented as Docker Container running Alpine Linux with Google Authenticator & DUO MFA support
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [tiziw/iuvolt](https://github.com/tiziw/iuvolt) - Script to undervolt Intel CPUs
