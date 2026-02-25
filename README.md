@@ -2622,7 +2622,7 @@
 
 ## MDX 
 
-- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe, ultra fast, typed APIs. Built for AI development (Claude, Codex,   Cursor).
+- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -3296,14 +3296,14 @@
 - [apple/ml-simplefold](https://github.com/apple/ml-simplefold) - 
 - [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs
 - [finite-sample/rmcp](https://github.com/finite-sample/rmcp) - R MCP Server
-- [The-AI-Alliance/deep-research-agent-for-finance](https://github.com/The-AI-Alliance/deep-research-agent-for-finance) - An example app that explores the challenges of building production-quality AI applications.
+- [The-AI-Alliance/deep-research-agent-for-applications](https://github.com/The-AI-Alliance/deep-research-agent-for-applications) - Example apps that explores the challenges of building production-quality AI applications.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Our library for RL environments + evals
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text model
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API end
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified control plane with centralized governance, discovery, and observability for all your AI nee
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [maitrix-org/llm-reasoners](https://github.com/maitrix-org/llm-reasoners) - A library for advanced large language model reasoning
 - [martianlantern/ThinkMesh](https://github.com/martianlantern/ThinkMesh) - This is a framework that implements various parallel reasoning strategies from the literature
@@ -3551,7 +3551,7 @@
 - [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: Language Guided Generation of 3D Embodied AI Environments.
 - [AutoCodeRoverSG/auto-code-rover](https://github.com/AutoCodeRoverSG/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with ea
 - [KittyChiu/workflow-metrics](https://github.com/KittyChiu/workflow-metrics) - A GitHub action to measure GitHub Actions workflow metrics. An enabler to put the concept discussed in the post to practice - https://www.kittychiu.com/posts/managing-actions-consumption/.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 - [cfusting/conditional-growth](https://github.com/cfusting/conditional-growth) - Grow virtual creatures in static and physics simulated environments.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Time Series Forecasting
@@ -4290,7 +4290,7 @@
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [twilio-labs/socless](https://github.com/twilio-labs/socless) - The SOCless automation framework
 - [twilio-labs/socless-slack](https://github.com/twilio-labs/socless-slack) - SOCless Slack Integrations
-- [barnumbirr/ares](https://github.com/barnumbirr/ares) - A python wrapper around https://cve.circl.lu.
+- [barnumbirr/ares](https://github.com/barnumbirr/ares) - A python wrapper around https://vulnerability.circl.lu.
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
@@ -5217,7 +5217,7 @@
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [pulsecost/pulsecost-oss](https://github.com/pulsecost/pulsecost-oss) - Proxy + Dashboard for optimizing LLM usage costs with reports
-- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [graycoreio/daffodil](https://github.com/graycoreio/daffodil) - Build complex Ecommerce store frontends and connect to any backend https://discord.gg/BdaJVZ53sR
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
@@ -5297,7 +5297,6 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project management tool for tiny teams
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place
 - [AtotheY/saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
 - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
