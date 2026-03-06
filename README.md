@@ -33,7 +33,6 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
-- [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [Fortran](#fortran)
 - [GAP](#gap)
@@ -493,7 +492,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 - [EQuiw/code-imitator](https://github.com/EQuiw/code-imitator) - 
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
 - [alicevision/AliceVision](https://github.com/alicevision/AliceVision) - 3D Computer Vision Framework
@@ -672,10 +671,6 @@
 
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 
-## Emacs Lisp 
-
-- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
-
 ## Erlang 
 
 - [arthurcolle/agents.erl](https://github.com/arthurcolle/agents.erl) - Agents are distributed systems, and in this repository, they are treated as such. arthur@distributed.systems for projects / employment opportunities
@@ -712,6 +707,7 @@
 
 ## Go 
 
+- [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills
 - [loresuso/psc](https://github.com/loresuso/psc) - the ps utility, with an eBPF twist and container context
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
@@ -795,7 +791,7 @@
 - [getseabird/seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop IDE designed for seamless cluster exploration
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
-- [netobserv/network-observability-operator](https://github.com/netobserv/network-observability-operator) - A Kubernetes operator for network observability
+- [netobserv/netobserv-operator](https://github.com/netobserv/netobserv-operator) - A Kubernetes operator for network observability
 - [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is a Kubernetes distribution for confidential computing, securing entire clusters on untrusted infrastructure.  Constellation is in maintenance mode. New development continues in Contras
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
@@ -989,7 +985,7 @@
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [falcosecurity/driverkit](https://github.com/falcosecurity/driverkit) - Kit for building Falco drivers: kernel modules or eBPF probes
 - [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) - :star: :star: Distributed tcpdump for cloud native environments :star: :star:
-- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+- [windtf/wireproxy](https://github.com/windtf/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
@@ -1499,6 +1495,7 @@
 - [Clivern/Hippo](https://github.com/Clivern/Hippo) - 💨A well crafted go packages that help you build robust, reliable, maintainable microservices.
 - [morikuni/failure](https://github.com/morikuni/failure) - failure is a utility package for handling application errors.
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [hashicorp/go-discover](https://github.com/hashicorp/go-discover) - Discover nodes in cloud environments
 - [akarki15/dbdot](https://github.com/akarki15/dbdot) - Generate DOT description for postgres db schema
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
@@ -2100,7 +2097,7 @@
 - [odensc/yatpack](https://github.com/odensc/yatpack) - Livestreaming with NVIDIA Jetson Nano
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [rickyrobinett/langchainjs-workers](https://github.com/rickyrobinett/langchainjs-workers) - 
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [cloudflare/chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
@@ -2558,7 +2555,7 @@
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [caticoa3/malaria_hero](https://github.com/caticoa3/malaria_hero) - Deployable and containerized CNN for detection of malaria parasites in blood smears where images have been segmented into single cells.
 - [vihart/fiftyfizzbuzzes](https://github.com/vihart/fiftyfizzbuzzes) - Fifty different implementations of Fizzbuzz in Python.
 - [google/TrustScore](https://github.com/google/TrustScore) - To Trust Or Not To Trust A Classifier. A measure of uncertainty for any trained (possibly black-box) classifier which is more effective than the classifier's own implied confidence (e.g. softmax proba
@@ -3036,6 +3033,7 @@
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions
+- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [Darrenpan20/Matebook-X-Pro-Mojave-hackintosh-](https://github.com/Darrenpan20/Matebook-X-Pro-Mojave-hackintosh-) - Just the files you'll need for your install
 - [transatomic/reactor](https://github.com/transatomic/reactor) - Transatomic reactor design documentation
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -3365,7 +3363,7 @@
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 - [shadygm/ROSplat](https://github.com/shadygm/ROSplat) - The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
 - [intel/auto-round](https://github.com/intel/auto-round) - 🎯An accuracy-first, highly efficient quantization toolkit for LLMs, designed to minimize quality degradation across Weight-Only Quantization, MXFP4, NVFP4, GGUF, and adaptive schemes.
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - A transparent cognitive sandbox disguised as a digital pet squid - featuring visible neural activity, neurogenesis, and Hebbian learning.
+- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - A transparent cognitive sandbox disguised as a digital pet squid with a neural network you can see thinking
 - [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - The most accurate document search and store for building AI apps
 - [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
 - [zai-org/GLM-4](https://github.com/zai-org/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
@@ -3820,7 +3818,7 @@
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
 - [catid/supercharger](https://github.com/catid/supercharger) - Supercharge Open-Source AI Models
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [genlayerlabs/yeagerai-agent](https://github.com/genlayerlabs/yeagerai-agent) - 
 - [grumpyp/chroma-langchain-tutorial](https://github.com/grumpyp/chroma-langchain-tutorial) - The project involves using the Wikipedia API to retrieve current content on a topic, and then using LangChain, OpenAI and Chroma to ask and answer questions about it. The aim of the project is to show
@@ -4723,7 +4721,7 @@
 - [aperoc/toolkami](https://github.com/aperoc/toolkami) - Simple Agents Made Easy
 - [rails/solid_queue](https://github.com/rails/solid_queue) - Database-backed Active Job backend
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Ima
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Agents, Chat, Vision, Audio, 
 - [trailofbits/ruzzy](https://github.com/trailofbits/ruzzy) - A coverage-guided fuzzer for pure Ruby code and Ruby C extensions
 - [ankane/transformers-ruby](https://github.com/ankane/transformers-ruby) - State-of-the-art transformers for Ruby
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
@@ -4791,6 +4789,7 @@
 
 ## Rust 
 
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) - 
@@ -4807,7 +4806,7 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
-- [statespace-tech/statespace](https://github.com/statespace-tech/statespace) - Interactive web apps for AI agents
+- [statespace-tech/statespace](https://github.com/statespace-tech/statespace) - Interactive web apps for AI agents.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
