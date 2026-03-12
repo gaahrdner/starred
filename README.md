@@ -33,6 +33,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [Fortran](#fortran)
 - [GAP](#gap)
@@ -582,7 +583,6 @@
 ## Clojure 
 
 - [damn/moon](https://github.com/damn/moon) - RPG Maker & Engine
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -671,6 +671,10 @@
 
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 
+## Emacs Lisp 
+
+- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
+
 ## Erlang 
 
 - [arthurcolle/agents.erl](https://github.com/arthurcolle/agents.erl) - Agents are distributed systems, and in this repository, they are treated as such. arthur@distributed.systems for projects / employment opportunities
@@ -707,6 +711,8 @@
 
 ## Go 
 
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
+- [NVIDIA/bare-metal-manager-rest](https://github.com/NVIDIA/bare-metal-manager-rest) - NVIDIA Bare Metal Management - Hardware Lifeceycle managment (REST API)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills
 - [loresuso/psc](https://github.com/loresuso/psc) - the ps utility, with an eBPF twist and container context
@@ -1105,7 +1111,7 @@
 - [benbjohnson/immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go
 - [evilsocket/shieldwall](https://github.com/evilsocket/shieldwall) - zero-trust remote firewall instrumentation
 - [BishopFox/dufflebag](https://github.com/BishopFox/dufflebag) - Search exposed EBS volumes for secrets
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [carltheperson/10-things-linux](https://github.com/carltheperson/10-things-linux) - Getting better at Linux with 10 mini-projects.
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
@@ -1717,6 +1723,7 @@
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [cirocosta/cr](https://github.com/cirocosta/cr) - Runs your tasks at maximum concurrency
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
@@ -1860,6 +1867,7 @@
 
 ## HTML 
 
+- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [zjkramer/spaceorbust](https://github.com/zjkramer/spaceorbust) - Space RPG meets public safety. Terminal CLI where GitHub commits power humanity's expansion into space. PLUS: Free open-source dispatch/CAD software for fire departments & EMS. No vendor lock-in. frac
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -2079,6 +2087,7 @@
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [Barqawiz/Tamagotchi](https://github.com/Barqawiz/Tamagotchi) - A collection of tamagotchi characters to give AI assistants an identity.
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 - [IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in rea
 - [ngacho/emaillm](https://github.com/ngacho/emaillm) - 
@@ -3034,7 +3043,6 @@
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions
-- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [Darrenpan20/Matebook-X-Pro-Mojave-hackintosh-](https://github.com/Darrenpan20/Matebook-X-Pro-Mojave-hackintosh-) - Just the files you'll need for your install
 - [transatomic/reactor](https://github.com/transatomic/reactor) - Transatomic reactor design documentation
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -3269,7 +3277,6 @@
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
-- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [WeModulate/bitwig-mcp-server](https://github.com/WeModulate/bitwig-mcp-server) - MCP Server for Bitwig Studio
 - [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
@@ -3550,7 +3557,7 @@
 - [allenai/Holodeck](https://github.com/allenai/Holodeck) - CVPR 2024: Language Guided Generation of 3D Embodied AI Environments.
 - [AutoCodeRoverSG/auto-code-rover](https://github.com/AutoCodeRoverSG/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with ea
 - [KittyChiu/workflow-metrics](https://github.com/KittyChiu/workflow-metrics) - A GitHub action to measure GitHub Actions workflow metrics. An enabler to put the concept discussed in the post to practice - https://www.kittychiu.com/posts/managing-actions-consumption/.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 - [cfusting/conditional-growth](https://github.com/cfusting/conditional-growth) - Grow virtual creatures in static and physics simulated environments.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained Models for Time Series Forecasting
@@ -4544,7 +4551,6 @@
 - [sammchardy/python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading
 - [jealous/stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 - [yasinkuyu/binance-trader](https://github.com/yasinkuyu/binance-trader) - 💰 Cryptocurrency Trading Bot for Binance (Experimental)
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
 - [thtrieu/darkflow](https://github.com/thtrieu/darkflow) - Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
 - [JeremyNGalloway/mod_plaintext.py](https://github.com/JeremyNGalloway/mod_plaintext.py) - AKA "Internet Chemotherapy"
@@ -4793,10 +4799,12 @@
 
 ## Rust 
 
+- [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
+- [NVIDIA/bare-metal-manager-core](https://github.com/NVIDIA/bare-metal-manager-core) - NVIDIA Bare Metal Manager - Hardware Lifecycle Management and multitenant networking
 - [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents i
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
 - [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) - 
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
@@ -5209,6 +5217,8 @@
 
 ## TypeScript 
 
+- [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) - OpenClaw-RL: Train any agent simply by talking
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
@@ -5227,7 +5237,7 @@
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [ascorbic/am-i-vibing](https://github.com/ascorbic/am-i-vibing) - Detect agentic coding environments and AI editors
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -5286,6 +5296,7 @@
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension) - OpenMemory Chrome Extension: Long-term memory for ChatGPT, Claude, Perplexity, Grok etc
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [trylinky/linky](https://github.com/trylinky/linky) - The dynamic personal homepage builder
 - [jcollingj/caret](https://github.com/jcollingj/caret) - Caret, an Obsidian Plugin
 - [TrafficGuard/typedai](https://github.com/TrafficGuard/typedai) - TypeScript AI platform with AI chat, Autonomous agents, Software developer agents, chatbots and more
@@ -5295,10 +5306,9 @@
 - [Omniplex-ai/omniplex](https://github.com/Omniplex-ai/omniplex) - Open-Source Perplexity
 - [SciPhi-AI/R2R-Application](https://github.com/SciPhi-AI/R2R-Application) - react + next.js dashboard for R2R: The most advanced AI retrieval system. Containerized, Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project management tool for tiny teams
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [AtotheY/saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
