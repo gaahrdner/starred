@@ -712,7 +712,7 @@
 ## Go 
 
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
-- [NVIDIA/ncx-infra-controller-rest](https://github.com/NVIDIA/ncx-infra-controller-rest) - NCX Infra Controller - Hardware Lifeceycle managment (REST API)
+- [NVIDIA/ncx-infra-controller-rest](https://github.com/NVIDIA/ncx-infra-controller-rest) - NCX Infra Controller - Hardware Lifecycle Management (REST API)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills
 - [loresuso/psc](https://github.com/loresuso/psc) - the ps utility, with an eBPF twist and container context
@@ -2067,6 +2067,7 @@
 
 ## JavaScript 
 
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.
 - [FamousWolf/week-planner-card](https://github.com/FamousWolf/week-planner-card) - Custom Home Assistant card displaying a responsive overview or multiple days with events from one of multiple calendars
@@ -2535,7 +2536,7 @@
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [vishnoitanuj/Automatic-GCP-Detection-Skylark](https://github.com/vishnoitanuj/Automatic-GCP-Detection-Skylark) - Submission of Technical Assignment by Skylark Drones
-- [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
 - [GoogleCloudPlatform/tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - A crash course in six episodes for software developers who want to become machine learning practitioners.
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [GoogleCloudPlatform/data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp) - Source code accompanying book: Data Science on the Google Cloud Platform, Valliappa Lakshmanan, O'Reilly 2017
@@ -2852,7 +2853,7 @@
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [antonio-morales/Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A GitHub Security Lab initiative
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, scanners, etc.
+- [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, scanners, etc.
 - [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
 - [roadwy/RIP](https://github.com/roadwy/RIP) - 
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
@@ -3437,7 +3438,7 @@
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [stephansturges/WALDO](https://github.com/stephansturges/WALDO) - Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!
@@ -4799,7 +4800,6 @@
 - [boxen/our-boxen](https://github.com/boxen/our-boxen) - Copy me for your team.
 - [austin-rb/Meetings](https://github.com/austin-rb/Meetings) - Slides, links, and media from past meetings - absences don't imply that no meeting happened then
 - [RailsApps/rails-stripe-membership-saas](https://github.com/RailsApps/rails-stripe-membership-saas) - An example Rails 4.2 app with Stripe and the Payola gem for a membership or subscription site.
-- [bploetz/versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 - [rodjek/puppet-lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide
 - [rodjek/rspec-puppet](https://github.com/rodjek/rspec-puppet) - RSpec tests for your Puppet manifests
 - [netfeed/cinchize](https://github.com/netfeed/cinchize) - Create a Cinch daemon from simple config files
@@ -4827,7 +4827,7 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
-- [statespace-tech/statespace](https://github.com/statespace-tech/statespace) - Interactive web apps for AI agents.
+- [statespace-tech/statespace](https://github.com/statespace-tech/statespace) - Web APIs for AI agents
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -4861,7 +4861,7 @@
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - The Gosub browser engine
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [nkaz001/hftbacktest](https://github.com/nkaz001/hftbacktest) - Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and orde
 - [intentee/paddler](https://github.com/intentee/paddler) - Open-source LLM load balancer and serving platform for self-hosting LLMs at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple deployments buil
@@ -5015,7 +5015,7 @@
 - [exactlab/vhpc](https://github.com/exactlab/vhpc) - A virtualised HPC cluster based on SLURM and Rocky Linux 9
 - [kaushikgopal/dotfiles](https://github.com/kaushikgopal/dotfiles) - minimal dotfiles
 - [latchset/clevis](https://github.com/latchset/clevis) - Automated Encryption Framework
-- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [saptak/eg-mcp-server](https://github.com/saptak/eg-mcp-server) - Envoy Gateway MCP Server (Alpha)
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
@@ -5258,7 +5258,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [jontstaz/AI-Docker-Compose-Generator](https://github.com/jontstaz/AI-Docker-Compose-Generator) - Simply paste your Github Repo link and this app will generate a relevant Dockerfile + docker-compose.yaml to easily deploy any repo/project.
 - [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards
-- [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
+- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [cloudflare/ai](https://github.com/cloudflare/ai) - 
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
