@@ -705,6 +705,7 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - 
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [NVIDIA/ncx-infra-controller-rest](https://github.com/NVIDIA/ncx-infra-controller-rest) - NCX Infra Controller - Hardware Lifecycle Management (REST API)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
@@ -1923,7 +1924,6 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [xxdesmus/nslarchive.org](https://github.com/xxdesmus/nslarchive.org) - NSL Archive source code
 - [ustayready/CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
-- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Keyfinder🔑 is a tool that let you find keys while surfing the web!
 - [sctyner/OpenForSciR](https://github.com/sctyner/OpenForSciR) - Free, online book "Open Forensic Science in R." This book is for anyone looking to do forensic science analysis in a data-driven and open way.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -2245,6 +2245,7 @@
 - [oliy/dbslides](https://github.com/oliy/dbslides) - Jumping the Shark with Postgres
 - [victorqribeiro/radio](https://github.com/victorqribeiro/radio) - A simple javascript web radio visualizer
 - [datavized/twotone](https://github.com/datavized/twotone) - An open-source data sonification web app
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Keyfinder🔑 is a tool that let you find keys while surfing the web!
 - [NSkelsey/aaalm](https://github.com/NSkelsey/aaalm) - Generate network maps from packet captures
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
@@ -2727,7 +2728,6 @@
 - [thats-it-dev/bento](https://github.com/thats-it-dev/bento) - a computer in a keyboard
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [jsemrau/Agent-Repository](https://github.com/jsemrau/Agent-Repository) - 
-- [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) - A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 - [palantir/osquery-configuration](https://github.com/palantir/osquery-configuration) - A repository for using osquery for incident detection and response
@@ -3263,6 +3263,7 @@
 
 ## Python 
 
+- [mahadillahm4di-cyber/mh-gdpr-ai.eu](https://github.com/mahadillahm4di-cyber/mh-gdpr-ai.eu) - Your LLM prompt has a name in it. It just crossed the Atlantic. That's a GDPR violation. This fixes it in 3 lines.
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm) - A ~9M parameter LLM that talks like a small fish.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [rand/rlm-claude-code](https://github.com/rand/rlm-claude-code) - Recursive Language Model integration for Claude Code - intelligent multi-provider routing and unbounded context handling
@@ -3331,7 +3332,6 @@
 - [phospho-app/phosphobot](https://github.com/phospho-app/phosphobot) - Control AI robots. Community-driven UI middleware for controlling robots, recording datasets, training action models. Compatible with SO-100 and SO-101
 - [cpldcpu/CandleSense](https://github.com/cpldcpu/CandleSense) - Detecting oscillations in a candle flame triplet using only wires and a CH32V003 microcontroller.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [micahflee/paramilitary-leaks](https://github.com/micahflee/paramilitary-leaks) - Exploring the Paramilitary Leaks dataset, 200 GB of chat logs from AP III and the Oath Keepers
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
@@ -4176,7 +4176,6 @@
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
 - [att/docker-forensics](https://github.com/att/docker-forensics) - Tools to assist in forensicating docker
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
-- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [dropbox/merou](https://github.com/dropbox/merou) - Permission management service
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
@@ -4203,7 +4202,7 @@
 - [google/nsscache](https://github.com/google/nsscache) - asynchronously synchronise local NSS databases with remote directory services
 - [podgorskiy/ALAE](https://github.com/podgorskiy/ALAE) - [CVPR2020] Adversarial Latent Autoencoders
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
-- [astropy/astroquery](https://github.com/astropy/astroquery) - Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
+- [astropy/astroquery](https://github.com/astropy/astroquery) - Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz
 - [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
@@ -4962,6 +4961,7 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [parallaxsecond/parsec](https://github.com/parallaxsecond/parsec) - Platform AbstRaction for SECurity service
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [coord-e/magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
@@ -5262,6 +5262,7 @@
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
+- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -5304,7 +5305,6 @@
 - [penxio/penx](https://github.com/penxio/penx) - AI Powered Personal Data Hub
 - [j4cbo/tiny5-m2-riser](https://github.com/j4cbo/tiny5-m2-riser) - 
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [decompil3d/lovelace-hourly-weather](https://github.com/decompil3d/lovelace-hourly-weather) - Hourly weather card for Home Assistant. Visualize upcoming weather conditions as a colored horizontal bar.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [nemanjam/hn-new-jobs](https://github.com/nemanjam/hn-new-jobs) - Insights into HackerNews "Who's Hiring" thread.
