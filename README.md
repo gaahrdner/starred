@@ -143,6 +143,7 @@
 ## Astro 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## Batchfile 
 
@@ -300,7 +301,6 @@
 - [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso) - PoC for Dirty COW (CVE-2016-5195)
 - [videogamepreservation/descent](https://github.com/videogamepreservation/descent) - Descent (1995) by Parallax Software Corp.
 - [ihucos/plash](https://github.com/ihucos/plash) - Build and run layered root filesystems.
-- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [wb2osz/direwolf](https://github.com/wb2osz/direwolf) - Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -395,7 +395,6 @@
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [M4THYOU/TokenDagger](https://github.com/M4THYOU/TokenDagger) - High-Performance Implementation of OpenAI's TikToken.
-- [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage Persistent Kernel: Compiling LLMs into a MegaKernel
 - [rjpower/zopfli](https://github.com/rjpower/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [dkyazzentwatwa/project-starbeam](https://github.com/dkyazzentwatwa/project-starbeam) - The Ultimate ESP32 Jammer w/ 5 Radios.  #RIPflipper -- V2 OUT NOW
@@ -519,6 +518,7 @@
 - [ucbrise/confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
+- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -561,7 +561,6 @@
 ## CSS 
 
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
 - [syphon1c/Threatelligence](https://github.com/syphon1c/Threatelligence) - Threatelligence is a simple cyber threat intelligence feed collector, using Elasticsearch, Kibana and Python to automatically collect intelligence from custom or public sources. Automatically updates 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -604,6 +603,7 @@
 
 ## Cuda 
 
+- [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage Persistent Kernel: Compiling LLMs into a MegaKernel
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 
 ## Cython 
@@ -1068,7 +1068,6 @@
 - [evilsocket/islazy](https://github.com/evilsocket/islazy) - A Go library containing a set of opinionated packages, objects, helpers and functions implemented with the KISS principle in mind.
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [function61/hautomo](https://github.com/function61/hautomo) - Home automation hub fully built in Go, super simple to deploy
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [muchobien/tailscale-ui](https://github.com/muchobien/tailscale-ui) - Tailscale UI for Ubuntu
 - [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
@@ -2065,7 +2064,6 @@
 
 ## JavaScript 
 
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.
 - [FamousWolf/week-planner-card](https://github.com/FamousWolf/week-planner-card) - Custom Home Assistant card displaying a responsive overview or multiple days with events from one of multiple calendars
@@ -2154,7 +2152,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [18F/fedramp-dashboard](https://github.com/18F/fedramp-dashboard) - 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [harish-garg/nextjs-reactjs-gpt-3](https://github.com/harish-garg/nextjs-reactjs-gpt-3) - GPT-3 Powered Serverless App using NextJS & React
 - [cloudflare/doom-workers](https://github.com/cloudflare/doom-workers) - Website and Message Router source code for the Multiplayer Doom on Cloudflare Workers tech demo
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
@@ -2246,7 +2244,7 @@
 - [oliy/dbslides](https://github.com/oliy/dbslides) - Jumping the Shark with Postgres
 - [victorqribeiro/radio](https://github.com/victorqribeiro/radio) - A simple javascript web radio visualizer
 - [datavized/twotone](https://github.com/datavized/twotone) - An open-source data sonification web app
-- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Keyfinder🔑 is a tool that let you find keys while surfing the web!
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
 - [NSkelsey/aaalm](https://github.com/NSkelsey/aaalm) - Generate network maps from packet captures
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
@@ -3265,6 +3263,8 @@
 
 ## Python 
 
+- [fulcrumresearch/druids](https://github.com/fulcrumresearch/druids) - 
+- [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 - [mahadillahm4di-cyber/mh-gdpr-ai.eu](https://github.com/mahadillahm4di-cyber/mh-gdpr-ai.eu) - Your LLM prompt has a name in it. It just crossed the Atlantic. That's a GDPR violation. This fixes it in 3 lines.
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm) - A ~9M parameter LLM that talks like a small fish.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -3333,7 +3333,7 @@
 - [ArgeliusLabs/Chasing-Your-Tail-NG](https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG) - MUCH Improved version of the Python Chasing Your Tail Tool to help you determine if you're being followed
 - [phospho-app/phosphobot](https://github.com/phospho-app/phosphobot) - Control AI robots. Community-driven UI middleware for controlling robots, recording datasets, training action models. Compatible with SO-100 and SO-101
 - [cpldcpu/CandleSense](https://github.com/cpldcpu/CandleSense) - Detecting oscillations in a candle flame triplet using only wires and a CH32V003 microcontroller.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is an agentic harness optimized for controlling customer interactions.
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [micahflee/paramilitary-leaks](https://github.com/micahflee/paramilitary-leaks) - Exploring the Paramilitary Leaks dataset, 200 GB of chat logs from AP III and the Oath Keepers
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
@@ -3446,7 +3446,7 @@
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [stephansturges/WALDO](https://github.com/stephansturges/WALDO) - Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!
@@ -4175,7 +4175,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
-- [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
+- [RyanDFIR/unfurl](https://github.com/RyanDFIR/unfurl) - Extract and Visualize Data from URLs using Unfurl
 - [att/docker-forensics](https://github.com/att/docker-forensics) - Tools to assist in forensicating docker
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [dropbox/merou](https://github.com/dropbox/merou) - Permission management service
@@ -4824,13 +4824,14 @@
 
 ## Rust 
 
+- [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - Linter-fast security scanning and policy checks for catching regressions before deploy.
 - [smartcomputer-ai/agent-os](https://github.com/smartcomputer-ai/agent-os) - Build autonomous AI agents! 🌞
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [NVIDIA/ncx-infra-controller-core](https://github.com/NVIDIA/ncx-infra-controller-core) - NCX Infra Controller - Hardware Lifecycle Management and multitenant networking
 - [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) - 
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
@@ -4941,6 +4942,7 @@
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
@@ -5245,6 +5247,7 @@
 
 ## TypeScript 
 
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [glommer/codemogger](https://github.com/glommer/codemogger) - Codemogger is a code indexing library and MCP server for AI coding agents
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
