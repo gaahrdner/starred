@@ -703,6 +703,7 @@
 
 ## Go 
 
+- [praetorian-inc/titus](https://github.com/praetorian-inc/titus) - High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation.
 - [retlehs/quien](https://github.com/retlehs/quien) - A better WHOIS lookup tool
 - [rvitorper/go-bt](https://github.com/rvitorper/go-bt) - Minimalist BT implementation in Go
 - [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - 
@@ -1867,6 +1868,7 @@
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [zjkramer/spaceorbust](https://github.com/zjkramer/spaceorbust) - Space RPG meets public safety. Terminal CLI where GitHub commits power humanity's expansion into space. PLUS: Free open-source dispatch/CAD software for fire departments & EMS. No vendor lock-in. frac
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [Kuberwastaken/backdooms](https://github.com/Kuberwastaken/backdooms) - A self-contained game that fits inside a QR code inspired by DOOM 1993 and The Backrooms
 - [aerokube/moon](https://github.com/aerokube/moon) - Browser automation solution for Kubernetes and Openshift supporting Selenium, Playwright, Puppeteer and Cypress
 - [llSourcell/ScienceFlow](https://github.com/llSourcell/ScienceFlow) - An AI to accelerate Scientific Discovery
@@ -3380,7 +3382,6 @@
 - [habedi/cogitator](https://github.com/habedi/cogitator) - A Python toolkit for chain-of-thought prompting 🐍
 - [dipampaul17/KVSplit](https://github.com/dipampaul17/KVSplit) - Run larger LLMs with longer contexts on Apple Silicon by using differentiated precision for KV cache quantization. KVSplit enables 8-bit keys & 4-bit values, reducing memory by 59% with &lt;1% quality
 - [pig-dot-dev/muscle-mem](https://github.com/pig-dot-dev/muscle-mem) - A cache for AI agents to learn and replay complex behaviors.
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
 - [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -5031,6 +5032,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
 - [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review.
 - [jkool702/forkrun](https://github.com/jkool702/forkrun) - NUMA-Aware Contention-Free Dynamically-Auto-Tuning Bash-Native Streaming Parallelization Engine
 - [sublime-security/sublime-platform](https://github.com/sublime-security/sublime-platform) - A free and open platform for detecting and preventing email attacks like BEC, malware, and credential phishing. Gain visibility and control, hunt for advanced threats, collaborate with the community, 
