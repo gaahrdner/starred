@@ -159,6 +159,7 @@
 
 ## C 
 
+- [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [AncientJames/multivox](https://github.com/AncientJames/multivox) - 
 - [VapiAI/vapicon-2025-hardware-workshop](https://github.com/VapiAI/vapicon-2025-hardware-workshop) - 
@@ -705,6 +706,7 @@
 
 ## Go 
 
+- [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [praetorian-inc/titus](https://github.com/praetorian-inc/titus) - High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation.
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
@@ -1055,6 +1057,7 @@
 - [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - A simple tool to help apply changes across many GitHub repositories simultaneously
 - [doitintl/kubeip](https://github.com/doitintl/kubeip) - Assign static public IPs to Kubernetes nodes (GKE, EKS)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
+- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [danopstech/starlink_exporter](https://github.com/danopstech/starlink_exporter) - 📡  Prometheus exporter that exposes metrics from SpaceX Starlink Dish
 - [planetlabs/draino](https://github.com/planetlabs/draino) - Automatically cordon and drain Kubernetes nodes based on node conditions
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
@@ -3292,7 +3295,7 @@
 - [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 - [ppp-one/astra](https://github.com/ppp-one/astra) - Astra: an open-source observatory control software.
 - [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
-- [knostic/OpenAnt](https://github.com/knostic/OpenAnt) - OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives
+- [knostic/OpenAnt](https://github.com/knostic/OpenAnt) - OpenAnt from Knostic is the leading open source LLM-based vulnerability discovery product, helping defenders proactively find verified security flaws while minimizing both false positives and false ne
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [pipecat-ai/nemotron-january-2026](https://github.com/pipecat-ai/nemotron-january-2026) - 
 - [ucsdsysnet/dontlookup](https://github.com/ucsdsysnet/dontlookup) - 
@@ -4954,7 +4957,6 @@
 - [crate-ci/committed](https://github.com/crate-ci/committed) - Nitpicking commit history since beabf39
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
@@ -5263,6 +5265,7 @@
 
 ## TypeScript 
 
+- [chebykinn/agent-ruler](https://github.com/chebykinn/agent-ruler) - Enforce CLAUDE.md and skills
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [therandomsecurityguy/khalifa](https://github.com/therandomsecurityguy/khalifa) - Agentless ingestion of AWS Org resources and Security Hub findings into a Neptune-backed security graph, with a risk and attack-path engine to identify security issues.
@@ -5340,7 +5343,7 @@
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, an
 - [aotakeda/learn-thing](https://github.com/aotakeda/learn-thing) - Create mind maps to learn new things using AI.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
 - [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser) - Parse your Postgres queries into a 100% type-safe AST (powered by libpg_query)
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
