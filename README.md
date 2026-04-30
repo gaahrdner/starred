@@ -651,7 +651,7 @@
 ## Elixir 
 
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [elixir-nx/nx](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
@@ -716,7 +716,7 @@
 - [rvitorper/go-bt](https://github.com/rvitorper/go-bt) - Minimalist BT implementation in Go
 - [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - 
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
-- [NVIDIA/ncx-infra-controller-rest](https://github.com/NVIDIA/ncx-infra-controller-rest) - NCX Infra Controller - Hardware Lifecycle Management (REST API)
+- [NVIDIA/infra-controller-rest](https://github.com/NVIDIA/infra-controller-rest) - NVIDIA Infra Controller - Hardware Lifecycle Management (REST API)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills
 - [spiffe/spiffe-step-ssh](https://github.com/spiffe/spiffe-step-ssh) - Issue SSH host certificates using SPIFFE
@@ -1993,7 +1993,7 @@
 ## Java 
 
 - [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) - MCP server for reverse engineering tasks in Ghidra 👩‍💻
-- [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) - An MCP extension for Ghidra
+- [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) - An native MCP server extension for Ghidra
 - [symgraph/GhidrAssist](https://github.com/symgraph/GhidrAssist) - An LLM extension for Ghidra to enable AI assistance in RE.
 - [dochia-dev/dochia-cli](https://github.com/dochia-dev/dochia-cli) - Dochia automatically generates and executes negative and boundary testing so you and your AI agents can focus on building. Because nobody wants to debug why their "enterprise-grade" API can't handle a
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
@@ -4860,7 +4860,7 @@
 - [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A security scanner as fast as a linter, written in Rust. Live in the terminal? It also comes with a TUI triage for secrets, post-quantum audits, diff-scans and more 🦊
 - [smartcomputer-ai/agent-os](https://github.com/smartcomputer-ai/agent-os) - Build autonomous AI agents! 🌞
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
-- [NVIDIA/ncx-infra-controller-core](https://github.com/NVIDIA/ncx-infra-controller-core) - NCX Infra Controller - Hardware Lifecycle Management and multitenant networking
+- [NVIDIA/infra-controller-core](https://github.com/NVIDIA/infra-controller-core) - NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
 - [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -4891,7 +4891,7 @@
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. Now part of Digit
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
@@ -5291,7 +5291,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [glommer/codemogger](https://github.com/glommer/codemogger) - Codemogger is a code indexing library and MCP server for AI coding agents
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [zlwaterfield/radar](https://github.com/zlwaterfield/radar) - Radar sends you GitHub-related notifications in Slack. It handles intelligent notifications for PRs, issues, reviews, and comments.
@@ -5537,7 +5537,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [ossf-cve-benchmark/ossf-cve-benchmark](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark) - The OpenSSF CVE Benchmark consists of code and metadata for over 200 real life CVEs, as well as tooling to analyze the vulnerable codebases using a variety of static analysis security testing (SAST) t
 - [eg9y/PS5bot](https://github.com/eg9y/PS5bot) - bot to monitor PS5 stock and auto-purchase when available
-- [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
+- [ab-rizk/xpcspy](https://github.com/ab-rizk/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
