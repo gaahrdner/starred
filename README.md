@@ -385,6 +385,8 @@
 
 ## C++ 
 
+- [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) - Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [etinaude/Lock-Picking-Robot](https://github.com/etinaude/Lock-Picking-Robot) - Lock picking robot
@@ -650,7 +652,6 @@
 ## Elixir 
 
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [elixir-nx/nx](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir
@@ -708,6 +709,7 @@
 
 ## Go 
 
+- [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator) - Catalogue all images of a Kubernetes cluster to multiple targets with Syft
 - [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter) - Pure Go tree-sitter runtime
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
@@ -736,6 +738,7 @@
 - [FrenchMajesty/consistent-classifier](https://github.com/FrenchMajesty/consistent-classifier) - Go package for creating consistent labels for a large dataset from an unconstrained label set using LLMs and Vector clustering
 - [0x48piraj/gz-bomb](https://github.com/0x48piraj/gz-bomb) - Web-based "Zip bomb" which eats up all the memory and kills web browsers, scanners and bots.
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [bank-vaults/vault-operator](https://github.com/bank-vaults/vault-operator) - Kubernetes operator for Hashicorp Vault
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
@@ -1053,7 +1056,7 @@
 - [layeh/radius](https://github.com/layeh/radius) - a Go (golang) RADIUS client and server implementation
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [frigus02/kyml](https://github.com/frigus02/kyml) - A CLI, which helps you to work with and deploy plain Kubernetes YAML files.
-- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
+- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple TLS proxy with mutual authentication for securing non-TLS services.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [aquasecurity/btfhub](https://github.com/aquasecurity/btfhub) - BTFhub, in collaboration with the BTFhub Archive repository, supplies BTF files for all published kernels that lack native support for embedded BTF. This joint effort ensures that even kernels without
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
@@ -1538,7 +1541,6 @@
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [jondot/goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [kubernetes/klog](https://github.com/kubernetes/klog) - Leveled execution logs for Go (fork of https://github.com/golang/glog)
 - [greths/brice](https://github.com/greths/brice) - 
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
@@ -2175,7 +2177,7 @@
 - [18F/fedramp-dashboard](https://github.com/18F/fedramp-dashboard) - 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [harish-garg/nextjs-reactjs-gpt-3](https://github.com/harish-garg/nextjs-reactjs-gpt-3) - GPT-3 Powered Serverless App using NextJS & React
-- [cloudflare/doom-workers](https://github.com/cloudflare/doom-workers) - Website and Message Router source code for the Multiplayer Doom on Cloudflare Workers tech demo
+- [cloudflare/doom](https://github.com/cloudflare/doom) - Website and Message Router source code for the Multiplayer Doom on Cloudflare Workers tech demo
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [saasify-sh/saasify](https://github.com/saasify-sh/saasify) - The easiest way to monetize your API. 🚀
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
@@ -2301,7 +2303,7 @@
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [aws-samples/aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops) - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 - [vasturiano/three-fatline](https://github.com/vasturiano/three-fatline) - A ThreeJS Line object with variable width
-- [tutorcruncher/cloudflare-worker](https://github.com/tutorcruncher/cloudflare-worker) - 
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
@@ -3286,6 +3288,10 @@
 
 ## Python 
 
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
+- [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [mhostetter/sdr](https://github.com/mhostetter/sdr) - A Python package for software-defined radio
@@ -3348,7 +3354,6 @@
 - [cased/sandboxes](https://github.com/cased/sandboxes) - Universal API for cloud sandboxes + CLI
 - [cased/kit](https://github.com/cased/kit) - The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.
 - [kaushikb11/verifiers-monitor](https://github.com/kaushikb11/verifiers-monitor) - Observability framework for RL training and evaluation
-- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [DebarghaG/proofofthought](https://github.com/DebarghaG/proofofthought) - Proof of thought : LLM-based reasoning using Z3 theorem proving with multiple backend support (SMT2 and JSON DSL)
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
@@ -4794,6 +4799,7 @@
 
 ## Ruby 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [matz/spinel](https://github.com/matz/spinel) - 
 - [aperoc/toolkami](https://github.com/aperoc/toolkami) - Simple Agents Made Easy
 - [rails/solid_queue](https://github.com/rails/solid_queue) - Database-backed Active Job backend
@@ -4873,7 +4879,7 @@
 - [smartcomputer-ai/agent-os](https://github.com/smartcomputer-ai/agent-os) - Build autonomous AI agents! 🌞
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [NVIDIA/infra-controller-core](https://github.com/NVIDIA/infra-controller-core) - NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
-- [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies The next-generation isolation primitive — brokering access directly within the agent's operating context, with zero setup and zero latency
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
@@ -5072,6 +5078,8 @@
 
 ## Shell 
 
+- [minhnv0807/fullstack-mkt-skills](https://github.com/minhnv0807/fullstack-mkt-skills) - 20 production-ready AI marketing skills for Claude Code, ChatGPT, Gemini & Copilot. Generate content calendars, TikTok/Meta ad copy, UGC briefs, KPI calculators, A/B tests, pricing strategies & landin
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [Xexr/gt-toolkit](https://github.com/Xexr/gt-toolkit) - Formulas, configs, workflows, and docs for Gas Town
@@ -5253,7 +5261,7 @@
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
-- [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
+- [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [unixpickle/honeycrisp](https://github.com/unixpickle/honeycrisp) - 🍎 A Swift framework for deep learning on Apple Silicon
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -5344,7 +5352,7 @@
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Autonomous Company Operating System
 - [cloudflare/ai](https://github.com/cloudflare/ai) - 
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [tuliperis/SharkMCP](https://github.com/tuliperis/SharkMCP) - A tshark MCP server for packet capture and analysis
@@ -5373,6 +5381,7 @@
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [decompil3d/lovelace-hourly-weather](https://github.com/decompil3d/lovelace-hourly-weather) - Hourly weather card for Home Assistant. Visualize upcoming weather conditions as a colored horizontal bar.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [nemanjam/hn-new-jobs](https://github.com/nemanjam/hn-new-jobs) - Insights into HackerNews "Who's Hiring" thread.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
