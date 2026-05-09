@@ -709,6 +709,7 @@
 
 ## Go 
 
+- [heygen-com/heygen-cli](https://github.com/heygen-com/heygen-cli) - Create AI videos from the terminal. Official CLI for the HeyGen video generation API.
 - [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator) - Catalogue all images of a Kubernetes cluster to multiple targets with Syft
 - [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter) - Pure Go tree-sitter runtime
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
@@ -2085,7 +2086,7 @@
 
 - [vivekg13186/Daisy-DAG](https://github.com/vivekg13186/Daisy-DAG) - 
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No 
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.
@@ -2204,7 +2205,7 @@
 - [Felx-B/vscode-web](https://github.com/Felx-B/vscode-web) - Visual Studio Code for browser
 - [glenstack/vscode-workers](https://github.com/glenstack/vscode-workers) - Visual Studio Code running on Cloudflare Workers
 - [msrkp/PPScan](https://github.com/msrkp/PPScan) - Client Side Prototype Pollution Scanner
-- [FSecureLABS/dref](https://github.com/FSecureLABS/dref) - DNS Rebinding Exploitation Framework
+- [ReversecLabs/dref](https://github.com/ReversecLabs/dref) - DNS Rebinding Exploitation Framework
 - [gmattie/Data-Pixels](https://github.com/gmattie/Data-Pixels) - Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application.
 - [maierfelix/poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
@@ -2738,6 +2739,7 @@
 
 ## Others 
 
+- [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [mahimairaja/voiceai](https://github.com/mahimairaja/voiceai) - Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖
 - [Hanqaqa/Easyduino](https://github.com/Hanqaqa/Easyduino) - Easily dive into different PCB KiCad designs of the most popular microcontroller devboards
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -3247,6 +3249,7 @@
 
 ## PowerShell 
 
+- [minhnv0807/fullstack-mkt-skills](https://github.com/minhnv0807/fullstack-mkt-skills) - 20 production-ready AI marketing skills for Claude Code, ChatGPT, Gemini & Copilot. Generate content calendars, TikTok/Meta ad copy, UGC briefs, KPI calculators, A/B tests, pricing strategies & landin
 - [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 - [DeveloperMetrics/lead-time-for-changes](https://github.com/DeveloperMetrics/lead-time-for-changes) - A GitHub Action to roughly calculate DORA lead time for changes
 - [atomiczsec/My-Payloads](https://github.com/atomiczsec/My-Payloads) - A collection of my payloads for the bash bunny, rubber ducky, FlipperZero, and OMG cable
@@ -3288,6 +3291,7 @@
 
 ## Python 
 
+- [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA) - high-performance linear attention kernel library built on TileLang
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
@@ -3297,7 +3301,7 @@
 - [mhostetter/sdr](https://github.com/mhostetter/sdr) - A Python package for software-defined radio
 - [flexcompute/tidy3d](https://github.com/flexcompute/tidy3d) - fast, large scale photonic simulation platform
 - [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) - An electromagnetic field computation program
-- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era ✨
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [togethercomputer/aurora](https://github.com/togethercomputer/aurora) - 
@@ -3490,7 +3494,7 @@
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [stephansturges/WALDO](https://github.com/stephansturges/WALDO) - Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!
@@ -4875,7 +4879,7 @@
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [nanograph/nanograph](https://github.com/nanograph/nanograph) - On-device property graph database. Schema-as-code. One CLI → One Folder. No Server. Think: DuckDB for graphs.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-- [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A security scanner as fast as a linter, written in Rust. Live in the terminal? It also comes with a TUI triage for secrets, post-quantum audits, diff-scans and more 🦊
+- [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A security scanner as fast as a linter, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [smartcomputer-ai/agent-os](https://github.com/smartcomputer-ai/agent-os) - Build autonomous AI agents! 🌞
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [NVIDIA/infra-controller-core](https://github.com/NVIDIA/infra-controller-core) - NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
@@ -5078,7 +5082,6 @@
 
 ## Shell 
 
-- [minhnv0807/fullstack-mkt-skills](https://github.com/minhnv0807/fullstack-mkt-skills) - 20 production-ready AI marketing skills for Claude Code, ChatGPT, Gemini & Copilot. Generate content calendars, TikTok/Meta ad copy, UGC briefs, KPI calculators, A/B tests, pricing strategies & landin
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
@@ -5302,6 +5305,7 @@
 
 ## TypeScript 
 
+- [enmanuelmag/agent-harness-kit](https://github.com/enmanuelmag/agent-harness-kit) - A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [JamesIV4/nethack-3d](https://github.com/JamesIV4/nethack-3d) - A 3D client for playing NetHack on web, Windows, macOS and Android. It uses @neth4ck/neth4ck to run NetHack compiled into WebAssembly, with a React hooks/Zustand frontend handling input, and game UI, 
@@ -5317,7 +5321,7 @@
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [glommer/codemogger](https://github.com/glommer/codemogger) - Codemogger is a code indexing library and MCP server for AI coding agents
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
@@ -5652,7 +5656,6 @@
 - [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [widgetti/ipyvolume](https://github.com/widgetti/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
