@@ -716,7 +716,7 @@
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [Sambigeara/pollen](https://github.com/Sambigeara/pollen) - Distributed WASM runtime. Workloads place themselves over a zero-trust mesh. One static binary.
-- [bruin-data/dac](https://github.com/bruin-data/dac) - dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
+- [bruin-data/dac](https://github.com/bruin-data/dac) - DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
 - [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [praetorian-inc/titus](https://github.com/praetorian-inc/titus) - High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation.
@@ -2085,7 +2085,7 @@
 
 ## JavaScript 
 
-- [vivekg13186/Daisy-DAG](https://github.com/vivekg13186/Daisy-DAG) - 
+- [vivekg13186/Daisy-workflow-](https://github.com/vivekg13186/Daisy-workflow-) - 
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-host
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
@@ -3001,7 +3001,6 @@
 - [scottydocs/README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
 - [EricZimmerman/KapeFiles](https://github.com/EricZimmerman/KapeFiles) - This repository serves as a place for community created Targets and Modules for use with KAPE.
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
-- [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [puresec/awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 - [maddiestone/ConPresentations](https://github.com/maddiestone/ConPresentations) - Slide decks from my conference presentations
 - [hmaverickadams/Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
@@ -3250,7 +3249,7 @@
 
 ## PowerShell 
 
-- [minhnv0807/fullstack-mkt-skills](https://github.com/minhnv0807/fullstack-mkt-skills) - 60 production-ready AI marketing skills (29 VN + 30 Global) for Claude Code, ChatGPT, Gemini & Copilot. 4 regions (US/EU/SEA/LATAM), Personal Brand + AI Avatar cluster, Dropshipping flagship for US/EU
+- [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills) - 60 production-ready AI marketing skills (29 VN + 30 Global) for Claude Code, ChatGPT, Gemini & Copilot. 4 regions (US/EU/SEA/LATAM), Personal Brand + AI Avatar cluster, Dropshipping flagship for US/EU
 - [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 - [DeveloperMetrics/lead-time-for-changes](https://github.com/DeveloperMetrics/lead-time-for-changes) - A GitHub Action to roughly calculate DORA lead time for changes
 - [atomiczsec/My-Payloads](https://github.com/atomiczsec/My-Payloads) - A collection of my payloads for the bash bunny, rubber ducky, FlipperZero, and OMG cable
@@ -3370,7 +3369,7 @@
 - [The-AI-Alliance/deep-research-agent-for-applications](https://github.com/The-AI-Alliance/deep-research-agent-for-applications) - Example apps that explores the challenges of building production-quality AI applications.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Our library for RL environments + evals
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text models
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -3605,7 +3604,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [entropy-research/Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 - [nkasmanoff/pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [kyegomez/Open-AF3](https://github.com/kyegomez/Open-AF3) - Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
@@ -4361,6 +4360,7 @@
 - [TheHive-Project/Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) - Cortex Analyzers Repository
 - [Raikia/UhOh365](https://github.com/Raikia/UhOh365) - A script that can see if an email address is valid in Office365 (user/email enumeration).  This does not perform any login attempts, is unthrottled, and is incredibly useful for social engineering ass
 - [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
+- [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [GoogleCloudPlatform/ml-on-gcp](https://github.com/GoogleCloudPlatform/ml-on-gcp) - Machine Learning on Google Cloud Platform
 - [TheresAFewConors/Sooty](https://github.com/TheresAFewConors/Sooty) - The SOC Analysts all-in-one CLI tool to automate and speed up workflow.
@@ -4970,7 +4970,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [Oxen-AI/Oxen](https://github.com/Oxen-AI/Oxen) - Lightning fast data version control system for structured and unstructured machine learning datasets. We aim to make versioning datasets as easy as versioning code.
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [evilsocket/medusa](https://github.com/evilsocket/medusa) - A fast and secure multi protocol honeypot.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -5321,7 +5321,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [therandomsecurityguy/khalifa](https://github.com/therandomsecurityguy/khalifa) - Agentless ingestion of AWS Org resources and Security Hub findings into a Neptune-backed security graph, with a risk and attack-path engine to identify security issues.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [glommer/codemogger](https://github.com/glommer/codemogger) - Codemogger is a code indexing library and MCP server for AI coding agents
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
@@ -5480,7 +5480,7 @@
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [dzhng/llm-api](https://github.com/dzhng/llm-api) - Fully typed & consistent chat APIs for OpenAI, Anthropic, Groq, and Azure's chat models for browser, edge, and node environments.
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
-- [redotvideo/haven](https://github.com/redotvideo/haven) - LLM fine-tuning and eval
+- [midrender/haven](https://github.com/midrender/haven) - LLM fine-tuning and eval
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
