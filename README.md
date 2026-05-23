@@ -413,7 +413,7 @@
 - [libriscv/drogon-sandbox](https://github.com/libriscv/drogon-sandbox) - 
 - [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
 - [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
-- [kevmo314/scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
+- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - Lupine is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
@@ -709,6 +709,7 @@
 
 ## Go 
 
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
 - [stoggi/sshrimp](https://github.com/stoggi/sshrimp) - 🦐SSH Certificate Authority in a Lambda (on the barbie)
 - [89luca89/clampdown](https://github.com/89luca89/clampdown) - Run AI coding agents in hardened container sandboxes.
 - [heygen-com/heygen-cli](https://github.com/heygen-com/heygen-cli) - Create AI videos from the terminal. Official CLI for the HeyGen video generation API.
@@ -718,7 +719,6 @@
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [Sambigeara/pollen](https://github.com/Sambigeara/pollen) - Distributed WASM runtime. Workloads place themselves over a zero-trust mesh. One static binary.
 - [bruin-data/dac](https://github.com/bruin-data/dac) - DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [praetorian-inc/titus](https://github.com/praetorian-inc/titus) - High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation.
@@ -2946,7 +2946,6 @@
 - [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt) - Collection of methodology and test case for various web vulnerabilities.
 - [magoo/Vault-for-Incident-Responders](https://github.com/magoo/Vault-for-Incident-Responders) - Things to know when DFIR occurs near a vault deployment.
 - [jaeles-project/jaeles-signatures](https://github.com/jaeles-project/jaeles-signatures) - Default signature for Jaeles Scanner
-- [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [madelinegannon/jetson-nano-accessories](https://github.com/madelinegannon/jetson-nano-accessories) - A variety of 3D printed mounts, adapters, and kits for NVIDIA's Jetson Nano.
 - [geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs) - This repository stores content that can be used to design a Rapid Threat Model Prototyping process for a software development group.
@@ -5317,7 +5316,7 @@
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [enmanuelmag/agent-harness-kit](https://github.com/enmanuelmag/agent-harness-kit) - A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
@@ -5326,6 +5325,7 @@
 - [willchen96/mike](https://github.com/willchen96/mike) - OSS AI Legal Platform
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [ftaip/waiting-game](https://github.com/ftaip/waiting-game) - 
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [rockcat/HATS](https://github.com/rockcat/HATS) - AI Personas
 - [chebykinn/agent-ruler](https://github.com/chebykinn/agent-ruler) - Enforce CLAUDE.md and skills
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
