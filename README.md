@@ -413,7 +413,7 @@
 - [libriscv/drogon-sandbox](https://github.com/libriscv/drogon-sandbox) - 
 - [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
 - [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
-- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - Lupine is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
+- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINE is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
