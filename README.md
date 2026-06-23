@@ -2505,6 +2505,7 @@
 - [Road-Balance/SpotMicroJetson](https://github.com/Road-Balance/SpotMicroJetson) - Let's make SpotMicro with Nvidia Jetson Nano.
 - [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v2
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
@@ -2818,7 +2819,6 @@
 - [automateyournetwork/automate_your_network](https://github.com/automateyournetwork/automate_your_network) - The book in PDF format for all to enjoy!
 - [AnbuKumar-maker/AI-on-Jetson-Nano](https://github.com/AnbuKumar-maker/AI-on-Jetson-Nano) - I have created a series of programs using NVIDIA Jetson Nano, Pi Camera and Logitech Web Camera. I installed OpenCV version 4 along with Python 3 to create these sample programs
 - [YahboomTechnology/Transbot_Jetson](https://github.com/YahboomTechnology/Transbot_Jetson) - Yahboom ROS Transbot Robot with Lidar Depth camera support MoveIt 3D mapping for Nvidia Jetson NANO 4GB B01
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
 - [weiweihuanghuang/Times-New-Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard) - It's Times New Roman but every seventh letter is jarringly sans serif
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
@@ -3294,9 +3294,10 @@
 
 ## Python 
 
+- [erev0s/VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [clawdbrunner/captcha-solver](https://github.com/clawdbrunner/captcha-solver) - CAPTCHA solver: CloakBrowser prevention + 2Captcha/CapSolver fallback. 30+ types supported.
@@ -4900,7 +4901,7 @@
 - [always-further/nono](https://github.com/always-further/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local-first microVM runtime
 - [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) - 
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
