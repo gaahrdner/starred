@@ -618,7 +618,7 @@
 
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [ScholarXIV/OpenScholarXIV](https://github.com/ScholarXIV/OpenScholarXIV) - OpenScholarXIV is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
@@ -867,6 +867,7 @@
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [edgelesssys/contrast](https://github.com/edgelesssys/contrast) - Deploy and manage confidential containers on Kubernetes
 - [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [knl/pulley](https://github.com/knl/pulley) - A service to expose Prometheus metrics of your CI’s validation of Pull Requests, using GitHub webhooks.
 - [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
@@ -1392,7 +1393,7 @@
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [evilsocket/joe](https://github.com/evilsocket/joe) - The Swiss Army knife for backend engineers.
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [grantr/cel-playground](https://github.com/grantr/cel-playground) - Playing around with CEL
@@ -2617,7 +2618,7 @@
 
 ## Kotlin 
 
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
+- [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 - [glasskube/operator](https://github.com/glasskube/operator) - 🧊 Glasskube Apps Operator
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -3258,7 +3259,6 @@
 - [atomiczsec/My-Payloads](https://github.com/atomiczsec/My-Payloads) - A collection of my payloads for the bash bunny, rubber ducky, FlipperZero, and OMG cable
 - [Z3BRO/FzDumps](https://github.com/Z3BRO/FzDumps) - I compiled all the dumps from https://github.com/djsime1/awesome-flipperzero and https://github.com/UberGuidoZ/Flipper into 2 organised folders.
 - [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) - This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.
-- [0xAnalyst/WebshellDetection-WMI-Yara](https://github.com/0xAnalyst/WebshellDetection-WMI-Yara) - 
 - [mitre-attack/attack-arsenal](https://github.com/mitre-attack/attack-arsenal) - A collection of red team and adversary emulation resources developed and released by MITRE.
 - [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator) - 
 - [ZeroDayLab/PowerSploit](https://github.com/ZeroDayLab/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
@@ -3295,6 +3295,8 @@
 
 ## Python 
 
+- [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [erev0s/VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -3618,7 +3620,6 @@
 - [nkasmanoff/pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [kyegomez/Open-AF3](https://github.com/kyegomez/Open-AF3) - Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -4448,7 +4449,7 @@
 - [cylance/CyBot](https://github.com/cylance/CyBot) - Open Source Threat Intelligence Chat Bot
 - [cylance/MarkovObfuscate](https://github.com/cylance/MarkovObfuscate) - Use Markov Chains to obfuscate data as other data
 - [keylime/keylime](https://github.com/keylime/keylime) - A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT
-- [ytisf/PyExfil](https://github.com/ytisf/PyExfil) - A Python Package for Data Exfiltration
+- [ytisf/PyExfil](https://github.com/ytisf/PyExfil) - PyExfil — Python 3 toolkit for researching and stress-testing data exfiltration techniques across network, physical, and steganographic channels. For red team simulation and DLP detection testing.
 - [dropbox/securitybot](https://github.com/dropbox/securitybot) - Distributed alerting for the masses!
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [duo-labs/dlint](https://github.com/duo-labs/dlint) - Dlint is a tool for encouraging best coding practices and helping ensure we're writing secure Python code.
@@ -5735,6 +5736,7 @@
 
 ## YARA 
 
+- [0xAnalyst/WebshellDetectionWMIYara](https://github.com/0xAnalyst/WebshellDetectionWMIYara) - WebShell Detection Through Yara and Powershell WMI Event Subscription
 - [sbousseaden/YaraHunts](https://github.com/sbousseaden/YaraHunts) - Random hunting ordiented yara rules
 - [mandiant/red_team_tool_countermeasures](https://github.com/mandiant/red_team_tool_countermeasures) - 
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
