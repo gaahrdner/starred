@@ -162,6 +162,7 @@
 
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [ruby/prism](https://github.com/ruby/prism) - Prism Ruby parser
+- [matz/spinel](https://github.com/matz/spinel) - 
 - [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [AncientJames/multivox](https://github.com/AncientJames/multivox) - 
@@ -2648,7 +2649,6 @@
 - [killall-q/HoloFFT](https://github.com/killall-q/HoloFFT) - Displays audio FFT as 3D point cloud visualizations.
 - [marcopixel/monstercat-visualizer](https://github.com/marcopixel/monstercat-visualizer) - A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
 - [docker-archive-public/docker.dockercraft](https://github.com/docker-archive-public/docker.dockercraft) - Docker + Minecraft = Dockercraft
-- [wehkamp/blaze-extreme-container-manager](https://github.com/wehkamp/blaze-extreme-container-manager) - Manage Mesos with a crowbar
 
 ## MDX 
 
@@ -4798,7 +4798,7 @@
 - [hrbrmstr/imago](https://github.com/hrbrmstr/imago) - 🗺Hacky World Map GeoJSON Based on the Imago Projection
 - [eusporg/alphaicon](https://github.com/eusporg/alphaicon) - α-Indirect Control in Onion-like Networks
 - [Derek-Jones/ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data) - Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"
-- [ipeaGIT/geobr](https://github.com/ipeaGIT/geobr) - Easy access to official spatial data sets of Brazil in R and Python
+- [ipea/geobr](https://github.com/ipea/geobr) - Easy access to official spatial data sets of Brazil in R and Python
 - [karthik/wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R
 
 ## Rich Text Format 
@@ -4814,7 +4814,6 @@
 ## Ruby 
 
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [matz/spinel](https://github.com/matz/spinel) - 
 - [aperoc/toolkami](https://github.com/aperoc/toolkami) - Simple Agents Made Easy
 - [rails/solid_queue](https://github.com/rails/solid_queue) - Database-backed Active Job backend
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
