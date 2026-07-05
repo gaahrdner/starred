@@ -691,6 +691,7 @@
 
 ## GDScript 
 
+- [satelliteoflove/godot-mcp](https://github.com/satelliteoflove/godot-mcp) - Give your AI assistant eyes and hands in the Godot editor: scene editing, input injection, deterministic playtesting, and live game state for agents
 - [flametime/Godot-SpacetimeDB-SDK](https://github.com/flametime/Godot-SpacetimeDB-SDK) - Unofficial SpacetimeDB SDK for Godot, written entirely in GDScript.
 - [lukky-nl/Pocket-Godot](https://github.com/lukky-nl/Pocket-Godot) - Starter Kit for mobile game development using Godot
 - [KenneyNL/Starter-Kit-FPS](https://github.com/KenneyNL/Starter-Kit-FPS) - 
@@ -1266,7 +1267,7 @@
 - [status-im/doubleratchet](https://github.com/status-im/doubleratchet) - The Double Ratchet Algorithm implementation in Go
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [ThePrimeagen/vim-with-me](https://github.com/ThePrimeagen/vim-with-me) - 
-- [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
+- [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R17
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [phua/ddclassify](https://github.com/phua/ddclassify) - Dewey Decimal Classifier
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -2086,6 +2087,7 @@
 
 ## JavaScript 
 
+- [tugcantopaloglu/godot-mcp](https://github.com/tugcantopaloglu/godot-mcp) - MCP server for full Godot 4.x engine control — 149 tools for AI-driven game development
 - [daisy-workflow/daisy-engine](https://github.com/daisy-workflow/daisy-engine) - AI orchestration platform
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
@@ -3123,7 +3125,6 @@
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [nodecg/awesome-nodecg](https://github.com/nodecg/awesome-nodecg) - A curated list of awesome NodeCG resources
 - [prettydiff/wisdom](https://github.com/prettydiff/wisdom) - Building better developers by specifying criteria of success
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Netflix/titus](https://github.com/Netflix/titus) - 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [rShetty/awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
@@ -3779,7 +3780,7 @@
 - [junruxiong/IncarnaMind](https://github.com/junruxiong/IncarnaMind) - Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
-- [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - OBD-II compliant automotive diagnostic software
+- [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - OBD-II compliant automotive diagnostic tool
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
 - [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
@@ -4615,6 +4616,7 @@
 - [awslabs/awsprocesscreds](https://github.com/awslabs/awsprocesscreds) - Process credential providers for AWS SDKs and Tools
 - [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
 - [phishai/phish-ai-api](https://github.com/phishai/phish-ai-api) - Official python API for Phish.AI public and private API to detect zero-day phishing websites
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Instant Stack Overflow results whenever an exception is thrown
@@ -4888,13 +4890,14 @@
 
 ## Rust 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [losfair/zeroserve](https://github.com/losfair/zeroserve) - Zero-config, fast `io_uring`-based HTTPS server.
 - [logannye/rosalind](https://github.com/logannye/rosalind) - A deterministic, low-memory genomics engine in Rust — run whole-genome workloads on your laptop. Declare your RAM, get a verifiable receipt, and reproduce results byte-for-byte.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [peterkelly/rex](https://github.com/peterkelly/rex) - The Rex Programming Language
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machines.
 - [nanograph/nanograph](https://github.com/nanograph/nanograph) - On-device property graph database. Schema-as-code. One CLI → One Folder. No Server. Think: DuckDB for graphs.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast, local, and universal code security scanner - written in Rust. Batteries included: supports 12 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
@@ -5353,7 +5356,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An AI-powered Life Operating System for Magnifying Human Capabilities
 - [zlwaterfield/radar](https://github.com/zlwaterfield/radar) - Radar sends you GitHub-related notifications in Slack. It handles intelligent notifications for PRs, issues, reviews, and comments.
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly!
