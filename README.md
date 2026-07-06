@@ -2746,6 +2746,7 @@
 
 ## Others 
 
+- [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) - Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator.
 - [taoeffect/tasks](https://github.com/taoeffect/tasks) - Long-running tasks skill for agents.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
@@ -3451,7 +3452,7 @@
 - [shadygm/ROSplat](https://github.com/shadygm/ROSplat) - The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
 - [intel/auto-round](https://github.com/intel/auto-round) - A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.
 - [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Transparent cognitive sandbox disguised as a Tamagotchi-style digital pet - watch brains grow & rewire through Hebbian learning & Neurogenesis
-- [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - The most accurate document search and store for building AI apps
+- [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - Open-source multimodal retrieval engine (Morphik Core). By Morphik — AI back office for skilled nursing & senior living (morphik.ai).
 - [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
 - [zai-org/GLM-4](https://github.com/zai-org/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - 
@@ -4890,6 +4891,7 @@
 
 ## Rust 
 
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [losfair/zeroserve](https://github.com/losfair/zeroserve) - Zero-config, fast `io_uring`-based HTTPS server.
 - [logannye/rosalind](https://github.com/logannye/rosalind) - A deterministic, low-memory genomics engine in Rust — run whole-genome workloads on your laptop. Declare your RAM, get a verifiable receipt, and reproduce results byte-for-byte.
@@ -4900,7 +4902,7 @@
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machines.
 - [nanograph/nanograph](https://github.com/nanograph/nanograph) - On-device property graph database. Schema-as-code. One CLI → One Folder. No Server. Think: DuckDB for graphs.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast, local, and universal code security scanner - written in Rust. Batteries included: supports 12 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 12 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [smartcomputer-ai/agent-os](https://github.com/smartcomputer-ai/agent-os) - Build autonomous AI agents! 🌞
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [NVIDIA/infra-controller](https://github.com/NVIDIA/infra-controller) - NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
