@@ -4954,7 +4954,7 @@
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
@@ -5298,7 +5298,6 @@
 ## Svelte 
 
 - [google/sec-gemini](https://github.com/google/sec-gemini) - Sec-Gemini  is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats.
-- [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 - [agnosticeng/agx](https://github.com/agnosticeng/agx) - AI Powered Analytics
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [filedescriptor/untrusted-types](https://github.com/filedescriptor/untrusted-types) - 
@@ -5425,6 +5424,7 @@
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) - Matterbridge plugin manager for Matter
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
