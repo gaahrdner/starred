@@ -911,7 +911,7 @@
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://tty.fail/mrus/superhighway84)
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine
@@ -1858,7 +1858,7 @@
 
 ## Groovy 
 
-- [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.
 
 ## HCL 
 
@@ -2685,7 +2685,7 @@
 - [MartinHeinz/go-project-blueprint](https://github.com/MartinHeinz/go-project-blueprint) - Blueprint/Boilerplate For Golang Projects
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker
+- [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk images (ab)using Docker
 - [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops, workstations and servers.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [cloudflare/hellogopher](https://github.com/cloudflare/hellogopher) - Hellogopher: "just clone and make" your conventional Go project
@@ -3591,7 +3591,7 @@
 - [normal-computing/extended-mind-transformers](https://github.com/normal-computing/extended-mind-transformers) - 
 - [slashml/amd_inference](https://github.com/slashml/amd_inference) - Docker-based inference engine for AMD GPUs
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
-- [ictnlp/LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
+- [BayLing-Models/BayLing-Speech](https://github.com/BayLing-Models/BayLing-Speech) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
 - [Clay-foundation/model](https://github.com/Clay-foundation/model) - The Clay Foundation Model - An open source AI model and interface for Earth
 - [Ligo-Biosciences/AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3) - Open source implementation of AlphaFold3
 - [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation
@@ -5408,6 +5408,7 @@
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [statespace-tech/statespace](https://github.com/statespace-tech/statespace) - Search for the agentic web.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [jontstaz/AI-Docker-Compose-Generator](https://github.com/jontstaz/AI-Docker-Compose-Generator) - Simply paste your Github Repo link and this app will generate a relevant Dockerfile + docker-compose.yaml to easily deploy any repo/project.
 - [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards
 - [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
