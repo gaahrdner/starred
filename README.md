@@ -3372,7 +3372,7 @@
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [DenizParlak/heimdall](https://github.com/DenizParlak/heimdall) - AWS Attack Path Scanner - Discover privilege escalation paths across 10+ AWS services
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [WeModulate/bitwig-mcp-server](https://github.com/WeModulate/bitwig-mcp-server) - MCP Server for Bitwig Studio
@@ -3492,7 +3492,7 @@
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Anilturaga/aiide](https://github.com/Anilturaga/aiide) - Pragmatic framework to build LLM Copilots
-- [matiasmolinas/evolving-agents](https://github.com/matiasmolinas/evolving-agents) - Your toolkit for autonomous, evolving agent ecosystems. Create, execute, govern, and evolve agents that learn from experience, collaborate, build new capabilities, and operate safely within defined gu
+- [EvolvingAgentsLabs/evolving-agents](https://github.com/EvolvingAgentsLabs/evolving-agents) - Your toolkit for autonomous, evolving agent ecosystems. Create, execute, govern, and evolve agents that learn from experience, collaborate, build new capabilities, and operate safely within defined gu
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
 - [qixucen/atom](https://github.com/qixucen/atom) - [NeurIPS 2025] Atom of Thoughts for Markov LLM Test-Time Scaling
@@ -4926,7 +4926,7 @@
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [nanograph/nanograph](https://github.com/nanograph/nanograph) - On-device property graph database. Schema-as-code. One CLI → One Folder. No Server. Think: DuckDB for graphs.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 12 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 14 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [smartcomputer-ai/agent-os](https://github.com/smartcomputer-ai/agent-os) - Build autonomous AI agents! 🌞
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [NVIDIA/infra-controller](https://github.com/NVIDIA/infra-controller) - NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
