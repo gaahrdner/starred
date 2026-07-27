@@ -2114,7 +2114,7 @@
 - [RooCodeInc/Roo-Code-Evals](https://github.com/RooCodeInc/Roo-Code-Evals) - Eval exercises for Roo Code.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) - Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source.
 - [vbguyny/ws4kp](https://github.com/vbguyny/ws4kp) - WeatherStar 4000+
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Erlang interpreter for Node-RED (visual flow based programming) with Elixir support
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
 - [WJDDesigns/Ultra-Vehicle-Card](https://github.com/WJDDesigns/Ultra-Vehicle-Card) - This custom card allows you to display vehicle information in your Home Assistant dashboard, including the vehicle name, image, and fuel or charge level.
@@ -2189,7 +2189,6 @@
 - [MuriungiPatrick/Bootstrap-5-portfolio-template](https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template) - Learning Bootstrap 5 with SASS
 - [priyank-purohit/PostGUI](https://github.com/priyank-purohit/PostGUI) - A React web application to query and share any PostgreSQL database.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [18F/fedramp-dashboard](https://github.com/18F/fedramp-dashboard) - 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [harish-garg/nextjs-reactjs-gpt-3](https://github.com/harish-garg/nextjs-reactjs-gpt-3) - GPT-3 Powered Serverless App using NextJS & React
@@ -3309,6 +3308,7 @@
 
 ## Python 
 
+- [gmrandazzo/CheapSecurity](https://github.com/gmrandazzo/CheapSecurity) - 
 - [berabuddies/Semia](https://github.com/berabuddies/Semia) - Semia, security audit for AI agent skills.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [apache/ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic
@@ -4125,6 +4125,7 @@
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.
 - [ankandrew/online-label-smoothing-pt](https://github.com/ankandrew/online-label-smoothing-pt) - Implementation of Online Label Smoothing  in PyTorch
 - [tkipf/gae](https://github.com/tkipf/gae) - Implementation of Graph Auto-Encoders in TensorFlow
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [terrytangyuan/distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed Machine Learning Patterns from Manning Publications by Yuan Tang https://bit.ly/2RKv8Zo
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [jivoi/pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included
@@ -4933,7 +4934,7 @@
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
 - [Stanford-Trinity/ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) - 
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
