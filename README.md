@@ -622,7 +622,6 @@
 
 ## Dart 
 
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [ScholarXIV/OpenScholarXIV](https://github.com/ScholarXIV/OpenScholarXIV) - OpenScholarXIV is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -3347,6 +3346,7 @@
 - [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
 - [outcomeops/context-engineering](https://github.com/outcomeops/context-engineering) - 
 - [sector07-dev/ALG-1-Photobioreactor](https://github.com/sector07-dev/ALG-1-Photobioreactor) - ALG-1 is a controlled photobioreactor designed for the cultivation of edible microalgae, specifically spirulina (Arthrospira Platensis). The system was developed to explore closed-loop nutrient genera
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [nehzux/DivideConquerAgents](https://github.com/nehzux/DivideConquerAgents) - [ICLR 2026] When Does Divide and Conquer Work for Long Context LLM? A Noise Decomposition Framework
 - [fulcrumresearch/ramure](https://github.com/fulcrumresearch/ramure) - 
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
@@ -5384,7 +5384,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
 - [zlwaterfield/radar](https://github.com/zlwaterfield/radar) - Radar sends you GitHub-related notifications in Slack. It handles intelligent notifications for PRs, issues, reviews, and comments.
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly!
