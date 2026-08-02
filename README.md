@@ -101,7 +101,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
-- [VHDL](#vhdl)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
@@ -222,6 +221,7 @@
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
+- [Time-Appliances-Project/Time-Card](https://github.com/Time-Appliances-Project/Time-Card) - Develop an end-to-end hypothetical reference model, network architectures, precision time tools, performance objectives and the methods to distribute, operate, monitor time synchronization within data
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [cromulencellc/hackasat-final-2020](https://github.com/cromulencellc/hackasat-final-2020) - Open source release of challenges and other code used in the 2020 Hack-a-Sat Final.
 - [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
@@ -946,7 +946,7 @@
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [makew0rld/didder](https://github.com/makew0rld/didder) - An extensive, fast, and accurate command-line image dithering tool.
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
@@ -3322,7 +3322,7 @@
 - [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [erev0s/VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -5165,6 +5165,7 @@
 - [escapingnetwork/core-keeper-dedicated](https://github.com/escapingnetwork/core-keeper-dedicated) - Dockerfile for automated build of a Core Keeper Dedicated Server
 - [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+- [jammsen/docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Dedicated Server
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [bach-sh/bach](https://github.com/bach-sh/bach) - Unit testing framework for developing cross-platform Bash unit tests
@@ -5497,7 +5498,6 @@
 - [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [cnoe-io/plugin-argo-workflows](https://github.com/cnoe-io/plugin-argo-workflows) - Backstage plugin for Argo Workflows
-- [jammsen/docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Dedicated Server
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -5732,10 +5732,6 @@
 ## V 
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-
-## VHDL 
-
-- [Time-Appliances-Project/Time-Card](https://github.com/Time-Appliances-Project/Time-Card) - Develop an end-to-end hypothetical reference model, network architectures, precision time tools, performance objectives and the methods to distribute, operate, monitor time synchronization within data
 
 ## Vim Script 
 
