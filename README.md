@@ -56,6 +56,7 @@
 - [Just](#just)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [MDX](#mdx)
@@ -1405,7 +1406,7 @@
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [grantr/cel-playground](https://github.com/grantr/cel-playground) - Playing around with CEL
 - [guiyomh/charlatan](https://github.com/guiyomh/charlatan) - Relying on brianvoe/gofakeit, Charlatan allows you to create a ton of fixtures/fake data for use while developing or testing your project. It is inspired by nelmio/alice.It gives you a few essential t
 - [cel-expr/cel-go](https://github.com/cel-expr/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
@@ -1810,7 +1811,7 @@
 - [mrserverless/serverless-golang](https://github.com/mrserverless/serverless-golang) - AWS Lambda Go functions using Serverless Framework and Python shim
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [gophergala/learn-Go-the-hard-way](https://github.com/gophergala/learn-Go-the-hard-way) - learn Go by coding.
 - [esimov/dithergo](https://github.com/esimov/dithergo) - Various dithering algorithms implemented in Go
@@ -2638,6 +2639,10 @@
 - [JetBrains/teamcity-hashicorp-vault-plugin](https://github.com/JetBrains/teamcity-hashicorp-vault-plugin) - TeamCity plugin to support HashiCorp Vault
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
+
+## Lean 
+
+- [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 
 ## Lua 
 
@@ -4488,7 +4493,6 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
-- [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64
@@ -4954,6 +4958,7 @@
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
+- [statespace-tech/statespace](https://github.com/statespace-tech/statespace) - Search for the agentic web.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -5415,7 +5420,6 @@
 - [badlogic/lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
-- [statespace-tech/statespace](https://github.com/statespace-tech/statespace) - Search for the agentic web.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [jontstaz/AI-Docker-Compose-Generator](https://github.com/jontstaz/AI-Docker-Compose-Generator) - Simply paste your Github Repo link and this app will generate a relevant Dockerfile + docker-compose.yaml to easily deploy any repo/project.
 - [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards
