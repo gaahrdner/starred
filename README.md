@@ -3270,7 +3270,7 @@
 
 ## PowerShell 
 
-- [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills) - 63 bilingual AI marketing skills (31 VN + 31 Global) for Claude Code, OpenCode, Codex, VS Code. Marketing strategy, content production, performance analytics, personal brand, AI avatar, dropshipping m
+- [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills) - 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI avat
 - [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 - [DeveloperMetrics/lead-time-for-changes](https://github.com/DeveloperMetrics/lead-time-for-changes) - A GitHub Action to roughly calculate DORA lead time for changes
 - [atomiczsec/My-Payloads](https://github.com/atomiczsec/My-Payloads) - A collection of my payloads for the bash bunny, rubber ducky, FlipperZero, and OMG cable
@@ -4795,7 +4795,6 @@
 - [Capgemini/Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
 - [DavidWittman/ansible-filebeat](https://github.com/DavidWittman/ansible-filebeat) - An Ansible role for Elastic's Filebeat log shipper
 - [micahhausler/container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [frutik/datadog-elastalerter](https://github.com/frutik/datadog-elastalerter) - Datadog alerter for Yelp/ElastAlert
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
@@ -4913,6 +4912,7 @@
 - [boxen/our-boxen](https://github.com/boxen/our-boxen) - Copy me for your team.
 - [austin-rb/Meetings](https://github.com/austin-rb/Meetings) - Slides, links, and media from past meetings - absences don't imply that no meeting happened then
 - [RailsApps/rails-stripe-membership-saas](https://github.com/RailsApps/rails-stripe-membership-saas) - An example Rails 4.2 app with Stripe and the Payola gem for a membership or subscription site.
+- [bploetz/versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 - [rodjek/puppet-lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide
 - [rodjek/rspec-puppet](https://github.com/rodjek/rspec-puppet) - RSpec tests for your Puppet manifests
 - [netfeed/cinchize](https://github.com/netfeed/cinchize) - Create a Cinch daemon from simple config files
@@ -5109,6 +5109,7 @@
 - [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
 ## SCSS 
 
