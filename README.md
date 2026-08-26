@@ -2535,7 +2535,7 @@
 - [fpgaminer/GPTQ-triton](https://github.com/fpgaminer/GPTQ-triton) - GPTQ inference Triton kernel
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. Join the course here 👇🏼
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
@@ -3471,7 +3471,7 @@
 - [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow) - DuckDB for streaming data
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 - [shadygm/ROSplat](https://github.com/shadygm/ROSplat) - The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
-- [intel/auto-round](https://github.com/intel/auto-round) - A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.
+- [intel/auto-round](https://github.com/intel/auto-round) - A SOTA quantization toolkit for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers|简洁且实用
 - [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Raise a neural network as a pet - a transparent cognitive sandbox where a digital squid learns, grows, and rewires itself via Hebbian learning & Neurogenesis
 - [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - Open-source multimodal retrieval engine (Morphik Core). By Morphik — AI back office for skilled nursing & senior living (morphik.ai).
 - [mkaz/libro](https://github.com/mkaz/libro) - A terminal based book tracking tool
@@ -4940,7 +4940,7 @@
 - [smartcomputer-ai/agent-os](https://github.com/smartcomputer-ai/agent-os) - Build autonomous AI agents! 🌞
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [NVIDIA/infra-controller](https://github.com/NVIDIA/infra-controller) - NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - safe execution paths for agents - zero trust, zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
