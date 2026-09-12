@@ -3332,7 +3332,6 @@
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [clawdbrunner/captcha-solver](https://github.com/clawdbrunner/captcha-solver) - CAPTCHA solver: CloakBrowser prevention + 2Captcha/CapSolver fallback. 30+ types supported.
 - [antoinezambelli/forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
-- [theoddden/Terradev](https://github.com/theoddden/Terradev) - An imperative command-line-interface for AI workload orchestration
 - [martimfasantos/ai-agents-frameworks](https://github.com/martimfasantos/ai-agents-frameworks) - The ultimate playground to learn, experiment with, and compare modern open-source AI agent frameworks — from basics to production-ready setups.
 - [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA) - high-performance linear attention kernel library built on TileLang
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -3382,7 +3381,7 @@
 - [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [WeModulate/bitwig-mcp-server](https://github.com/WeModulate/bitwig-mcp-server) - MCP Server for Bitwig Studio
-- [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
+- [apple-aiml-research/ml-sharp](https://github.com/apple-aiml-research/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
@@ -3402,7 +3401,7 @@
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [herniqeu/extract0](https://github.com/herniqeu/extract0) - Extract-0: A Specialized Language Model for Document Information
-- [apple/ml-simplefold](https://github.com/apple/ml-simplefold) - 
+- [apple-aiml-research/ml-simplefold](https://github.com/apple-aiml-research/ml-simplefold) - 
 - [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs
 - [finite-sample/rmcp](https://github.com/finite-sample/rmcp) - R MCP Server
 - [The-AI-Alliance/deep-research-agent-for-applications](https://github.com/The-AI-Alliance/deep-research-agent-for-applications) - Example apps that explores the challenges of building production-quality AI applications.
@@ -3689,7 +3688,7 @@
 - [nlmatics/nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the server side code for llmsherpa API to connect. It includes parsers for various file formats.
 - [Mihaiii/llm_steer](https://github.com/Mihaiii/llm_steer) - Steer LLM outputs towards a certain topic/subject and enhance response capabilities using activation engineering by adding steering vectors
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
-- [apple/ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints for AIMv1 and AIMv2 research projects.
+- [apple-aiml-research/ml-aim](https://github.com/apple-aiml-research/ml-aim) - This repository provides the code and model checkpoints for AIMv1 and AIMv2 research projects.
 - [B612-Asteroid-Institute/quivr](https://github.com/B612-Asteroid-Institute/quivr) - Python library for working with Arrow data in tabular form
 - [freckletonj/uniteai](https://github.com/freckletonj/uniteai) - Your AI Stack in Your Editor
 - [mzbac/mlx-lora](https://github.com/mzbac/mlx-lora) - 
@@ -3953,7 +3952,7 @@
 - [dbasch/semantic-search-tweets](https://github.com/dbasch/semantic-search-tweets) - Run semantic queries over your twitter history
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core) - 🤖 Build voice-based LLM agents. Modular + open source.
@@ -4138,7 +4137,7 @@
 - [jcrawfordor/cellscan](https://github.com/jcrawfordor/cellscan) - Mobile sensor to collect data useful in detecting use of IMSI catcher ("Stingray") devices. Loosely based on Project Seaglass from UWashington but with reduced cost/complexity. Still very much a work 
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [D00MFist/Mystikal](https://github.com/D00MFist/Mystikal) - macOS Initial Access Payload Generator
-- [commixproject/commix](https://github.com/commixproject/commix) - Automated exploitation of command injection vulnerabilities. From detection to full control of the underlying operating system.
+- [commixproject/commix](https://github.com/commixproject/commix) - Automated Αll-in-One OS command injection exploitation tool.
 - [HoloClean/holoclean](https://github.com/HoloClean/holoclean) - A Machine Learning System for Data Enrichment.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [CyberPunkMetalHead/Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) - This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me
@@ -4930,7 +4929,7 @@
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [losfair/zeroserve](https://github.com/losfair/zeroserve) - Zero-config, fast `io_uring`-based HTTPS server.
 - [logannye/rosalind](https://github.com/logannye/rosalind) - Deterministic, resource-governed per-locus genomics analyses with transactional artifacts, receipts, replay, Arrow, and reproducible sharding.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [peterkelly/rex](https://github.com/peterkelly/rex) - The Rex Programming Language
@@ -5387,7 +5386,7 @@
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [enmanuelmag/agent-harness-kit](https://github.com/enmanuelmag/agent-harness-kit) - A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [JamesIV4/nethack-3d](https://github.com/JamesIV4/nethack-3d) - A 3D client for playing NetHack on web, Windows, macOS and Android. It uses a fork of @neth4ck/neth4ck to run NetHack compiled into WebAssembly, with a React hooks/Zustand frontend handling input, and
 - [open-legal-products/mike](https://github.com/open-legal-products/mike) - OSS Legal AI Platform
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
@@ -5494,7 +5493,7 @@
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project management tool for tiny teams
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
