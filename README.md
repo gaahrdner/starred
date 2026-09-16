@@ -185,6 +185,7 @@
 - [hgarrereyn/GraphFuzz](https://github.com/hgarrereyn/GraphFuzz) - GraphFuzz is an experimental framework for building structure-aware, library API fuzzers.
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
 - [hanatos/sioux](https://github.com/hanatos/sioux) - sioux is not comanche 3
+- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINE is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [cepa/aegir-gps-tracker](https://github.com/cepa/aegir-gps-tracker) - Aegir GPS/LTE/Iridium Tracker
 - [newaetech/chipshouter-picoemp](https://github.com/newaetech/chipshouter-picoemp) - Why not run micropython on your EMFI tool?
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
@@ -425,7 +426,6 @@
 - [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
-- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINE is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
@@ -721,6 +721,7 @@
 
 ## Go 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [ownweights/argus](https://github.com/ownweights/argus) - Open-source AI QA agent. Argus tests web apps like a human tester would: visual navigation, real workflows, evidence-backed reports.
 - [lace-ai/gai](https://github.com/lace-ai/gai) - 🤖 Type-safe, provider-neutral agent runtime for Go with native tools, memory, and OpenTelemetry
 - [perplexityai/numbat](https://github.com/perplexityai/numbat) - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.
@@ -745,7 +746,7 @@
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [rvitorper/go-bt](https://github.com/rvitorper/go-bt) - Minimalist BT implementation in Go
 - [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [NVIDIA/infra-controller-rest](https://github.com/NVIDIA/infra-controller-rest) - NVIDIA Infra Controller - Hardware Lifecycle Management (REST API)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
@@ -929,7 +930,7 @@
 - [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [zknill/sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - A toolbox for working with WebRTC, Audio and AI
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
@@ -3110,7 +3111,6 @@
 - [praetorian-inc/Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
 - [chartshq/muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach now powered by WebAssembly
 - [NicolaBernini/Course_Statistics](https://github.com/NicolaBernini/Course_Statistics) - Material related to an Introductory Statistics Course
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [mauricesvay/awesome-vr-ux](https://github.com/mauricesvay/awesome-vr-ux) - Awesome VR UX
@@ -4852,7 +4852,7 @@
 - [aperoc/toolkami](https://github.com/aperoc/toolkami) - Simple Agents Made Easy
 - [rails/solid_queue](https://github.com/rails/solid_queue) - Database-backed Active Job backend
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.
 - [trailofbits/ruzzy](https://github.com/trailofbits/ruzzy) - A coverage-guided fuzzer for pure Ruby code and Ruby C extensions
 - [ankane/transformers-ruby](https://github.com/ankane/transformers-ruby) - State-of-the-art transformers for Ruby
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
@@ -4873,6 +4873,7 @@
 - [dotless-de/vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - A Vagrant plugin to keep your VirtualBox Guest Additions up to date
 - [inspec/inspec-gcp](https://github.com/inspec/inspec-gcp) - InSpec GCP (Google Cloud Platform) Resource Pack
 - [lagrange-automation/inspec-terraform](https://github.com/lagrange-automation/inspec-terraform) - InSpec resources for interacting with Terraform variables and outputs.
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [sinclairtarget/um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff
 - [thisredone/rb](https://github.com/thisredone/rb) - Turns Ruby into a versatile command line utility
