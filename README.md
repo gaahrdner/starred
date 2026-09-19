@@ -206,6 +206,7 @@
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [ldpreload/BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
 - [Spritetm/picframe_colepd](https://github.com/Spritetm/picframe_colepd) - A WiFi picture frame allowing for remote photo uploads, using an ESP32-C3 and a 5.6" color E-ink display
+- [function3d/petalot](https://github.com/function3d/petalot) - PET Bottle To 3D Filament
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
@@ -458,7 +459,6 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [function3d/petalot](https://github.com/function3d/petalot) - PET Bottle To 3D Filament
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -721,7 +721,7 @@
 
 ## Go 
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [ownweights/argus](https://github.com/ownweights/argus) - Open-source AI QA agent. Argus tests web apps like a human tester would: visual navigation, real workflows, evidence-backed reports.
 - [lace-ai/gai](https://github.com/lace-ai/gai) - 🤖 Type-safe, provider-neutral agent runtime for Go with native tools, memory, and OpenTelemetry
 - [perplexityai/numbat](https://github.com/perplexityai/numbat) - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.
@@ -1904,7 +1904,7 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 - [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general 
 - [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings) - 
@@ -3406,7 +3406,7 @@
 - [netboxlabs/netbox-mcp-server](https://github.com/netboxlabs/netbox-mcp-server) - Model Context Protocol (MCP) server for read-only interaction with NetBox data in LLMs
 - [finite-sample/rmcp](https://github.com/finite-sample/rmcp) - R MCP Server
 - [The-AI-Alliance/deep-research-agent-for-applications](https://github.com/The-AI-Alliance/deep-research-agent-for-applications) - Example apps that explores the challenges of building production-quality AI applications.
-- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/microdot
 - [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Our library for RL environments + evals
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
@@ -4316,6 +4316,7 @@
 - [GoSecure/malboxes](https://github.com/GoSecure/malboxes) - Builds malware analysis Windows VMs so that you don't have to.
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+- [ipea/geobr](https://github.com/ipea/geobr) - Easy access to official spatial data sets of Brazil in R and Python
 - [log2timeline/dftimewolf](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [tothi/pwn-hisilicon-dvr](https://github.com/tothi/pwn-hisilicon-dvr) - 
@@ -4836,7 +4837,6 @@
 - [hrbrmstr/imago](https://github.com/hrbrmstr/imago) - 🗺Hacky World Map GeoJSON Based on the Imago Projection
 - [eusporg/alphaicon](https://github.com/eusporg/alphaicon) - α-Indirect Control in Onion-like Networks
 - [Derek-Jones/ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data) - Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"
-- [ipea/geobr](https://github.com/ipea/geobr) - Easy access to official spatial data sets of Brazil in R and Python
 - [karthik/wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R
 
 ## Rich Text Format 
@@ -4930,7 +4930,7 @@
 - [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [losfair/zeroserve](https://github.com/losfair/zeroserve) - Zero-config, fast `io_uring`-based HTTPS server.
-- [logannye/rosalind](https://github.com/logannye/rosalind) - Deterministic, resource-governed per-locus genomics analyses with transactional artifacts, receipts, replay, Arrow, and reproducible sharding.
+- [logannye/rosalind](https://github.com/logannye/rosalind) - Reusable genomic evidence for research and analysis tools: exact read evidence, portable datasets, and managed analyzers.
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
@@ -5327,7 +5327,7 @@
 ## Swift 
 
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
-- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
+- [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
 - [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [unixpickle/honeycrisp](https://github.com/unixpickle/honeycrisp) - 🍎 A Swift framework for deep learning on Apple Silicon
@@ -5447,7 +5447,7 @@
 - [jsonresume/mcp](https://github.com/jsonresume/mcp) - The registry mcp server updates your resume while you code
 - [rforgeon/agent-honeypot](https://github.com/rforgeon/agent-honeypot) - 
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) - Matterbridge plugin manager for Matter
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
